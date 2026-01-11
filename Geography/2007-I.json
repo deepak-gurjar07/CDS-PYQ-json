@@ -1,0 +1,74 @@
+{
+    "Geography 2007-I": [
+        {
+            "subject": "Geography",
+            "year": "2007",
+            "cycle": "I",
+            "question": "Among the following forest types in India, which one occupies the largest area?",
+            "options": [
+                "Tropical wet evergreen forest",
+                "Tropical moist deciduous forest",
+                "Sub-tropical dry evergreen forest",
+                "Montane wet temperate forest"
+            ],
+            "answer": "Tropical moist deciduous forest",
+            "explanation": "(b)  The Moist deciduous forests are more pronounced in the regions which record rainfall between 100-200cm. These forests are found in the northeastern states along the foothills of Himalayas, easteren slopes of the Western Ghats and Odisha. Tropical moist deciduous forest covers arounds 37% of the total cover in India which is the largest occupied area among 16 different forest types of the country."
+        },
+        {
+            "subject": "Geography",
+            "year": "2007",
+            "cycle": "I",
+            "question": "The National Forestry Action Plan aims to bring 33% of land area in India under tree cover by which year?",
+            "options": [
+                "2008",
+                "2012",
+                "2016",
+                "2020"
+            ],
+            "answer": "2012",
+            "explanation": "(b)  The National Forestry Action Plan aims to bring 33% of land area in India under tree cover by 2012. 3. (d) Govind Ballabh Pant Sagar is on the Rihand River which is the tributary of the Son River."
+        },
+        {
+            "subject": "Geography",
+            "year": "2007",
+            "cycle": "I",
+            "question": "The reservoir GB Pant Sagar is located on which river?",
+            "options": [
+                "Betwa",
+                "Ghaghara",
+                "Kosi",
+                "Rihand"
+            ],
+            "answer": "",
+            "explanation": ""
+        },
+        {
+            "subject": "Geography",
+            "year": "2007",
+            "cycle": "I",
+            "question": "Which one of the following national parks is located near Chamoli?",
+            "options": [
+                "Dudhwa National Park",
+                "Great Himalayan Park",
+                "Jim Corbett National Park",
+                "Nanda Devi National Park"
+            ],
+            "answer": "Nanda Devi National Park",
+            "explanation": "(d)  The Nanda Devi National Park is a national park situated around the peak of Nanda Devi (7,816 m).  It is situated in Chamoli district, Uttarakhand."
+        },
+        {
+            "subject": "Geography",
+            "year": "2007",
+            "cycle": "I",
+            "question": "Which one of the following cities is located on the banks of the River St Lawrence?",
+            "options": [
+                "Chicago",
+                "Detroit",
+                "Montreal",
+                "Vancouver"
+            ],
+            "answer": "Montreal",
+            "explanation": "(c)  Montreal is Situated on the bank of river st. lowrence."
+        }
+    ]
+}

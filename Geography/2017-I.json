@@ -1,0 +1,67 @@
+{
+    "Geography 2017-I": [
+        {
+            "subject": "Geography",
+            "year": "2017",
+            "cycle": "I",
+            "question": "The ratio of gross cropped area to the net sown area is called",
+            "options": [
+                "cropping intensity",
+                "intensity of crop rotation",
+                "crop productivity",
+                "cropping diversity"
+            ],
+            "answer": "",
+            "explanation": ""
+        },
+        {
+            "subject": "Geography",
+            "year": "2017",
+            "cycle": "I",
+            "question": "Which one of the following is the correct sequence of occurrences of rivers from Chennai to Kolkata when travelled by road (shortest distance)?",
+            "options": [
+                "Krishna, Kaveri, Godavari, Mahanadi, Subarnarekha",
+                "Krishna, Periyar, Godavari, Mahanadi, Subarnarekha",
+                "Penneru, Krishna, Godavari, Mahanadi, Subarnarekha",
+                "Penneru, Mahanadi, Subarnarekha, Godavari, Krishna"
+            ],
+            "answer": "",
+            "explanation": ""
+        },
+        {
+            "subject": "Geography",
+            "year": "2017",
+            "cycle": "I",
+            "question": "Which one of the following statements with regard to volcanoes is not correct?",
+            "options": [
+                "Stratovolcanoes produce lava flows that initially follow valleys but are highly resistant to erosion.",
+                "The surrounding areas can remain highlands, lava ridges or mesas.",
+                "Hawaiian shield volcanoes are eroded by streams that form deeply carved valleys with steeply sloping heads.",
+                "The system of streams on a dissected volcano cone is not a radial drainage pattern."
+            ],
+            "answer": "",
+            "explanation": ""
+        },
+        {
+            "subject": "Geography",
+            "year": "2017",
+            "cycle": "I",
+            "question": "Which of the following statements with regard to the Mediterranean agriculture is/ are correct?",
+            "options": [],
+            "answer": "",
+            "explanation": ""
+        },
+        {
+            "subject": "Geography",
+            "year": "2017",
+            "cycle": "I",
+            "question": "Which one of the following statements  with regard to the winter solstice is correct?",
+            "options": [
+                "The South Pole experiences 24 hours of darkness.",
+                "It occurs on June"
+            ],
+            "answer": "",
+            "explanation": ""
+        }
+    ]
+}
