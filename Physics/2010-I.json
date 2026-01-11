@@ -1,0 +1,55 @@
+{
+    "Physics 2010-I": [
+        {
+            "subject": "Physics",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Hair of a shaving brush cling together when the brush is removed from water due to",
+            "options": [
+                "viscosity",
+                "surface tension",
+                "friction",
+                "elasticity"
+            ],
+            "answer": "surface tension",
+            "explanation": "(b)  When brush is taken out, the water film is formed between the hairs and they contract due to surface tension."
+        },
+        {
+            "subject": "Physics",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Consider the following statements",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  The appearance of blue colour of sky is due to scattering of light which is not possible in absence of atmosphere."
+        },
+        {
+            "subject": "Physics",
+            "year": "2010",
+            "cycle": "I",
+            "question": "The most familiar form of radiant energy in sunlight that causes tanning and sunburning of human skin, is called",
+            "options": [
+                "ultraviolet radiation",
+                "visible radiation",
+                "infrared radiation",
+                "microwave radiation"
+            ],
+            "answer": "ultraviolet radiation",
+            "explanation": "(a)  The tanning and sun burning of human skin is due to the harmful ultraviolet radiation from the sun. 2 u sin 2 q"
+        },
+        {
+            "subject": "Physics",
+            "year": "2010",
+            "cycle": "I",
+            "question": "A boy throws four stones of same shape, size and weight with equal speed at different initial angles with the horizontal line. If the angles are 15°, 30°, 45° and 60°, at which angle the stone will cover the maximum horizontally?",
+            "options": [
+                "15°",
+                "30°",
+                "45°",
+                "60°"
+            ],
+            "answer": "45°",
+            "explanation": "(c)  Horizontal range R = g For maximum horizontal range q should be 45° 2 u g [ ] sin2 sin90 1 q = ° = Q Rmax ="
+        }
+    ]
+}

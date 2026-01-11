@@ -1,0 +1,69 @@
+{
+    "Physics 2009-I": [
+        {
+            "subject": "Physics",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Television signal cannot be received generally beyond a particular distance due to",
+            "options": [
+                "curvature of the Earth",
+                "weakness of antenna",
+                "weakness of signal",
+                "absorption of signal in air"
+            ],
+            "answer": "curvature of the Earth",
+            "explanation": "(a)  Curvature of the earth does not allow the television signals to be received beyond a particular distance."
+        },
+        {
+            "subject": "Physics",
+            "year": "2009",
+            "cycle": "I",
+            "question": "If a small raindrop falls through air",
+            "options": [
+                "its velocity goes on increasing",
+                "its velocity goes on decreasing",
+                "its velocity goes on increasing for sometime and then becomes constant",
+                "it falls with constant speed for sometime and then its velocity increases"
+            ],
+            "answer": "its velocity goes on increasing for sometime and then becomes constant",
+            "explanation": "(c)  Velocity of raindrop increases until it reaches the terminal velocity."
+        },
+        {
+            "subject": "Physics",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Consider the following satements  X-rays",
+            "options": [],
+            "answer": "b",
+            "explanation": "(b)  X-rays cannot be deflected by magnetic field as they consists of no charge. 202. If x is the temperature of a system in Kelvin and y is the temperature of the system in °C, then the correct relation between them is [2020-I] (a) x = 273 – y (b) x = 273 + y (c) x = 173 + y (d) x = 173 –y 203. The resistivity r of a material may be expressed in units of [2020-I] (a) ohm (b) ohm/cm (c) ohm-cm (d) ohm-cm2 204. The electromagnetic waves, which are used for satellite communication, are [2020-I] (a) infrared radiations (b) ultraviolet radiations (c) radio waves (d) visible lights X-rays and UV rays are electromagnetic wave, so they move with same velocity in vacuum i.e. 3 × 108 m/s."
+        },
+        {
+            "subject": "Physics",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Which one of the following is the permissible level of noise in a silent zone at day time?",
+            "options": [
+                "50 dB",
+                "60 dB",
+                "65 dB",
+                "75 dB"
+            ],
+            "answer": "50 dB",
+            "explanation": "(a)  The permissible level is 50 dB."
+        },
+        {
+            "subject": "Physics",
+            "year": "2009",
+            "cycle": "I",
+            "question": "By which one of the following, an old written material which cannot be read easily, can be read",
+            "options": [
+                "g-rays",
+                "X-rays",
+                "IR-rays",
+                "Radiofrequency waves"
+            ],
+            "answer": "IR-rays",
+            "explanation": "(c)  Infrared rays helps in reading an old written material."
+        }
+    ]
+}

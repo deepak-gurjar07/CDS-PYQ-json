@@ -1,0 +1,18 @@
+{
+    "Physics 2015-I": [
+        {
+            "subject": "Physics",
+            "year": "2015",
+            "cycle": "I",
+            "question": "Statement I : When a gun is fired it recoils, i.e., it pushes back, with much less velocity than the velocity of the bullet. Statement II : Velocity of the recoiling gun is less because the gun is much heavier than the bullet.",
+            "options": [
+                "Both Statement I and Statement II are individually true and Statement II is the correct explanation of Statement I",
+                "Both Statement I and Statement II are individually true but Statement II is NOT the correct explanation of Statement I",
+                "Statement I is true but Statement II is false",
+                "Statement I is false but Statement II is true"
+            ],
+            "answer": "Both Statement I and Statement II are individually true and Statement II is the correct explanation of Statement I",
+            "explanation": "(a) "
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "Physics 2014-II": [
+        {
+            "subject": "Physics",
+            "year": "2014",
+            "cycle": "II",
+            "question": "The upper and lower portions in common type of bi-focal lenses are respectively",
+            "options": [
+                "concave and convex",
+                "convex and concave",
+                "both concave of different focal lengths",
+                "both convex of different focal lengths"
+            ],
+            "answer": "concave and convex",
+            "explanation": "(a)  The upper and lower portions in common type of bifocal lenses are concave and convex respectively."
+        },
+        {
+            "subject": "Physics",
+            "year": "2014",
+            "cycle": "II",
+            "question": "Tungsten is used for the construction of filament in electric bulb because of its",
+            "options": [
+                "high specific resistance",
+                "low specific resistance",
+                "high light emitting power",
+                "high melting point"
+            ],
+            "answer": "high melting point",
+            "explanation": "(d)  Tungsten has the highest melting point and lowest vapour pressure of all metals."
+        },
+        {
+            "subject": "Physics",
+            "year": "2014",
+            "cycle": "II",
+            "question": "Inactive Nitrogen and Argon gases are usually used in electric bulbs in order to",
+            "options": [
+                "increase the intensity of light emitted",
+                "increase the life of the filament",
+                "make the emitted light coloured",
+                "make the production of bulb economical"
+            ],
+            "answer": "increase the life of the filament",
+            "explanation": "(b)  The inert gas within the bulb prevents the filament from evaporating.Thus it increases the life of the filament."
+        },
+        {
+            "subject": "Physics",
+            "year": "2014",
+            "cycle": "II",
+            "question": "In the phenomenon of dispersion of light, the light wave of shortest wavelength is",
+            "options": [
+                "accelerated and refracted the most",
+                "slowed down and refracted the most",
+                "accelerated and refracted the least",
+                "slowed down and refracted the least"
+            ],
+            "answer": "slowed down and refracted the most",
+            "explanation": "(b)  Short wavelength is slowed down and refracted the most"
+        },
+        {
+            "subject": "Physics",
+            "year": "2014",
+            "cycle": "II",
+            "question": "An oscilloscope is an instrument which allows us to see waves produced by",
+            "options": [
+                "Visible light",
+                "X-rays",
+                "Sound",
+                "Gamma rays"
+            ],
+            "answer": "Sound",
+            "explanation": "(c)  Oscilloscope is an instrument which allows us to see waves produced by sound. The microphone can then pick up the sound and convert it to an electrical signal which can be displayed on the oscilloscope."
+        },
+        {
+            "subject": "Physics",
+            "year": "2014",
+            "cycle": "II",
+            "question": "The distribution of electrons into different orbits of an atom, as suggested by Bohr; is",
+            "options": [
+                "2 electrons in the K-orbit, 6 electrons in the L-orbit, 18 electrons in the M-orbit",
+                "2 electrons in the K-orbit, 8 electrons in the L-orbit, 32 electrons in the M-orbit",
+                "2 electrons in the K-orbit, 8 electrons in the L-orbit, 18 electrons in the M-orbit",
+                "2 electrons in the K-orbit, 8 electrons in the L-orbit, 16 electrons in the M-orbit"
+            ],
+            "answer": "2 electrons in the K-orbit, 8 electrons in the L-orbit, 18 electrons in the M-orbit",
+            "explanation": "(c)  Maximum n of electrons in K,L, M and N is 2, 8, 18 and 32 respectively."
+        },
+        {
+            "subject": "Physics",
+            "year": "2014",
+            "cycle": "II",
+            "question": "Carbon or Graphite rods are used in atomic reactors as moderators for sustained nuclear chain reaction through nuclear fission process. In this process",
+            "options": [
+                "the neutrons are made fast",
+                "the protons are made fast",
+                "the neutrons are made slow",
+                "the protons are made slow"
+            ],
+            "answer": "the neutrons are made slow",
+            "explanation": "(c)  Moderators like carbon and Graphite are used for slowing down the neutrons in a nuclear reactor. Neutrons from fission have very high speeds and must be slowed greatly by \"moderation\" to maintain the chain reaction."
+        },
+        {
+            "subject": "Physics",
+            "year": "2014",
+            "cycle": "II",
+            "question": "distance time The distance-time graph for an object is shown above. Which one of the following statements holds true for this object ?",
+            "options": [
+                "The object is moving with uniform speed",
+                "The object is at rest",
+                "The object is having non-linear motion",
+                "The object is moving with non-uniform speed Physics 6"
+            ],
+            "answer": "The object is at rest",
+            "explanation": "(b) "
+        },
+        {
+            "subject": "Physics",
+            "year": "2014",
+            "cycle": "II",
+            "question": "For a harmonic oscillator, the graph between momentum p and displacement q would come out as",
+            "options": [
+                "a straight line",
+                "a parabola",
+                "a circle",
+                "an ellipse DIRECTION (Q. 100): The following question consist of two statements, Statement I and Statement II. You are to examine these two statements carefully and select the answers to these items using the code given below : Code :",
+                "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+                "Both the statements are individually true, but Statement II is not the correct explanation of Statement I.",
+                "Statement I is true, but Statement II is false.",
+                "Statement I is false, but statement II is true."
+            ],
+            "answer": "an ellipse DIRECTION (Q. 100): The following question consist of two statements, Statement I and Statement II. You are to examine these two statements carefully and select the answers to these items using the code given below : Code :",
+            "explanation": "(d) "
+        }
+    ]
+}

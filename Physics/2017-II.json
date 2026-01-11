@@ -1,0 +1,15 @@
+{
+    "Physics 2017-II": [
+        {
+            "subject": "Physics",
+            "year": "2017",
+            "cycle": "II",
+            "question": "The wires are made having same length l and area of cross- section A. Wire 1 is made of copper and wire 2 is made of aluminium. It is given that the electrical conductivity of copper is more than that of aluminium. In this context, which one of the following statements is correct?",
+            "options": [
+                "The resistance of wire 1 will be higher than that of wire"
+            ],
+            "answer": "b",
+            "explanation": "(b)  The resistance of wire 2 will be higher than that of wire 1. 144. (d) the ray of light will undergo a deviation of 80 degrees."
+        }
+    ]
+}

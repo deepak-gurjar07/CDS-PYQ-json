@@ -1,0 +1,74 @@
+{
+    "Physics 2009-II": [
+        {
+            "subject": "Physics",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Earthquake (shock) waves are",
+            "options": [
+                "infrasonic waves",
+                "ultrasonic waves",
+                "seismic",
+                "infrared waves"
+            ],
+            "answer": "seismic",
+            "explanation": "(c)  An Earthquake is the result of a sudden release of energy in the Earth's crust that creates seismic waves."
+        },
+        {
+            "subject": "Physics",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Laser is a device to produce",
+            "options": [
+                "a beam of white light",
+                "coherent light",
+                "microwaves",
+                "X-rays Physics 2"
+            ],
+            "answer": "coherent light",
+            "explanation": "(b)  A laser is a device that emits coherent light through a process called stimulated emission."
+        },
+        {
+            "subject": "Physics",
+            "year": "2009",
+            "cycle": "II",
+            "question": "A perfect black body has the unique characteristic feature as",
+            "options": [
+                "a good absorber only",
+                "a good radiator only",
+                "a good absorber and a good radiator",
+                "neither a radiator nor an absorber"
+            ],
+            "answer": "a good absorber and a good radiator",
+            "explanation": "(c)  A perfect black body emits and absorbs all colours of light. A good absorber is a good emitter."
+        },
+        {
+            "subject": "Physics",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Fat can be separated from milk in a cream separation because of",
+            "options": [
+                "cohesive force",
+                "gravitational force",
+                "centrifugal force",
+                "centripetal force"
+            ],
+            "answer": "centrifugal force",
+            "explanation": "(c)  Centrifugal force separates fat from milk."
+        },
+        {
+            "subject": "Physics",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Which one of the following is not result of surface tension?",
+            "options": [
+                "Vapour formation above the liquid surface",
+                "Convex shape of liquid meniscus",
+                "Liquid rising in a capillary",
+                "Spherical shape of mercury fallen on the floor"
+            ],
+            "answer": "Vapour formation above the liquid surface",
+            "explanation": "(a) "
+        }
+    ]
+}

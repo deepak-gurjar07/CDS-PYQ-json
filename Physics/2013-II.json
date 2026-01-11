@@ -1,0 +1,442 @@
+{
+    "Physics 2013-II": [
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "The time period of a simple pendulum having a spherical wooden bob is 2 s. If the bob is replaced by a metallic one twice as heavy, the time period will be",
+            "options": [
+                "more than 2 s",
+                "2s",
+                "1 s",
+                "less than 1 s"
+            ],
+            "answer": "2s",
+            "explanation": "(b)  Time period of a simple pendulum l p depends on its length 'l ' and acceleration due T = 2 g to gravity 'g' and independent of mass of the bob."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "A liquid is kept in a regular cylindrical vessel upto a certain height. If this vessel is replaced by another cylindrical vessel having half the area of cross-section of the bottom, the pressure on the bottom will",
+            "options": [
+                "remain unaffected",
+                "be reduced to half the earlier pressure",
+                "be increased to twice the earlier pressure",
+                "be reduced to one-fourth the earlier pressure"
+            ],
+            "answer": "remain unaffected",
+            "explanation": "(a)  Pressure exerted by the fluid column depends on height (h), density r and acceleration due to gravity (g). P = hrg i.e. independent of area of cross-section of the vessel."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "In SONAR, we use",
+            "options": [
+                "ultrasonic waves",
+                "infrasonic waves",
+                "radio waves",
+                "audible sound waves"
+            ],
+            "answer": "ultrasonic waves",
+            "explanation": "(a)  Sonar (sound navigation and ranging) is a technique that uses sound propagation to navigate (usually under water, as in submarine navigation), communicate with or detect objects on or under the surface of the water, such as the vessels as ultrasonic waves which is used having very high frequency > 20,000 Hz."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Two identical piano wires have same fundamental frequency when kept under the same tension. What will happen if tension of one of the wire is slightly increased and both the wires are made to vibrate simultaneously?",
+            "options": [
+                "Noise",
+                "Beats",
+                "Resonance",
+                "Non-linear effects"
+            ],
+            "answer": "Beats",
+            "explanation": "(b) "
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "After rising a short distance the smooth column of smoke from a cigarette breaks up into an irregular and random pattern. In a similar fashion, a stream of fluid flowing past an obstacle breaks up into eddies and vortices which give the flow irregular velocity components transverse to the flow direction. Other examples include the wakes left in water by moving ships the sound produced by whistling and by wind instruments. These examples are the results of",
+            "options": [
+                "laminar flow of air",
+                "streamline flow of air",
+                "turbulent flow of air",
+                "viscous flow at low speed"
+            ],
+            "answer": "turbulent flow of air",
+            "explanation": "(c)  Turbulent flow is accompanied by random, irregular, local circular currents called vortices."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Which one among the following correctly defines a unit magnetic pole in SI units?  It is the pole which when placed in air at a distance of",
+            "options": [
+                "1 foot from an equal and a similar poled repels it with a force of 1 pound",
+                "1 m from an equal and a similar pole repels it with a force of 1 N",
+                "1 cm from an equal and a similar pole repels it with a force of 1 dyne",
+                "1 metre from an equal and a similar pole repels it with a force of 1 N/m2 Physics 4"
+            ],
+            "answer": "1 m from an equal and a similar pole repels it with a force of 1 N",
+            "explanation": "(b) "
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Before X-ray examination (coloured X-ray) of the stomach, patients are given suitable salt of barium because",
+            "options": [
+                "barium salts are white in colour and this helps stomach to appear clearly",
+                "barium is a good absorber of X-rays and helps stomach to appear clearly",
+                "barium salts are easily available",
+                "barium allows X-rays to pass through the stomach"
+            ],
+            "answer": "barium is a good absorber of X-rays and helps stomach to appear clearly",
+            "explanation": "(b)  Barium is a good absorber of X-rays and helps stomach to appear clearly."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "The best colours for a sun umbrella will be",
+            "options": [
+                "black on top and red on inside",
+                "black on top and white on inside",
+                "red on top and black on inside",
+                "white on top and black on inside"
+            ],
+            "answer": "white on top and black on inside",
+            "explanation": "(d)  As white colour reflects all the components of white light and black colour absorbs all the components of white light. So, the best colours for a sun umbrella, white on  top and black on inside."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "When ice melts, its",
+            "options": [
+                "volume decreases",
+                "volume increases",
+                "volume and mass both decrease",
+                "volume decreases while mass increases"
+            ],
+            "answer": "volume decreases",
+            "explanation": "(a)  When ice melts its density increases i.e. its volume decreases. Mass is an invariant quantity."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "In step-down transformer, the AC output gives the",
+            "options": [
+                "current more than the input current",
+                "current less than the input current",
+                "current equal to the input current",
+                "voltage more than the input voltage"
+            ],
+            "answer": "current more than the input current",
+            "explanation": "(a)  In step-down transformer Np > Ns, Ep > Es, Ip < Is Here N, E and I used for no. of turns, emf and current respectively."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "A rectifier is an electronic device used to convert",
+            "options": [
+                "AC voltage into DC voltage",
+                "DC voltage into AC voltage",
+                "sinusoidal pulse into square pulse",
+                "None of the above DIRECTION (Q. 64) : The following question consist of two statements, Statement I and Statement II. You are to examine these two statements carefully and select the answers to these items using the codes given below. Codes",
+                "Both the statements are true and statement II is the correct explanation of statement I",
+                "Both the statements are true, but statement II is not the correct explanation of statement I",
+                "Statement I is true, but statement II is false",
+                "Statement I is false, but statement II is true"
+            ],
+            "answer": "AC voltage into DC voltage",
+            "explanation": "(a)  A rectifier is used to convert AC voltage into DC voltage and invertor converts DC voltage into AC voltage."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Statement I: Pulling a lawn roller is easier than pushing it. Statement II: Pushing increases the apparent weight and hence the force of friction.",
+            "options": [
+                "Both Statement I and Statement II are individually true and Statement II is the correct explanation of Statement I",
+                "Both Statement I and Statement II are individually true but Statement II is NOT the correct explanation of Statement I",
+                "Statement I is true but Statement II is false",
+                "Statement I is false but Statement II is true"
+            ],
+            "answer": "Both Statement I and Statement II are individually true and Statement II is the correct explanation of Statement I",
+            "explanation": "(a)  It is easier to move any body by pulling it than by pushing it. A body starts to move when the applied force is more than the frictional force. This frictional force is proportional to the weight of the body under which it acts. When the lawn roller is pushed by the force (F), the vertical component of the pushing force now increases the weight (w = mg) of the roller which in turn results in increase of normal reaction and hence the friction is more."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "It is difficult to cut things with a blunt knife because",
+            "options": [
+                "the pressure exerted by knife for a given force increases with increase in bluntness",
+                "a sharp edge decreases the pressure exerted by knife for a given force",
+                "a blunt knife decreases the pressure for a given force",
+                "a blunt knife decreases the area of intersection"
+            ],
+            "answer": "a blunt knife decreases the pressure for a given force",
+            "explanation": "(c)  Pressure = force area Bluntness of knife increases area, hence decreases the pressure for a given force."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "When deep sea fishes are brought to the surface of the sea, their bodies burst. This is because the blood in their bodies flows at very",
+            "options": [
+                "high speed",
+                "high pressure",
+                "low speed",
+                "low pressure"
+            ],
+            "answer": "high pressure",
+            "explanation": "(b)  When deep sea fishes are brought to the surface of the sea, their bodies burst, this is because the blood in their bodies flows at very high pressure. + 300 300 300 300 50 60"
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "A bus travels at a speed of 50 km/h to go from its origin of its destination at a distance of 300 km and travels at a speed of 60 km/h to return to the origin. What is the average speed of the bus?",
+            "options": [
+                "54.55 km/h",
+                "55 km/h",
+                "55.55 km/h",
+                "54 km/h"
+            ],
+            "answer": "54.55 km/h",
+            "explanation": "(a)  Average speed = total distance total time = + 13 Physics distance Time speed æ ö = ç ÷ è ø Q = 300 300 600 6 5 11 + = + = 54.55 km/h"
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "A device, which is used in our TV set, computer, radio set for storing the electric charge, is",
+            "options": [
+                "resistor",
+                "inductor",
+                "capacitor",
+                "conductor"
+            ],
+            "answer": "capacitor",
+            "explanation": "(c)  Capacitor (condenser) is used to store energy in an electric field. Capacitance of a capacitor C, defined as the ratio of charge ± Q on each conductor to the voltage V between them. C = Q V"
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Which type/types of pen uses/use capillary action in addition to gravity for flow of ink?",
+            "options": [
+                "Fountain pen",
+                "Ballpoint pen",
+                "Gel pen",
+                "Both ballpoint and gel pens"
+            ],
+            "answer": "Fountain pen",
+            "explanation": "(a)  Fountain pen uses capillary action in addition to gravity for flow of ink."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "If two conducting spheres are separately charged and then brought in contact",
+            "options": [
+                "the total energy of the two spheres is conserved",
+                "the total charge on the two spheres is conserved",
+                "both the total energy and the total charge are conserved",
+                "the final potential is always the mean of the original potential of the two spheres"
+            ],
+            "answer": "the total charge on the two spheres is conserved",
+            "explanation": "(b)  If two conducting spheres are separately charged and brought in contact, then the total charge on the two spheres is conserved. This is the law of conservation of charge."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "The gas used in a refrigerator is",
+            "options": [
+                "cooled down on flowing",
+                "heated up on flowing",
+                "cooled down when compressed",
+                "cooled down when expanded"
+            ],
+            "answer": "cooled down when compressed",
+            "explanation": "(c) "
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "The celsius temperature is a/an",
+            "options": [
+                "relative temperature",
+                "absolute temperature",
+                "specific temperature",
+                "approximate temperature"
+            ],
+            "answer": "absolute temperature",
+            "explanation": "(b)  The degree celsius (°C) can refer to absolute  temperature."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Light Emitting Diode (LED) converts",
+            "options": [
+                "light energy into electrical energy",
+                "electrical energy into light energy",
+                "thermal energy into light energy",
+                "mechanical energy into electrical energy"
+            ],
+            "answer": "electrical energy into light energy",
+            "explanation": "(b)  Light Emitting Diode (LED) is semiconductor device – a forward bias p-n junction diode which converts electrical energy into light energy."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Dual Energy X-ray Absorptiometry (DEXA) is used to measure",
+            "options": [
+                "spread of solid tumour",
+                "bone density",
+                "ulcerous growth in stomach",
+                "extent of brain haemorrhage"
+            ],
+            "answer": "bone density",
+            "explanation": "(b)  Dual Energy X-ray  Absorptiometry (DEXA) is used to measure the density or strength of bones."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "The main source of energy in sun is",
+            "options": [
+                "nuclear fusion",
+                "nuclear fission",
+                "chemical reaction",
+                "mechanical energy"
+            ],
+            "answer": "nuclear fusion",
+            "explanation": "(a)  The sun is the star at the centre of the solar system. It generates its energy by nuclear fusion of hydrogen nuclei into helium. 2 2 2 4 1 1 1 1 1 2 1 0 H H H He H n 21.6Mev + + ® + + +"
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "By what mechanism does scent spread all over the room if the lid is opened?",
+            "options": [
+                "Pressure in the bottle",
+                "Compression from the bottle",
+                "Diffusion",
+                "Osmosis"
+            ],
+            "answer": "Diffusion",
+            "explanation": "(c)  Diffusion refers to the process by which molecules intermingle as a result of their kinetic energy of random motion."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Which one among the following is not a correct statement?",
+            "options": [
+                "Cathode rays are negatively charged particles",
+                "Cathode rays are produced from all the gases",
+                "Electrons are basic constituents of all the atoms",
+                "Hydrogen ions do not contain any proton"
+            ],
+            "answer": "Hydrogen ions do not contain any proton",
+            "explanation": "(d)  Hydrogen ion has one proton i.e. , 1H1. Atomic number = no. of  proton =1 for atom like hydrogen."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Which one among the following colours has the highest wavelength?",
+            "options": [
+                "Violet",
+                "Green",
+                "Yellow",
+                "Red"
+            ],
+            "answer": "Red",
+            "explanation": "(d)  Different colours in increasing order of their wavelength: violet, indigo, blue, green, yellow, orange and red."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Dispersion process forms spectrum due to white light falling on a prism. The light wave with shortest wavelength",
+            "options": [
+                "refracts the most",
+                "does not change the path",
+                "refracts the least",
+                "is reflected by the side of the prism 5 Physics"
+            ],
+            "answer": "refracts the most",
+            "explanation": "(a)  The light wave with shortest wavelength i.e. violet refracts the most."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Magnetic, electrostatic and gravitational forces come under the category of",
+            "options": [
+                "non-contact forces",
+                "contact forces",
+                "frictional forces",
+                "non-frictional forces"
+            ],
+            "answer": "non-contact forces",
+            "explanation": "(a)  All of these forces doesn’t need any physical contact to exist hence, non-contact forces."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "A ray of white light strikes the surface of an object. If all the colours are reflected the surface would appear",
+            "options": [
+                "black",
+                "white",
+                "grey",
+                "opaque"
+            ],
+            "answer": "white",
+            "explanation": "(b)  When an object reflects all the colours of a white light, then it would appear white. White light is the combination of all seven colours (VIBGYOR) of light."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Motion of an oscillating liquid column in a U-tube is",
+            "options": [
+                "periodic but not simple harmonic",
+                "non-periodic",
+                "simple harmonic and time period is independent of the density of the liquid",
+                "simple harmonic and time period depends on the density of the liquid"
+            ],
+            "answer": "simple harmonic and time period is independent of the density of the liquid",
+            "explanation": "(c)  Motion of an oscillating liquid column in a U-tube is called simple harmonic motion with time period independent of on the density of the liquid."
+        },
+        {
+            "subject": "Physics",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Dirty cloths containing grease and oil stains are cleaned by adding detergents to water. Stains are removed because detergent",
+            "options": [
+                "reduces drastically the surface tension between water and oil",
+                "increases the surface tension between water and oil",
+                "increases the viscosity of water and oil",
+                "decreases the viscosity in detergent mixed water"
+            ],
+            "answer": "reduces drastically the surface tension between water and oil",
+            "explanation": "(a)  One end of hairpin shaped detergents attracted to water and other to molecules of oil or grease that reduces drastically the surface tension between water and oil."
+        }
+    ]
+}

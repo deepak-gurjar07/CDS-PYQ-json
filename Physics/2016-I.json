@@ -1,0 +1,88 @@
+{
+    "Physics 2016-I": [
+        {
+            "subject": "Physics",
+            "year": "2016",
+            "cycle": "I",
+            "question": "Which one of the following statements is not correct ?",
+            "options": [
+                "Sounds wave in gases are longitudinal in nature",
+                "Sounds wave having frequency below 20 Hz are known as ultrasonic waves",
+                "Sounds waves having higher amplitudes are louder",
+                "Sound waves with high audible frequencies are sharp"
+            ],
+            "answer": "Sounds wave having frequency below 20 Hz are known as ultrasonic waves",
+            "explanation": "(b)  The sound waves having frequency below 20 Hz are inaudible. Ultrasonic waves are those waves which have the frequency of above 20,000 Hz."
+        },
+        {
+            "subject": "Physics",
+            "year": "2016",
+            "cycle": "I",
+            "question": "A myopic person has a power of 1.25 dioptre, what is the focal length and nature of his lens ?",
+            "options": [
+                "50  cm and convex lens",
+                "80 cm and convex lens",
+                "50 cm and concave lens",
+                "80 cm and concave lens"
+            ],
+            "answer": "80 cm and concave lens",
+            "explanation": "(d)  The nature of the lens used to correct myopic eye is a concave lens. \\ D = 1 1 1 100 f(metre) f D 1.25 125 = = = = = 0.80 metre = 80 cm"
+        },
+        {
+            "subject": "Physics",
+            "year": "2016",
+            "cycle": "I",
+            "question": "Which one of the following statements about bar magnet is correct ?",
+            "options": [
+                "The pole strength of the north-pole of a bar magnet is larger than that of the south-pole",
+                "When a piece of bar magnet is bisected perpendicular to its axis, the north and south pole get separated",
+                "When a piece of bar magnet is bisected perpendicular to its axis two new bar magnets are formed",
+                "The poles of a bar magnet are unequal in magnitude and opposite in nature"
+            ],
+            "answer": "When a piece of bar magnet is bisected perpendicular to its axis two new bar magnets are formed",
+            "explanation": "(c)  If any magnet is divided into two parts, every part will be a new magnet."
+        },
+        {
+            "subject": "Physics",
+            "year": "2016",
+            "cycle": "I",
+            "question": "A person rings a metallic bell near a strong concrete wall. He hears the echo after 0.3 s. if the sound moves with a speed of 340 m/s, how far is the wall from him?",
+            "options": [
+                "102 m",
+                "11 m",
+                "51 m",
+                "30 m"
+            ],
+            "answer": "51 m",
+            "explanation": "(c)  Let the distance is x metre. Distance = Velocity × Time x = 340 × 0.3 = 102 metre (This is the total distance) \\ The distance of wall is 102 2  = 51 metre."
+        },
+        {
+            "subject": "Physics",
+            "year": "2016",
+            "cycle": "I",
+            "question": "The rate of change of momentum of a body  equal of the resultant :",
+            "options": [
+                "energy",
+                "power",
+                "force",
+                "impulse"
+            ],
+            "answer": "force",
+            "explanation": "(c)  Newton's 2nd Law - The rate of Change of momentum always acts in the direction of resultant force acting on a body Þ (F = ma) (where m = mass; a = aceeleration)"
+        },
+        {
+            "subject": "Physics",
+            "year": "2016",
+            "cycle": "I",
+            "question": "The SI unit of mechanical power is :",
+            "options": [
+                "Joule",
+                "Watt",
+                "Newton-Second",
+                "Joule-Second"
+            ],
+            "answer": "Watt",
+            "explanation": "(b)  Watt is the SI unit of mechanical power."
+        }
+    ]
+}
