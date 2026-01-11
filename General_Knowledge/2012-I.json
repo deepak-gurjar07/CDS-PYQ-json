@@ -1,0 +1,83 @@
+{
+    "General Knowledge 2012-I": [
+        {
+            "subject": "General Knowledge",
+            "year": "2012",
+            "cycle": "I",
+            "question": "Fiscal Policy in India is formulated by",
+            "options": [
+                "the Reserve Bank of India",
+                "the Planning Commission",
+                "the Finance Ministry",
+                "the Securities and Exchange Board of India"
+            ],
+            "answer": "the Planning Commission",
+            "explanation": "(b) "
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2012",
+            "cycle": "I",
+            "question": "Which of the following statements is/are correct?",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  Negative inflation is decrease in price level and economic growth is defined as GDP. A decrease in inflation means the prices has fallen. So, there is increase in purchasing power of money. It increases consumption, therefore GDP increases."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2012",
+            "cycle": "I",
+            "question": "National income ignores",
+            "options": [
+                "sales of a firm",
+                "salary of employees",
+                "exports of the IT sector",
+                "sale of land"
+            ],
+            "answer": "salary of employees",
+            "explanation": "(b) "
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2012",
+            "cycle": "I",
+            "question": "When the productive capacity of the economic systems of a state is inadequate to create sufficient number of jobs, it is called  Economics 222",
+            "options": [
+                "seasonal unemployment",
+                "structural unemployment",
+                "disguised unemployment",
+                "cyclical unemployment"
+            ],
+            "answer": "structural unemployment",
+            "explanation": "(b) "
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2012",
+            "cycle": "I",
+            "question": "NIFTY is based upon 50 firms in India.  2. NIFTY is governed and regulated by the Reserve Bank of India. 3. NIFTY does not trade in mutual funds. Select the correct answer using the codes given below",
+            "options": [
+                "Only 1",
+                "Only 2",
+                "Only 3",
+                "1 and 3"
+            ],
+            "answer": "1 and 3",
+            "explanation": "(d) "
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2012",
+            "cycle": "I",
+            "question": "The direct taxes should be increased.  2. The interest rate should be reduced. 3. The public spending should be increased. Select the correct answer using the codes given below",
+            "options": [
+                "Only 1",
+                "Only 2",
+                "2 and 3",
+                "1 and 2"
+            ],
+            "answer": "1 and 2",
+            "explanation": "(d) "
+        }
+    ]
+}

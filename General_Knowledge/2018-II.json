@@ -1,0 +1,110 @@
+{
+    "General Knowledge 2018-II": [
+        {
+            "subject": "General Knowledge",
+            "year": "2018",
+            "cycle": "II",
+            "question": "According to the latest Reserve Bank of India study on State finances, capital spending is maximum on",
+            "options": [
+                "rural development",
+                "water supply and sanitation",
+                "urban development",
+                "education"
+            ],
+            "answer": "education",
+            "explanation": "(d)  According to the latest Reserve Bank of India study on State finances, capital spending is maximum on education."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2018",
+            "cycle": "II",
+            "question": "According to the World Bank’s Doing Business Report, 2018, India’s ranking has improved in 2018 as compared to 2017 in which of the following areas?",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  India’s score went from 56.05 in Doing Business 2017 to 60.76 in Doing Business 2018. This means last year India improved its business regulations in absolute terms – indicating that the country is continuing its steady shift towards best practice in business regulation. The report also recognizes India as one of the top 10 improvers in this year’s assessment, having implemented reforms in 8 out of 10 Doing Business indicators viz. starting a business, dealing with construction permits, getting credit, protecting minority investors, paying taxes, trading across borders, enforcing contracts and resolving insolvency."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2018",
+            "cycle": "II",
+            "question": "The Fourteenth Finance Commission assigned different weights to the following parameters for distribution of tax proceeds to the States :",
+            "options": [],
+            "answer": "b",
+            "explanation": "(b)  Criteria and weights for the horizontal distribution of the tax is income distance (50%), Population (17.5%), Area (15%), Demographic change (10%), and forest cover (7.5%)."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2018",
+            "cycle": "II",
+            "question": "The natural rate of unemployment hypothesis was advocated by",
+            "options": [
+                "Milton Friedman",
+                "A. W. Phillips",
+                "J. M. Keynes",
+                "R. G. Lipsey"
+            ],
+            "answer": "Milton Friedman",
+            "explanation": "(a)  The natural rate of unemployment is the name that was given to a key concept in the study of economic activity. Milton Friedman and Edmund Phelps, tackling this ‘human’ problem in the 1960s, both received the Nobel Prize in economics for their work, and the development of the concept is cited as a main motivation behind the prize. A simplistic summary of the concept is: ‘The natural rate of unemployment, when an economy is in a steady state of “full employment”, is the proportion of the workforce who are unemployed’."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2018",
+            "cycle": "II",
+            "question": "As per the extant policy, Foreign Direct Investment is permitted in the defence sector under the automatic route up to which one of the following limits?",
+            "options": [
+                "26 percent",
+                "74 percent",
+                "51 percent",
+                "49 percent DIRECTIONS: The following four (4) items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below. Code:",
+                "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+                "Statement I is true but statement II is false",
+                "Statement I is false but Statement II is true"
+            ],
+            "answer": "49 percent DIRECTIONS: The following four (4) items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below. Code:",
+            "explanation": "(d)  As per the extant FDI policy, foreign investment up to 49% is permitted under the automatic route, foreign investment beyond 49% and upto 100% is permitted through Government approval, wherever it is likely to result in access to modern technology or for other reasons to be recorded."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Who among the following shall cause the accounts of the Autonomous District and Regional Council Funds to be audited?",
+            "options": [
+                "The Comptroller and Auditor General of India",
+                "The Chartered Accountant empanelled by the Government of India",
+                "The State Government Auditors",
+                "Any Chartered Accountant"
+            ],
+            "answer": "The Comptroller and Auditor General of India",
+            "explanation": "(a)  The Comptroller and Auditor-General shall cause the accounts of the District and Regional Councils to be audited in such manner as he may think fit, and the reports of the Comptroller and Auditor General relating to such accounts shall be submitted to the Governor who shall cause them to be laid before the Council."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2018",
+            "cycle": "II",
+            "question": "According to the updated World Bank data for 2017, India is the sixth biggest economy of the world (in terms of GDP). Which one of the following is not ahead of India?",
+            "options": [
+                "Japan",
+                "UK",
+                "France",
+                "Germany"
+            ],
+            "answer": "France",
+            "explanation": "(c)  According to updated World Bank figures on GDP of countries for 2017, India has become world›s sixth-biggest economy surpassing France to seventh place. India›s gross domestic product (GDP) amounted to $2.597 trillion at the end of 2017, as against $2.582 trillion for France"
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Which one of the “following is correct about ‘Aaykar Setu’?",
+            "options": [
+                "It is a mechanism for achieving excellence in public sector delivery related to GST. 231 Economics",
+                "With the use of a mobile app, it facilitates online payment of taxes.",
+                "It is a communication strategy designed to collect information and build a database of tax defaulters.",
+                "It enables electronic filing and processing of import and export declarations."
+            ],
+            "answer": "With the use of a mobile app, it facilitates online payment of taxes.",
+            "explanation": "(b)  The Income Tax Department has introduced a mobile app, named.. Aaykar Setu – It’s a free mobile application. It provides linkage to various services of the Income-tax Department through a single window."
+        }
+    ]
+}

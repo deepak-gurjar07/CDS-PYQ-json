@@ -1,0 +1,55 @@
+{
+    "General Knowledge 2015-I": [
+        {
+            "subject": "General Knowledge",
+            "year": "2015",
+            "cycle": "I",
+            "question": "Which of the following statements is/are correct?",
+            "options": [],
+            "answer": "d",
+            "explanation": "(d)  Marx was initially in the Young Hegelian camp and like Feuerbach, rejected the spiritual basis. Marx believed that alienation is a systematic result of capitalism. Essentially, there is an \"exploitation of men by men\" where the division of labour creates an economic hierarchy."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2015",
+            "cycle": "I",
+            "question": "Demand for a commodity refers to",
+            "options": [
+                "Desire for that commodity",
+                "Need for that commodity",
+                "Quantity demanded of that commodity",
+                "Quantity demanded at certain price during any particular period of time"
+            ],
+            "answer": "Quantity demanded at certain price during any particular period of time",
+            "explanation": "(d)  The demand for a commodity at a given price is the quantity that will be purchased at a unit of time and at a unit price. Demand has the following features; Demand refers to the quantity at a given price, Demand must be defined per unit time."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2015",
+            "cycle": "I",
+            "question": "An exceptional demand curve is one that slopes",
+            "options": [
+                "downward to the right",
+                "upward to the right",
+                "horizontally",
+                "upward to the left"
+            ],
+            "answer": "downward to the right",
+            "explanation": "(a)  An exceptional demand curve is one that slopes upward to the right y Price x Qty"
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2015",
+            "cycle": "I",
+            "question": "Rise in the price of a commodity means",
+            "options": [
+                "rise in the value of currency only",
+                "fall in the value of currency only",
+                "rise in the value of commodity only",
+                "fall in the value of currency and rise in the value of commodity."
+            ],
+            "answer": "fall in the value of currency only",
+            "explanation": "(b)  Rise in the price of a commodity means both fall in the value of currency and rise in the value of commodity."
+        }
+    ]
+}

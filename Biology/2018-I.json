@@ -1,0 +1,158 @@
+{
+    "Biology 2018-I": [
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "I",
+            "question": "Which one of the following elements is involved in the control of water content of the blood?",
+            "options": [
+                "Potassium",
+                "Lithium",
+                "Rubidium",
+                "Caesium"
+            ],
+            "answer": "Potassium",
+            "explanation": "(a) Kidney directly controls water content of blood. Kidneys purify the blood by removing toxins from it, and in doing this water is excreted along with these toxins. Potassium and sodium elements are involved in the process."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "I",
+            "question": "Which one of the following elements is essential for the formation of chlorophyll in green plants?",
+            "options": [
+                "Calcium",
+                "Iron",
+                "Magnesium",
+                "Potassium DIRECTIONS (Qs. 227-228): The following items consists of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below."
+            ],
+            "answer": "Magnesium",
+            "explanation": "(c)  Magnesium is essential for the formation of chlorophyll in green plants. Without magnesium, chlorophyll cannot capture sun energy needed for photosynthesis. In short, magnesium is required to give leaves their green color."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "I",
+            "question": "Statement I :  A person may suffer from tuberculosis if she/he frequently visits crowded place. Statement II : Bacteria of tuberculosis spread through droplets by sneezing or coughing.",
+            "options": [
+                "Both Statement I and Statement II are individually true and Statement II is the correct explanation of Statement I",
+                "Both Statement I and Statement II are individually true but Statement II is NOT the correct explanation of Statement I",
+                "Statement I is true but Statement II is false",
+                "Statement I is false but Statement II is true"
+            ],
+            "answer": "Statement I is false but Statement II is true",
+            "explanation": "(d) Tuberculosis (TB) is caused by a type of bacterium called Mycobacterium tuberculosis. It's spread when a person with active TB disease in their lungs coughs or sneezes and someone else inhales the expelled droplets, which contain TB bacteria."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "I",
+            "question": "Which one of the following is a true fish as per the biological system of classification?",
+            "options": [
+                "Silver fish",
+                "Jelly fish",
+                "Cuttle fish",
+                "Flying fish"
+            ],
+            "answer": "Flying fish",
+            "explanation": "(d) Fish are the gill-bearing aquatic craniate animals that lack limbs with digits. Fish, the member of the Animalia Kingdom is classified into Phylum Chordata and Vertebrata Subphylum. Fishes poses notochord, tubular nerve chord, paired gills, segmentation of the body parts, post anal tail, ventral heart, and an endoskeleton to be the member of the Chordata. In order to be a vertebrate, it poses backbone. This back bone supports and protects the spinal cord. All the species of the fish found in the world are classified into the following three groups. •   Agnatha - jawless fish •   Chrondrichthyes - cartilaginous fish •   Osteichthyes - bony fish Flying fish is a bony fish."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "I",
+            "question": "In which one of the following types of connective tissues in animals does fat get stored?",
+            "options": [
+                "Adipocyte",
+                "Chondrocyte",
+                "Osteocyte",
+                "Reticulocyte"
+            ],
+            "answer": "Adipocyte",
+            "explanation": "(a) Adipocytes are cells that derive from multipotential mesenchymal cells; their main role is to store energy in the form of lipids to cushion and insulate the body from the outer environment."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "I",
+            "question": "Which one of the following pairs about organ/part that helps in locomotion is not correctly matched?",
+            "options": [
+                "Euglena : Flagellum",
+                "Paramecium : Cilia",
+                "Nereis : Pseudopodia",
+                "Starfish : Tubefeet"
+            ],
+            "answer": "Nereis : Pseudopodia",
+            "explanation": "(c)  Nereis possess setae and parapodia for locomotion."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "I",
+            "question": "Lysosome is formed from which of the following cell organelles?",
+            "options": [
+                "Nucleus",
+                "Endoplasmic reticulum",
+                "Golgi bodies",
+                "Ribosomes"
+            ],
+            "answer": "Golgi bodies",
+            "explanation": "(c)  Lysosomes are spherical membranous sacs of enzymes. Lysosome enzymes are made by proteins from the endoplasmic reticulum and enclosed within vesicles by the Golgi apparatus. Lysosomes are formed by budding from the Golgi complex."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "I",
+            "question": "A protein is synthesized in the endoplasmic reticulum bound ribosomes and it targets to the inner thylakoid space of chloroplast. How many double-layered membrane layers it has to pass to reach its destination?",
+            "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "answer": "3",
+            "explanation": "(b) "
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "I",
+            "question": "Which one of the following statements about lymph is correct?",
+            "options": [
+                "Lymph is formed due to leakage of blood through capillaries.",
+                "Lymph contains blood cells such as RBC.",
+                "Lymph is also circulated by the blood circulating heart.",
+                "Lymph only transports hormones."
+            ],
+            "answer": "Lymph is formed due to leakage of blood through capillaries.",
+            "explanation": "(a) "
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "I",
+            "question": "Which of the following classes of animals has/have three- chambered heart?",
+            "options": [
+                "Pisces and Amphibia",
+                "Amphibia and Reptilia",
+                "Reptilia only",
+                "Amphibia only"
+            ],
+            "answer": "Amphibia and Reptilia",
+            "explanation": "(b)  Three chambered hearts with two atria and one ventricle is present in amphibian and reptiles. The 3 chambered heart contains only one ventricle in which oxygen poor and oxygen rich intermingle, but not entirely. In amphibians, the pulmonary respiration is improved because they absorbs oxygen through skin also."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "I",
+            "question": "Accumulation of which one of the following in the muscles of spinters leads to cramp?",
+            "options": [
+                "Lactic acid",
+                "Ethanol",
+                "Pyruvic acid",
+                "Glucose"
+            ],
+            "answer": "Lactic acid",
+            "explanation": "(a) Muscle cramping is a common problem encountered by athletes and non-athletes alike. Lactic acid is formed and accumulated in the muscle under conditions of high energy demand, rapid fluctuations of the energy requirement and insufficient supply of O2. It causes muscles to get cramps."
+        }
+    ]
+}

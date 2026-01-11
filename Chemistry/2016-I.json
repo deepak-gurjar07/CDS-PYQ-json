@@ -1,0 +1,144 @@
+{
+    "Chemistry 2016-I": [
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "I",
+            "question": "Which one of the following statements is correct? The velocity of sound :",
+            "options": [
+                "Does not depend upon the nature of media",
+                "is maximum in gases and minimum in liquids",
+                "is maximum in solids and minimum in liquids",
+                "is maximum in solids and minimum in gases"
+            ],
+            "answer": "is maximum in solids and minimum in gases",
+            "explanation": "(d)  The Sound propagation is facilitated by the collisions between the particles of medium. The inter- molecular distance in solids is very small whereas in gases it is very high. Therefore the velocity of sound is maximum in solids and minimum in gases."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "I",
+            "question": "A piece of ice, 100 g in mass is kept at 0°C. The amount of heat is requires to melt at 0°C is (take latent heat of melting of ice to be 333.6 j / g) :",
+            "options": [
+                "750.6  J",
+                "83.4 J",
+                "33360 J",
+                "3.336 J"
+            ],
+            "answer": "33360 J",
+            "explanation": "(c)  q = m D Hf Where, m = mass, q = heat energy D Hf = heat of fusion q = (100g) × 333.6 J/g = 33360 J"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "I",
+            "question": "Which one of the following is an example of chemical change?",
+            "options": [
+                "Burning of paper",
+                "Magnetization of soft iron",
+                "Dissolution of cane sugar in water",
+                "Preparation  of  ice cubes from water Chemistry 26"
+            ],
+            "answer": "Burning of paper",
+            "explanation": "(a)  Burning of paper is a chemical change because it is irreversible."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "I",
+            "question": "Which one of the following statements is not correct ?",
+            "options": [
+                "Hydrogen is an element",
+                "Hydrogen is the lightest element",
+                "Hydrogen has no isotopes",
+                "Hydrogen and oxygen form an explosive mixture"
+            ],
+            "answer": "Hydrogen has no isotopes",
+            "explanation": "(c)  Hydrogen has three naturally occuring isotopes denoted by 1H, 2H and 3H."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "I",
+            "question": "Which one of the following statements is not correct ?",
+            "options": [
+                "Atoms of different elements may have same mass numbers",
+                "Atoms of an element may have different mass numbers",
+                "All the atoms of an element have same number of protons",
+                "All the atoms of an element will always have same number of neutrons."
+            ],
+            "answer": "All the atoms of an element have same number of protons",
+            "explanation": "(c)  Atoms of the same element always have the same number of protons (is it had a different number of protons it would be a different element.)"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "I",
+            "question": "The synthetic rubber has replaced natural rubber for domestic and industrial purposes. Which one of the following is the main reason behind that?",
+            "options": [
+                "Natural rubber is unable to meet the growing demand of different industries",
+                "Natural rubber is grown in tropical countries only",
+                "Raw material for synthetic rubber is easily available",
+                "Nutural rubber is not durable"
+            ],
+            "answer": "Raw material for synthetic rubber is easily available",
+            "explanation": "(c)  Natural rubber, coming from latex of Hevea brasiliensis containing traces of impurities like protein, dirt, etc. while synthetic rubber is made by the polymerization of a variety of petroleum-based precursors."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "I",
+            "question": "The handle of pressure cookers is made of plastic because it should be made non-conductor of heat. The plastic used there is the first man-made plastic, which is :",
+            "options": [
+                "Polythene",
+                "Terylene",
+                "Nylon",
+                "Bakelite"
+            ],
+            "answer": "Bakelite",
+            "explanation": "(d)  Bakelite was invented by Leo Baekeland in New York in 1907. It is the first man made plastic."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "I",
+            "question": "Methyl lsocyanate gas, which was involved in the  disaster in Bhopal in December 1984, was used in the Union Carbide factory for production of :",
+            "options": [
+                "Dyes",
+                "Detergents",
+                "Explosives",
+                "Pesticides"
+            ],
+            "answer": "Pesticides",
+            "explanation": "(d)  Methyl Isocyanate gas (MIC) is used in preparation of pesticides."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "I",
+            "question": "Two systems are said to be in thermal equilibrium if and only if :",
+            "options": [
+                "there can be a heat flow between them even if they are at different temperatures",
+                "there cannot be a heat flow between them even if they are at different temperatures",
+                "there is no heat flow between them",
+                "their temperatures are slightly different"
+            ],
+            "answer": "there is no heat flow between them",
+            "explanation": "(c)  Two systems are said to be in thermal equilibrium if is no heat transfer takes place as both the systems have same temperature."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "I",
+            "question": "German silver is used to make decorative articles, coinage metal, ornaments, The name is given because :",
+            "options": [
+                "it is an alloy of copper and contains silver as one of its components",
+                "Germans were the first to use silver",
+                "Its appearance is like silver",
+                "It is an alloy of silver"
+            ],
+            "answer": "Its appearance is like silver",
+            "explanation": "(c)  German silver is a mixture of copper, zinc and nickel. It is an alloy metal. It is used to make pots and toys due to hardness toughness and resistance to corrosion."
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "Chemistry 2012-II": [
+        {
+            "subject": "Chemistry",
+            "year": "2012",
+            "cycle": "II",
+            "question": "Soaps cannot be used in acidic condition because they lose their cleansing effect due to formation of insoluble",
+            "options": [
+                "esters",
+                "alcohols",
+                "hydrocarbons",
+                "long chain fatty acids"
+            ],
+            "answer": "long chain fatty acids",
+            "explanation": "(d)  Soaps cannot be used in acidic condition as they are converted into free fatty acid which form a scum."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2012",
+            "cycle": "II",
+            "question": "In an atomic explosion, release of large amount of energy is due to conversion of",
+            "options": [
+                "chemical energy into nuclear energy",
+                "nuclear energy into heat",
+                "mass into energy",
+                "chemical energy into heat DIRECTION (Q. 97) :  The following question consist of two statements. Statement I and Statement II. You are to examine these two statements carefully and select the answer to this question using the codes given below.",
+                "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+                "Statement I is true, but Statement II is false",
+                "Statement I is false, but Statement II is true"
+            ],
+            "answer": "chemical energy into nuclear energy",
+            "explanation": "(a) "
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2012",
+            "cycle": "II",
+            "question": "Statement I: All compounds contain more than one element.  Statement II : All compounds are heterogeneous mixtures.",
+            "options": [
+                "Both Statement I and Statement II are individually true and Statement II is the correct explanation of Statement I",
+                "Both Statement I and Statement II are individually true but Statement II is NOT the correct explanation of Statement I",
+                "Statement I is true but Statement II is false",
+                "Statement I is false but Statement II is true"
+            ],
+            "answer": "Both Statement I and Statement II are individually true and Statement II is the correct explanation of Statement I",
+            "explanation": "(a)  A heterogeneous mixture is a mixture of more than two elements."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2012",
+            "cycle": "II",
+            "question": "The gas which turns lime water milky is",
+            "options": [
+                "carbon dioxide",
+                "carbon monoxide",
+                "ammonia",
+                "nitrogen dioxide"
+            ],
+            "answer": "carbon dioxide",
+            "explanation": "(a)  The carbon dioxide reacts with the lime water to form calcium carbonate that is insoluble. 2 3 CaO CO CaCO + ¾¾® ¯ This substance precipitate out of solution making the lime water cloudy."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2012",
+            "cycle": "II",
+            "question": "On the labels of the bottles, some soft drinks are claimed to be acidity regulators. They regulate acidity using",
+            "options": [
+                "carbon dioxide",
+                "bicarbonate salts",
+                "Both",
+                "and",
+                "",
+                "carbon dioxide and lime 23 Chemistry"
+            ],
+            "answer": "bicarbonate salts",
+            "explanation": "(b)  In soft drinks bicarbonate salts acts as acidity regulators. Bicarbonate of soda is effective at regulating the pH levels of other substances; it ensures that the substance is neither too alkaline nor too  acidic."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2012",
+            "cycle": "II",
+            "question": "Antacids are commonly used to get rid of acidity in the stomach. A commonly used antacid is",
+            "options": [
+                "sodium hydrogen phthalate",
+                "magnesium hydroxide",
+                "calcium hydroxide",
+                "manganese acetate"
+            ],
+            "answer": "magnesium hydroxide",
+            "explanation": "(b)  Generally are weak bases. Antacid which naturalises stomach acidity, a commonly used antacid is magnesium hydroxide. Magnesium hydroxide is common component of antacids and laxatives."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2012",
+            "cycle": "II",
+            "question": "Iodised salt is a",
+            "options": [
+                "mixture of potassium iodide and common salt",
+                "mixture of molecular iodide and common salt",
+                "compound formed by combination of potassium iodide and common salt",
+                "compound formed by molecular iodine and common salt"
+            ],
+            "answer": "compound formed by combination of potassium iodide and common salt",
+            "explanation": "(c)  Iodised salt is a compound formed by combination of potassium iodide and common salt."
+        }
+    ]
+}

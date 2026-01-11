@@ -1,0 +1,125 @@
+{
+    "Chemistry 2019-II": [
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Which one of the following is monatomic?",
+            "options": [
+                "Hydrogen",
+                "Sulphur",
+                "Phosphorus",
+                "Helium"
+            ],
+            "answer": "Helium",
+            "explanation": "(d)  The noble gases (helium, neon, argon, krypton, xenon, and radon) are also gases at STP, but they are monatomic. Helium is a member of the noble gases which means it has a filled outer shell of electrons."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "II",
+            "question": "In graphite, each carbon atom is bonded to three other carbon atoms",
+            "options": [
+                "forming a three-dimensional structure",
+                "in the same plane giving a hexagonal array",
+                "in the same plane giving a square array",
+                "in the same plane giving a pentagonal array"
+            ],
+            "answer": "in the same plane giving a hexagonal array",
+            "explanation": "(b)  In graphite, each carbon atom is bonded to three other carbon atoms in the same plane giving a hexagonal array. One of these bonds is a double-bond, and thus the valency of carbon is satisfied."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Employing Chromatography, one cannot separate",
+            "options": [
+                "radio-isotopes",
+                "colours from a dye",
+                "pigments from a natural colour",
+                "drugs from blood"
+            ],
+            "answer": "radio-isotopes",
+            "explanation": "(a)  Because isotopes of the same element have identical chemical properties, they cannot be separated by chemical methods, but only by methods that are based on their mass differences, such as mass spectrometry."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Consider the following statement:  “Atomic number of an element is a more fundamental property than its atomic mass.” Who among the following scientists has made the above statement ?",
+            "options": [
+                "Dmitri Mendeleev",
+                "Henry Moseley",
+                "J.J. Thomson",
+                "Ernest Rutherford"
+            ],
+            "answer": "Henry Moseley",
+            "explanation": "(b)  Moseley’s law advanced atomic physics, nuclear physics and quantum physics by providing the first experimental evidence in favour of Niels Bohr’s theory, aside from the hydrogen atom spectrum which the Bohr theory was designed to reproduce. That theory refined Ernest Rutherford’s and Antonius van den Broek’s model, which proposed that the atom contains in its nucleus a number of positive nuclear charges that is equal to its (atomic) number in the periodic table. This remains the accepted model today."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Rate of evaporation increases with",
+            "options": [
+                "an increase of surface area",
+                "an increase in humidity",
+                "a decrease in wind speed",
+                "a decrease of temperature"
+            ],
+            "answer": "an increase of surface area",
+            "explanation": "(a)  Evaporation is the process by which water changes from a liquid to a gas or vapor. Evaporation is the primary pathway that water moves from the liquid state back into the water cycle as atmospheric water vapor. The rate of evaporation is affected by the following factors: Temperature: The rate of evaporation increases with an increase in temperature. Surface area: The rate of evaporation increases with an increase in surface area. Humidity: The amount of water vapour present in the air is called humidity."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Consider the following statements about mixture :",
+            "options": [],
+            "answer": "b",
+            "explanation": "(b)  In chemistry, a mixture is a material made up of two or more different substances which are physically combined. A mixture is the physical combination of two or more substances in which the identities are retained and are mixed in the form of solutions, suspensions and colloids. Mixtures are one product of mechanically blending or mixing chemical substances such as elements and compounds, without chemical bonding or other chemical change, so that each ingredient substance retains its own chemical properties and makeup. Despite the fact that there are no chemical changes to its constituents, the physical properties of a mixture, such as its melting point, may differ from those of the components. Some mixtures can be separated into their components by using physical (mechanical or thermal) means."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Which one of the following statements is not correct ?",
+            "options": [
+                "Elements are defined by the number of protons they possess.",
+                "Isobars are atoms having the same atomic number but different mass number.",
+                "The mass number of an atom is equal to the number of nucleons in its nucleus.",
+                "Valency is the combining capacity of an atom."
+            ],
+            "answer": "Isobars are atoms having the same atomic number but different mass number.",
+            "explanation": "(b)  A chemical element is a species of atom having the same number of protons in its atomic nuclei. For example, the atomic number of oxygen is 8, so the element oxygen describes all atoms which have 8 protons. In total, 118 elements have been identified. An atom is the smallest constituent unit of ordinary matter that constitutes a chemical element. Every atom is Chemistry 38 composed of a nucleus and one or more electrons bound to the nucleus. The nucleus is made of one or more protons and a number of neutrons. Isobars are atoms (nuclides) of different chemical elements that have the same number of nucleons. Correspondingly, isobars differ in atomic number (or number of protons) but have the same mass number. An example of a series of isobars would be 40S, 40Cl, 40Ar, 40K, and 40Ca."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "II",
+            "question": "The rate of evaporation of liquid does not depend upon",
+            "options": [
+                "temperature",
+                "its surface area exposed to the atmosphere",
+                "its mass",
+                "humidity"
+            ],
+            "answer": "its mass",
+            "explanation": "(c)  The rate of evaporation is affected by the following factors: Temperature: The rate of evaporation increases with an increase in temperature. Surface area: The rate of evaporation increases with an increase in surface area. Humidity: The amount of water vapour present in the air is called humidity. The rate of evaporation decreases with an increase in humidity. Wind speed: Evaporation increases with an increase in wind speed."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Rutherford’s alpha particle scattering experiment on thin gold foil was responsible for the discovery of",
+            "options": [
+                "electron",
+                "proton",
+                "atomic nucleus",
+                "neutron"
+            ],
+            "answer": "atomic nucleus",
+            "explanation": "(c)  Rutherford overturned Thomson’s model in 1911 with his well-known gold foil experiment in which he demonstrated that the atom has a tiny and heavy nucleus. Rutherford designed an experiment to use the alpha particles emitted by a radioactive element as probes to the unseen world of atomic structure. If Thomson was correct, the beam would go straight through the gold foil. Most of the beams went through the foil, but a few were deflected. Rutherford presented his own physical model for subatomic structure, as an interpretation for the unexpected experimental results. In it, the atom is made up of a central charge (this is the modern atomic nucleus, though Rutherford did not use the term “nucleus” in his paper) surrounded by a cloud of (presumably) orbiting electrons. In this May 1911 paper, Rutherford only committed himself to a small central region of very high positive or negative charge in the atom."
+        }
+    ]
+}

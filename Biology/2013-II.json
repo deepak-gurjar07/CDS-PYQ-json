@@ -1,0 +1,288 @@
+{
+    "Biology 2013-II": [
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "The ultimate cause of water movement in a plant stem against gravity is",
+            "options": [
+                "osmosis",
+                "transpiration",
+                "photosynthesis",
+                "diffusion"
+            ],
+            "answer": "transpiration",
+            "explanation": "(b)  Transpiration is  a process like evaporation part of the water cycle and it is the loss of water vapour from different parts of plants, particularly in leaves but also in stems, flowers and roots."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Which one among the following statements is correct?",
+            "options": [
+                "All proteins are enzymes",
+                "All enzymes are proteins",
+                "None of the enzymes is protein",
+                "None of the proteins is enzyme"
+            ],
+            "answer": "All enzymes are proteins",
+            "explanation": "(b)  All enzymes are proteins which catalyse various reactions occuring in cells. Therefore all enzymes are proteins, but not all proteins are enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "The fossil of Archaeopteryx represents the evidence of origin of",
+            "options": [
+                "birds from reptiles",
+                "mammals from reptiles",
+                "reptiles from amphibians",
+                "mammals from birds"
+            ],
+            "answer": "birds from reptiles",
+            "explanation": "(a)  Archeopteryx is a genus of theropad dinosaur that is closely related to bird. It demonstrates the evidence of origin of birds from reptiles. Biology 56"
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Which one among the following vitamins is necessary for blood clotting?",
+            "options": [
+                "Vitamin A",
+                "Vitamin D",
+                "Vitamin K",
+                "Vitamin C"
+            ],
+            "answer": "Vitamin K",
+            "explanation": "(c)  Vitamin K is a group of structurally similar to fat- soluble vitamins that are essential for the synthesis of certain proteins needed for blood coagulation or clotting."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "The pH of human blood is normally around",
+            "options": [
+                "4.5-5.5",
+                "5.5-6.5",
+                "7.5-8.0",
+                "8.5-9.0"
+            ],
+            "answer": "7.5-8.0",
+            "explanation": "(c)  In chemistry, pH measures the acidity or basicity of an aqueous solution. pH is normally measured in a range of  0-14. pH value of some common material Material pH value 1. Sea water 8.4 2. Human blood 7.4 3. Milk 6.4 4. Human urine 6.0 5. Alcohol 2.8"
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "The crew and passengers of a flying aircraft suffer generally from chronic obstructive pulmonary disease due to the effect of",
+            "options": [
+                "solar radiation",
+                "ozone concentration",
+                "nitrogen oxide",
+                "particulate pollutant"
+            ],
+            "answer": "nitrogen oxide",
+            "explanation": "(c)  Due to lower atmospheric presure, N2 gets mixed with  O2 to form such oxide which is inhaled by the passengers or crew."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Consider  the  following  statements  regarding antibiotics",
+            "options": [],
+            "answer": "a",
+            "explanation": "(a)  Antibiotics are very effective medicines that treat bacterial infections. They are ineffective against viral infection as viruses have different genetic makeup as compared to bacteria."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "The gastrointestinal hormones namely secretin and cholecystokinin secreted by duodenal epithelium activate respectively which organs to discharge their secretions?",
+            "options": [
+                "Pancreas and gall bladder",
+                "Gall bladder and stomach",
+                "Pancreas and stomach",
+                "Stomach and small intestine"
+            ],
+            "answer": "Pancreas and gall bladder",
+            "explanation": "(a)  Secretin and cholecystokinnin activate pancreas and gall bladder to discharge their secretions."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Which one among the following statements about blood transfusion is correct?  Blood group B can give blood to",
+            "options": [
+                "blood Group B and receive from Group AB",
+                "blood Groups B and AB and receive from Group B",
+                "blood Groups B and AB and receive from Group A",
+                "blood Group O and receive from Group B"
+            ],
+            "answer": "blood Groups B and AB and receive from Group B",
+            "explanation": "(b)  Blood group B can provide blood to blood Groups B and AB and gets from Group B and Group’O."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "What would happen if human blood becomes acidic (low pH)?",
+            "options": [
+                "Oxygen carrying capacity of haemoglobin is increased",
+                "Oxygen carrying capacity of haemoglobin is decreased",
+                "RBC count increases",
+                "RBC count decreases"
+            ],
+            "answer": "Oxygen carrying capacity of haemoglobin is decreased",
+            "explanation": "(b)  If human blood becomes acidic (low pH), The amount of CO2 is increased and O2 carrying capacity of haemoglobin is reduced."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Cancer is more common in older people because",
+            "options": [
+                "their immune systems have degenerated",
+                "the supply of certain hormones declines with age",
+                "their bodies are unable to adjust to the changing environment",
+                "they have accumulated more mutations"
+            ],
+            "answer": "they have accumulated more mutations",
+            "explanation": "(d)  Cancer is more common in older people because they have accumulation of more mutations."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Human blood is a viscous fluid. This viscosity is due to",
+            "options": [
+                "proteins in blood",
+                "platelets in plasma",
+                "sodium in serum",
+                "RBC and WBC in blood"
+            ],
+            "answer": "proteins in blood",
+            "explanation": "(a)  Blood is a viscous fluid in human being. This viscosity is due to presence of different proteins in blood."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "In humans, which one among the following with reference to breathing is correct?",
+            "options": [
+                "During inhalation, diaphragm relaxes",
+                "During exhalation, thorax cavity expands",
+                "During inhalation, intra-pleural pressure becomes more negative",
+                "Unlike inhalation, normal exhalation is an active process"
+            ],
+            "answer": "During inhalation, diaphragm relaxes",
+            "explanation": "(a)  During inhalation, the diaphragm contracts and flattens enlarging the volume of the thoracic cavity. Thus, reduction in intra-thoracic pressure takes place."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Which one among the following gases readily combines with the haemoglobin of the blood?",
+            "options": [
+                "Methane",
+                "Nitrogen dioxide",
+                "Carbon monoxide",
+                "Sulphur dioxide"
+            ],
+            "answer": "Carbon monoxide",
+            "explanation": "(c)  Carbon monoxide (CO) readily gets combined with the haemoglobin of the blood causing harmful effect."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Blood does not coagulate inside the body due to the presence of",
+            "options": [
+                "haemoglobin",
+                "heparin",
+                "fibrin",
+                "plasma"
+            ],
+            "answer": "heparin",
+            "explanation": "(b)  Heparin is an anticoagulant (blood thinner) that prevents the blood clotting. It is applied to cure  and prevent blood clots in the veins, arteries, or  lungs."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Vaseline was applied to both surfaces of the leaves of a plant. Which of the following process/ processes would be affected?",
+            "options": [],
+            "answer": "d",
+            "explanation": "(d)  All the above process will get stopped if vaseline is applied on both the surfaces of the leaf. Reason is that stomata will be blocked, all these processes requires the direct contact between the leaf and atmosphere."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "A person feeds on rice and vegetable made up of potato only. He is likely to suffer from deficiency of",
+            "options": [
+                "carbohydrate and vitamins",
+                "proteins",
+                "carbohydrate and proteins",
+                "proteins and fats"
+            ],
+            "answer": "proteins",
+            "explanation": "(b)  The person will  suffer from deficiency of protein because potato has very little amonut of  protein."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Which one among the following groups of animals maintains constant body temperature in changing environmental conditions?",
+            "options": [
+                "Birds",
+                "Fishes",
+                "Amphibians",
+                "Reptiles Biology 46"
+            ],
+            "answer": "Birds",
+            "explanation": "(a)  Birds are warm blooded animals maintaining a constant body temperature through the process of homeostasis. Fishes, amphibians and reptiles are  cold blooded animals."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Which organelle in the cell, other than nucleus, contains DNA?",
+            "options": [
+                "Endoplasmic reticulum",
+                "Golgi apparatus",
+                "Lysosome",
+                "Mitochondria"
+            ],
+            "answer": "Mitochondria",
+            "explanation": "(d)  Mitochondrial DNA is the DNA located in organelles called mitochondria. In eukaryotic cells it converts chemical energy from food into a Adenosine Triphosphate (ATP) that cells can use."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Which one among the following groups of items contains only biodegradable items?",
+            "options": [
+                "Paper, grass, glass",
+                "Wood, flower, iron-scrap",
+                "Sewage, plastic, leather",
+                "Cow-dung, paddy-husk, vegetable wastes"
+            ],
+            "answer": "Cow-dung, paddy-husk, vegetable wastes",
+            "explanation": "(d)  A biodegradable product gets decomposition safely and quickly, through biological process into the raw materials and disappear into the environment. Cow-dung, padddy-husk and vegetable wastes, are biodegradable products."
+        },
+        {
+            "subject": "Biology",
+            "year": "2013",
+            "cycle": "II",
+            "question": "Two strands of DNA are held together by",
+            "options": [
+                "hydrogen bonds",
+                "covalent bonds",
+                "electrostatic force",
+                "Van der Waals' forces"
+            ],
+            "answer": "hydrogen bonds",
+            "explanation": "(a)  Two strand of  DNA are held together by hydrogen- bond formed between the bases of two strand. Adenine pairs with Thymine by two Hydrogen-bond and Guanine pairs with cytosine by three Hydrogen-bond."
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "Chemistry 2015-II": [
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "II",
+            "question": "Red phosphorus is used in the manufacture of safety matches. This is due to the fact that",
+            "options": [
+                "it shows phosphorescence",
+                "at ordinary temperature, it is less reactive than other varieties of phosphorus",
+                "it cannot be converted to white phosphorus on heating",
+                "it does not react with halogen on heating"
+            ],
+            "answer": "at ordinary temperature, it is less reactive than other varieties of phosphorus",
+            "explanation": "(b)  Phosphorus is of the two types - White and red. White phosphorus is highly reactive and catches fire at normal room temperature but red phosphorus does not show such nature."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "II",
+            "question": "Match List-I with List-II and select the  correct answer using the code given below the Lists :  List-I List-II (Exponent) (Law) A. John Dalton",
+            "options": [],
+            "answer": "a",
+            "explanation": "(a)  Exponent - Law John Dalton - Law of multiple proportion Joseph Proust - Law of definite Proportion by weight Antoine Lavoisier - Law of Conservation of mass Joseph Louis Gay - Law of definite proportion Lussac by volume."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "II",
+            "question": "Which of the following is not gaseous air pollutant?",
+            "options": [
+                "Oxides of Sulphur",
+                "Oxides of nitrogen",
+                "Hydrocarbon",
+                "Smoke"
+            ],
+            "answer": "Hydrocarbon",
+            "explanation": "(c)  Hydrocarbon is related with petro chemicals such as crude oil and petrolium. Environmental pollution by crude oil is generally caused during disposal operations and spilling in water bodies like- oceans, seas and rivers."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "II",
+            "question": "Which one of the following statement is not correct?",
+            "options": [
+                "Water starts boiling when its vapour pressure becomes equal to atmospheric pressure.",
+                "Water is known as universal solvent.",
+                "Permanent hardness of water is due to presence of MgCl2, CaCl2, MgSO4 and CaSO4.",
+                "Density of ice is greater than that of water."
+            ],
+            "answer": "Density of ice is greater than that of water.",
+            "explanation": "(d)  Ice is less dense in comparison to liquid water. Actually when water freezes, water (H2O) molecules form a crystalline structure by Hydrogen bonds. These bonds cause molecules to push apart lowering the density of water (H2O)"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "II",
+            "question": "Which one of the following is not true for diamond?",
+            "options": [
+                "Each carbon atom is linked to four other carbon atoms",
+                "Three-dimensional network structure of carbon atoms is formed",
+                "It is used as an abrasive for sharpening hard tools",
+                "It can be used as a lubricant."
+            ],
+            "answer": "It can be used as a lubricant.",
+            "explanation": "(d)  The structure of diamond. In diamond each carbon (C) atom shares electrons (e-) with four other carbon atoms forming four single bond. shape of structure appears three dimensional network structure. It is very hard structure being used in cutting and sharpening tools. It cannot be used as lubricant."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "II",
+            "question": "The atomic theory of matter was first proposed by",
+            "options": [
+                "John Dalton",
+                "Rutherford",
+                "J. J. Thomson",
+                "Niels Bohr"
+            ],
+            "answer": "John Dalton",
+            "explanation": "(a)  John Dalton (1766-1844), an English chemist is known for the work in the development of modern atomic theory. He was awarded the Royal medal for this. 35 Chemistry"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "II",
+            "question": "Which one of the following physical quantities is the same for molecules of all gases at a given temperature?",
+            "options": [
+                "Speed",
+                "Mass",
+                "Kinetic energy",
+                "Momentum"
+            ],
+            "answer": "Kinetic energy",
+            "explanation": "(c)  Kinetic energy is the same for molecules of all gases at a given temperature."
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "Chemistry 2013-I": [
+        {
+            "subject": "Chemistry",
+            "year": "2013",
+            "cycle": "I",
+            "question": "Match the following lists.  List I List II (Agent) (Disease) A. Arsenic 1 Fluorosis B. Fluoride 2 Melanosis C. Dust 3 Presbycusis D. Noise 4 Sillicosis Code: A B C D A B C D",
+            "options": [
+                "3 1 4 2",
+                "3 4 1 2",
+                "2 1 4 3",
+                "2 4 1 3"
+            ],
+            "answer": "2 1 4 3",
+            "explanation": "(c) "
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2013",
+            "cycle": "I",
+            "question": "Which one among the following gases readily combines with the haemoglobin of the blood?",
+            "options": [
+                "Methane",
+                "Nitrogen dioxide",
+                "Carbon monoxide",
+                "Sulphur dioxide"
+            ],
+            "answer": "Carbon monoxide",
+            "explanation": "(c)  Carbon monoxide readily combines with the haemoglobin of the blood."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2013",
+            "cycle": "I",
+            "question": "Which of the following gases in the atmosphere is/are responsible for acid rains?",
+            "options": [],
+            "answer": "a",
+            "explanation": "(a)  Oxides of sulphur and nitrogen are responsible for acid rain. Sulphur dioxide and nitrogen oxide, react with the water molecules in the atmosphere to produce acids."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2013",
+            "cycle": "I",
+            "question": "Which one among the following metals is used in fireworks to make a brilliant white light?",
+            "options": [
+                "Sodium",
+                "Magnesium",
+                "Aluminium",
+                "Silver"
+            ],
+            "answer": "Magnesium",
+            "explanation": "(b)  Magnesium burns a very bright white, so it is used to add white sparks or improve the overall brilliance of a firework."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2013",
+            "cycle": "I",
+            "question": "Why hard water does not give lather with soap?",
+            "options": [
+                "Hard water contains calcium and magnesium ions which form precipitate with soap",
+                "Hard water contains sulphate and chloride ions which form precipitate",
+                "pH of hard water is high",
+                "pH of hard water is less"
+            ],
+            "answer": "Hard water contains calcium and magnesium ions which form precipitate with soap",
+            "explanation": "(a)  The main cause of hardness of water is presence of Ca or Mg ions. When hard water containing these ions is treated with soap solution it reacts to form white crudy ppt known as scum."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2013",
+            "cycle": "I",
+            "question": "What is the role of positive catalyst in a chemical reaction?",
+            "options": [
+                "It increases the rate of reaction",
+                "It decreases the rate of reaction",
+                "It increases the yield of the products",
+                "It provides better purity of the products"
+            ],
+            "answer": "It increases the yield of the products",
+            "explanation": "(c)  Catalysts are chemical substances used in chemical reactions that increases or decreases the rate of reaction without taking part in reaction positive catalysts speed up the reactions, where as negative catalysts slow them down."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2013",
+            "cycle": "I",
+            "question": "Which allotropy of carbon is in rigid three- dimensional structure?",
+            "options": [
+                "Graphite",
+                "Fullerene",
+                "Diamond",
+                "Carbon black"
+            ],
+            "answer": "Diamond",
+            "explanation": "(c)  Carbon atoms is diamond form a rigid, three dimensional structure with each carbon atom bonded to four other carbon atoms."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2013",
+            "cycle": "I",
+            "question": "Food cans are coated with tin but not with zinc because",
+            "options": [
+                "zinc is costlier than tin",
+                "zinc has a higher melting point than tin",
+                "zinc is more reactive than tin",
+                "tin is more reactive than zinc"
+            ],
+            "answer": "zinc is more reactive than tin",
+            "explanation": "(c)  Food cans are coated with tin instead of zinc because zinc is more reactive than tin. Tin is only reactive to powerful acids such as tri-sodium phosphate, while zinc is reactive towards acids."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2013",
+            "cycle": "I",
+            "question": "Which one among the following is responsible for the expansion of water in the ocean?",
+            "options": [
+                "Carbon dioxide",
+                "Nitrogen dioxide",
+                "Carbon monoxide",
+                "Sulphur dioxide DIRECTION (Q. 111) : The following questions consist of two statements. Statement I and Statement II. You are to examine these two statements carefully and select the answers to these items using the codes given below.",
+                "Both the statements are individually true and statement II is the correct explanation of Statement I.",
+                "Both the statements are individually true but Statement II is not the correct explanation of Statement I.",
+                "Statement I is true, but Statement II is false.",
+                "Statement I is false, but Statement II is true"
+            ],
+            "answer": "Carbon dioxide",
+            "explanation": "(a)  Carbon dioxide is responsible for the expansion of water in the ocean."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2013",
+            "cycle": "I",
+            "question": "Consider the following Statements.  Statement I Chlorine radicals CI* initiate the chain reaction for ozone depletion. Statement II Gaseous hypochlorous acid and chlorine are photolysed by sunlight. 112. Which element forms the highest number of compounds in the periodic table? I",
+            "options": [
+                "Carbon",
+                "Oxygen",
+                "Silicon",
+                "Sulphur"
+            ],
+            "answer": "Carbon",
+            "explanation": "(a)  Hypochlorous acid and chlorine on photochemical decomposition gives nascent chlorine which further deplete ozone layer Hv HOCl(g) OH(g) Cl(g) · · ¾¾¾ ® + · ¾¾¾® The following reaction display how Cl atoms have an ozone destrry cycle. Hv 2 Cl (g) 2Cl(g) 2 2 2 CF Cl CF Cl Cl · · ¾¾® + 3 2 Cl O ClO O · · + ¾¾® + 2 2 2ClO O 2Cl 2O · · + ¾¾® +"
+        }
+    ]
+}

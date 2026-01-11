@@ -1,0 +1,115 @@
+{
+    "Chemistry 2016-II": [
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "II",
+            "question": "Which one of the following is not an allotrope of carbon?",
+            "options": [
+                "Coal",
+                "Diamond",
+                "Graphite",
+                "Graphene"
+            ],
+            "answer": "Graphene",
+            "explanation": "(d)  Eight allotropes of carbon: a) Diamond, b) Graphite, c) Lonsdaleite, d) C60 (Buckminsterfullerene or buckyball), e) C540, f) C70, g) Amorphous carbon, and h) single-walled carbon nanotube or buckytube. Hence, (d) is the correct answer."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "II",
+            "question": "In paper manufacturing, degumming of the raw material is done using",
+            "options": [
+                "sulphuric acid",
+                "bleaching powder",
+                "caustic soda",
+                "nitric acid"
+            ],
+            "answer": "bleaching powder",
+            "explanation": "(b)  Bleaching of wood pulp is the chemical processing of wood pulp to lighten its color and whiten the pulp. The primary product of wood pulp is paper, for which whiteness (similar to, but distinct from brightness) is an important characteristic.[1] These processes and chemistry are also applicable to the bleaching of non- wood pulps, such as those made from bamboo or kenaf."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "II",
+            "question": "Dolomite powder is applied in some agricultural lands. The purpose of applying it is to",
+            "options": [
+                "increase the pH of the soil",
+                "lower the pH of the soil",
+                "increase the phosphorus content of the soil",
+                "increase the nitrogen content of the soil 167. Excessive use of which of the following fertilizers may be responsible for the presence of a toxic substance in groundwater?",
+                "Nitrogen",
+                "Phosphate only",
+                "Potassium only",
+                "Phosphate and potassium"
+            ],
+            "answer": "increase the pH of the soil",
+            "explanation": "(a)  Dolomite is used in agriculture to raise the pH of overly acidic soil and provide nutrients for plants. It contains calcium carbonate and magnesium carbonate, two basic pH-raising ingredients that counteract the acids in soil and peat."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "II",
+            "question": "Which one of the following elements does not form solid hydrogen carbonate?",
+            "options": [
+                "Sodium",
+                "Potassium",
+                "Caesium",
+                "Lithium"
+            ],
+            "answer": "Lithium",
+            "explanation": "(d)  Due to the small size of lithium, it will polarize the large anion oxygen, the C–OC–O bond will weaken and Li–OLi–O bond will strengthen, they will split, and they will not be in the solid state."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "II",
+            "question": "In the gamma decay of a nucleus",
+            "options": [
+                "the mass number of the nucleus changes whereas its atomic number does not change",
+                "the mass number of the nucleus does not change whereas its atomic number changes",
+                "both the mass number and the atomic number of the nucleus change",
+                "neither the mass number nor the atomic number of the nucleus changes"
+            ],
+            "answer": "neither the mass number nor the atomic number of the nucleus changes",
+            "explanation": "(d)  Gamma decay, type of radioactivity in which some unstable atomic nuclei dissipate excess energy by a spontaneous electromagnetic process. In the radioactive substances, gamma decay occurs after the alpha and the beta decay. As the radioactive substance has already released some of its particles in the alpha and the beta decay it simply wants to release energy burst of electromagnetic radiations. The nuclei has comes to the stable state and releases energy in the form of gamma rays. In the gamma decay as no particles either protons or nucleons are released so the element before the radioactive gamma decay and after the gamma decay remains same."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "II",
+            "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :  List-I List-II (Element) (Property/ Use) A. Mg",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  Magnesium (Mg) is main elements of Chlorophyll, found in plants which trap energy of sunlight in photosynthesis. Calcium (Ca) and Magnesium (Mg) work together to control muscle contraction. Osteoporosis is caused due to the deficiency in our body. Strontium (Sr) is a soft, silver-yellow, alkaline-earth metal. It has three allotropic crystalline forms and in its physical and chemical properties it is similar to calcium and barium. It gives red colour to flame. Barium (Ba) Sulphate compound is used in medicine to examine the elementary canal of patient."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "II",
+            "question": "Which one of the following statements is correct?",
+            "options": [
+                "The oxidation number for hydrogen is always zero.",
+                "The oxidation number for hydrogen is always +1.",
+                "The oxidation number for hydrogen is always -1.",
+                "Hydrogen can have more than one oxidation number."
+            ],
+            "answer": "Hydrogen can have more than one oxidation number.",
+            "explanation": "(d)  The oxidation state of hydrogen is +1 in its compounds, except for metal hydrides, such as NaH, LiH, etc., in which the oxidation state for H is –1."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2016",
+            "cycle": "II",
+            "question": "In case of a standard hydrogen electrode",
+            "options": [
+                "absolute electrode potential is not zero",
+                "absolute electrode potential is zero",
+                "both absolute and standard electrode potential values are zero",
+                "electrode potential is zero only at 25°C"
+            ],
+            "answer": "electrode potential is zero only at 25°C",
+            "explanation": "(d)  A Standard Hydrogen Electrode (SHE) is an electrode that scientists use for reference on all half-cell potential reactions. The value of the standard electrode potential is zero at 25°C, which forms the basis one needs to calculate cell potentials using different electrodes or different concentrations."
+        }
+    ]
+}

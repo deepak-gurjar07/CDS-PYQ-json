@@ -1,0 +1,50 @@
+{
+    "General Knowledge 2012-II": [
+        {
+            "subject": "General Knowledge",
+            "year": "2012",
+            "cycle": "II",
+            "question": "Consider the following statements",
+            "options": [],
+            "answer": "a",
+            "explanation": "(a) "
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2012",
+            "cycle": "II",
+            "question": "Which of the fallowing are responsible for the decrease of per capita holding of cultivated land in India?",
+            "options": [],
+            "answer": "a",
+            "explanation": "(a) "
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2012",
+            "cycle": "II",
+            "question": "In the parlance of financial investment, the term bear denotes",
+            "options": [
+                "an investor, who feels that the price of a particular security is going to fall",
+                "an investor, who expects the price of a particular share to rise",
+                "a shareholder, who has an interest in a company, financially or otherwise",
+                "any lender, whether by making a loan or buying a bond"
+            ],
+            "answer": "an investor, who feels that the price of a particular security is going to fall",
+            "explanation": "(a) "
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2012",
+            "cycle": "II",
+            "question": "Which one among the following is an appropriate description of deflation?",
+            "options": [
+                "it is a sudden fall in the value of a currency against other currencies",
+                "It is a persistent recession in the economy",
+                "It is a persistent fall in the general price level of goods and services",
+                "It is fall in the rate of inflation over a period of time"
+            ],
+            "answer": "it is a sudden fall in the value of a currency against other currencies",
+            "explanation": "(a) "
+        }
+    ]
+}

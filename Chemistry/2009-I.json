@@ -1,0 +1,144 @@
+{
+    "Chemistry 2009-I": [
+        {
+            "subject": "Chemistry",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Which one of the following is heavy water used in nuclear reactor?",
+            "options": [
+                "Water having molecular weight 18 u",
+                "Water having molecular weight 20 u",
+                "Water at 4°C but having molecular weight 19 u",
+                "Water below the ice in a frozen sea"
+            ],
+            "answer": "Water having molecular weight 20 u",
+            "explanation": "(b)  Heavy water (D2O) is used in nuclear reactor as a moderator. The deuterium is an isotope of hydrogen. Its atomic mass is 2. Hence its molecular weight is 20u (2 + 18)."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2009",
+            "cycle": "I",
+            "question": "The rusting of iron nail",
+            "options": [
+                "decreases its weight",
+                "increases its weight",
+                "does not affect weight but iron is oxidised",
+                "does not affect weight but iron is reduced"
+            ],
+            "answer": "increases its weight",
+            "explanation": "(b)  The rusting of iron nail takes place in the presence of air (oxygen) and water (moisture). It increases the weight of iron nail due to the formation of rust. 4Fe + 3O2 + xH2O ® 2 3 2 Rust 2Fe O . H O x"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Which one of the following when dissolved in H2O gives hissing sound?",
+            "options": [
+                "Limestone",
+                "Slaked lime",
+                "Sodalime",
+                "Quicklime"
+            ],
+            "answer": "Quicklime",
+            "explanation": "(d)  On adding water, quicklime (CaO) gives a hissing sound and forms calcium hydroxide commonly known as slaked lime. CaO + H2O ® C Ca (OH2) + 15000 calories"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Commercial vulcanisation of rubber involves",
+            "options": [
+                "sulphur",
+                "carbon",
+                "phosphorus",
+                "selenium"
+            ],
+            "answer": "sulphur",
+            "explanation": "(a)  Vulcanisation is a process in which natural rubber is treated with 3-5% sulphur. It introduces sulphur bridges between polymer chains thereby increasing its tensile strength, elasticity and resistance to abrasion."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Aqua-regia used by alchemists to separate silver and gold is a mixture of",
+            "options": [
+                "hydrochloric   acid    (concentrated)    and   nitric   acid (concentrated)",
+                "hydrochloric  acid   (concentrated)  and  sulphuric acid (concentrated)",
+                "nitric acid (concentrated) and sulphuric acid (concentrated)",
+                "hydrochloric acid (dilute) and sulphuric acid (dilute)"
+            ],
+            "answer": "hydrochloric   acid    (concentrated)    and   nitric   acid (concentrated)",
+            "explanation": "(a)  Aqua-regia is a mixture of concentrated nitric acid and concentrated hydrochloric acid in the ratio 1 : 3 respectively. It is a very powerful oxidising mixture."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Nail polish remover contains",
+            "options": [
+                "acetone",
+                "benzene",
+                "formaldehyde",
+                "acetic acid"
+            ],
+            "answer": "acetone",
+            "explanation": "(a)  Acetone is used as a solvent. It is an ingredient of nail polish remover."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Statement I : Soaps do not form lather with water containing salts of calcium and magnesium.  Statement II : Calcium and magnesium salts of long chain fatty acids are insoluble in water.",
+            "options": [
+                "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+                "Both the statements are individually true but Statement II is not the correct explanation of Statement I.",
+                "Statement I is true, but Statement II is false.",
+                "Statement I is false, but Statement II is true."
+            ],
+            "answer": "Both the statements are individually true and Statement II is the correct explanation of Statement I.",
+            "explanation": "(a)  Soaps do not form lather with hard water which contains salts of calcium and magnesium because calcium and magnesium salts of long chain fatty acids are insoluble in water."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Which one of the following is associated with the formation of brown air in traffic congested cities?",
+            "options": [
+                "Sulphur dioxide",
+                "Nitrogen oxide",
+                "Carbon dioxide",
+                "Carbon monoxide"
+            ],
+            "answer": "Nitrogen oxide",
+            "explanation": "(b)  Nitrogen dioxide (NO2) is a reddish brown gas. It has pungent smell and considered as air pollutant. In the presence of sunlight hydrocarbons and oxides of Nitrogen react to form ozone and PAN (peroxy Acetyl Nitrate). Smog is formed in traffic congested cities. Hytrocarbon + Nitrogen oxides Sunlight 3 O PAN+aldehyde ¾¾¾® +"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Which one of the following petroleum refinery products has the lowest boiling point?",
+            "options": [
+                "Kerosene",
+                "Diesel",
+                "Gasoline",
+                "Lubricating oil"
+            ],
+            "answer": "Gasoline",
+            "explanation": "(c) Product Boiling Point (°C) (a) Kerosene 200-300° (b) Diesel above 300° (c) Gasoline 25-75°C (d) Lubricating oil >350°C"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Which one of the following is used as a mordant in dyeing and tanning industry?",
+            "options": [
+                "Magnesium oxide",
+                "Magnesium carbonate",
+                "Magnesium chloride",
+                "Magnesium sulphate"
+            ],
+            "answer": "Magnesium sulphate",
+            "explanation": "(d)  Magnesium sulphate (MgSO4) is used as a mordant in dyeing and tanning industry."
+        }
+    ]
+}

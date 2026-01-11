@@ -1,0 +1,204 @@
+{
+    "General Knowledge 2019-II": [
+        {
+            "subject": "General Knowledge",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Which one of the following statements with regard to economic models is not correct ?",
+            "options": [
+                "They involve simplification of complex processes.",
+                "They represent the whole or a part of a theory.",
+                "They can be expressed only through equations.",
+                "They help in gaining an insight into cause and effect."
+            ],
+            "answer": "They can be expressed only through equations.",
+            "explanation": "(c)  The economic model is a theoretical construct representing economic processes by a set of variables and a set of logical and/or quantitative relationships between them. The economic model is a simplified, often mathematical, framework designed to illustrate complex processes. Frequently, economic models posit structural parameters.A model may have various exogenous variables, and those variables may change to create various responses by economic variables. Methodological uses of models include investigation, theorizing, and fitting theories to the world."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2019",
+            "cycle": "II",
+            "question": "The value of the slope of a normal demand curve is",
+            "options": [
+                "positive",
+                "negative",
+                "zero",
+                "infinity"
+            ],
+            "answer": "negative",
+            "explanation": "(b)  Normal demand curve is the graph that shows relationship between demand and price under ceteris paribus… normal demand curve shows negative slope because of the inversely proportional between price and quantity demanded in the market such that when the price is higher quantity demanded decreases and vise versa."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Which one of the following is an example of a price floor ?",
+            "options": [
+                "Minimum Support Price (MSP) for Jowar in India",
+                "Subsidy given to farmers to buy fertilizers",
+                "Price paid by people to buy goods from ration shops",
+                "Maximum Retail Price (MRP) printed on the covers/ packets of goods sold in India"
+            ],
+            "answer": "Minimum Support Price (MSP) for Jowar in India",
+            "explanation": "(a)  Minimum Support Price is the price at which government purchases crops from the farmers, whatever may be the price for the crops. Minimum Support Price is an important part of India›s agricultural price policy. The MSP helps to incentivize the framers and thus ensures adequate food grains production in the country."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Which one of the following factors is not considered in determining the Minimum Support Price (MSP) in India ?",
+            "options": [
+                "Cost of production",
+                "Price trends in international and domestic markets",
+                "Cost of living index",
+                "Inter-crop price parity"
+            ],
+            "answer": "Cost of living index",
+            "explanation": "(c)  A cost-of-living index is a theoretical price index that measures relative cost of living over time or regions. It is an index that measures differences in the price of goods and services, and allows for substitutions with other items as prices vary. Minimum Support Price is the price at which government purchases crops for the farmers, to safeguard the interests of the farmers."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Which one of the following is not a dimension of the Human Development Index ?",
+            "options": [
+                "A long and healthy life",
+                "Knowledge",
+                "Access to banking and other financial provisions",
+                "A decent standard of living"
+            ],
+            "answer": "Access to banking and other financial provisions",
+            "explanation": "(c)  The Human Development Index (HDI) is a statistic composite index of life expectancy, education, and per capita income indicators, which are used to rank countries into four tiers of human development. ... Examples include—Being: well fed, sheltered, healthy; Doing: work, education, voting, participating in community life."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Gini Coefficient or Gini Ratio can be associated with which one of the following measurements in an economy ?",
+            "options": [
+                "Rate of inflation",
+                "Poverty index",
+                "Income inequality",
+                "Personal income"
+            ],
+            "answer": "Income inequality",
+            "explanation": "(c)  In economics, the Gini coefficient  sometimes called the Gini index or Gini ratio, is a measure of statistical dispersion intended to represent the income or wealth distribution of a nation’s residents, and is the most commonly used measurement of inequality. It was developed by the Italian statistician and sociologist Corrado Gini and published in his 1912 paper Variability and Mutability."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2019",
+            "cycle": "II",
+            "question": "What do you mean by ‘Demographic Dividend’ ?",
+            "options": [
+                "A rise in the rate of economic growth due to a higher share of working age people in a population",
+                "A rise in the rate of literacy due to development of educational institutions in different parts of the country",
+                "A rise in the standard of living of the people due to the growth of alternative livelihood practices",
+                "A rise in the gross employment ratio of country due to government policies Economics 232"
+            ],
+            "answer": "A rise in the rate of economic growth due to a higher share of working age people in a population",
+            "explanation": "(a)  Demographic dividend, as defined by the United Nations Population Fund (UNFPA) means, “the economic growth potential that can result from shifts in a population’s age structure, mainly when the share of the working-age population (15 to 64) is larger than the non- working-age share of the population (14 and younger, and 65 and older). In other words, it is “a boost in economic productivity that occurs when there are growing numbers of people in the workforce relative to the number of dependents. UNFPA stated that, “A country with both increasing numbers of young people and declining fertility has the potential to reap a demographic dividend."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Which one of the following equals Personal Disposable Income?",
+            "options": [
+                "Personal Income – Direct taxes paid by households and miscellaneous fees, fines, etc.",
+                "Private Income – Saving of Private Corporate Sectors – Corporation Tax",
+                "Private Income – Taxes",
+                "Total expenditure of Households – Income Tax –  Gifts received"
+            ],
+            "answer": "Personal Income – Direct taxes paid by households and miscellaneous fees, fines, etc.",
+            "explanation": "(a)  Disposable income is total personal income minus personal current taxes. In national accounts definitions, personal income minus personal current taxes equals disposable personal income.[2] Subtracting personal outlays (which includes the major category of personal [or private] consumption expenditure) yields personal (or, private) savings, hence the income left after paying away all the taxes is referred to as disposable income."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2019",
+            "cycle": "II",
+            "question": "The working of the price mechanism in a free-market economy refers to which one of the following ?",
+            "options": [
+                "The interplay of the forces of demand and supply",
+                "Determination of the inflation rate in the economy",
+                "Determination of the economy’s propensity to consume",
+                "Determination of the economy’s full employment output"
+            ],
+            "answer": "The interplay of the forces of demand and supply",
+            "explanation": "(a)  The term free price system refers to an economic system where prices are decided by exchange of demand and supply and the prices resulting from it is taken as a signal which is communicated between consumers and producers and which helps in guiding production and distribution of the resources. The interaction of buyers and sellers in free markets enables goods, services, and resources to be allocated prices. ... Resources move towards where they are in the shortest supply, relative to demand, and away from where they are least demanded."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Indexation is a method whose use can he associated with which one of the following ?",
+            "options": [
+                "Controlling inflation",
+                "Nominal GDP estimation",
+                "Measurement of savings rate",
+                "Fixing of wage compensation"
+            ],
+            "answer": "Controlling inflation",
+            "explanation": "(a)  Indexation is a technique to adjust income payments by means of a price index, in order to maintain the purchasing power of the public after inflation, while deindexation is the unwinding of indexation. Indexation is used to adjust the purchase price of an investment to reflect the effect of inflation on it. A higher purchase price means lesser profits, which effectively means a lower tax. With the help of indexation, you will be able to lower your long- term capital gains, which brings down your taxable income."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Who among the following has given the concept of Human Development ?",
+            "options": [
+                "Amartya Sen",
+                "Mahbub-ul-Haq",
+                "Sukhamoy Chakravarty",
+                "G.S. Chaddha"
+            ],
+            "answer": "Mahbub-ul-Haq",
+            "explanation": "(b)  Human development is defined as the process of enlarging people’s freedoms and opportunities and improving their well-being. ... The human development concept was developed by economist Mahbub ul Haq."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Which of the following statements with regard to the ‘Make in India’ initiative is/are correct ?",
+            "options": [],
+            "answer": "d",
+            "explanation": "(d)  It was launched by Prime Minister. Narendra Modi on 25 September 2014. Make in India is a major national programme of the Government of India designed to facilitate investment, foster innovation, enhance skill development, protect intellectual property and build best in class manufacturing infrastructure in the country."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Which one of the following States does not have  a Legislative Council ?",
+            "options": [
+                "Karnataka",
+                "Telangana",
+                "Jammu and Kashmir",
+                "Arunachal Pradesh"
+            ],
+            "answer": "Arunachal Pradesh",
+            "explanation": "(d)  The State Legislative Council  is the upper house in those states of India that have a bicameral state legislature; the lower house being the State Legislative Assembly. Its establishment is defined in Article 169 of the Constitution of India. 241 Economics As of November 2019, after the bifurcation of Jammu and Kashmir, 6 out of 28 states have a State Legislative Council. The latest state to have a council is Telangana. In accordance with a resolution passed by the Andhra Pradesh Vidhan Sabha, the Indian Parliament abolished the Vidhan Parishad through the Andhra Pradesh Legislative Council (Abolition) Act in 1985, after the Congress (I) suffered a major defeat in the state elections in Andhra Pradesh."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Which of the following statements about ‘Invest India’ is/ are correct ?",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  Invest India is India’s official agency dedicated to investment promotion and facilitation. It is a not-for-profit, single window facilitator, set up in 2010 for prospective overseas investors and to those aspiring Indian investors desiring to invest in foreign locations, and acts as a structured mechanism to attract investment. Invest India is essentially an Investment Promotion Agency in India."
+        },
+        {
+            "subject": "General Knowledge",
+            "year": "2019",
+            "cycle": "II",
+            "question": "Who  among  the  following  was  the  Chairman  of  the Committee on Deepening Digital Payments appointed by the RBI ?",
+            "options": [
+                "H.R. Khan",
+                "Nandan Nilekani",
+                "N.R. Narayana Murthy",
+                "Sanjay Jain"
+            ],
+            "answer": "Nandan Nilekani",
+            "explanation": "(b)  The Reserve Bank of India had constituted a High- Level Committee on Deepening of Digital Payments under the Chairmanship of Shri Nandan Nilekani, former Chairman, UIDAI, in January 2019. 183. (a) Saubhagya. Pradhan Mantri Sahaj Bijli Har Ghar Yojana – ‘Saubhagya’ a new scheme was launched by the Hon’ble Prime Minister on 25th September 2017. Under Saubhagya free electricity connections to all households (both APL and poor families) in rural areas and poor families in urban areas will be provided."
+        }
+    ]
+}

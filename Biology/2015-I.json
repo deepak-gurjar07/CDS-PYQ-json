@@ -1,0 +1,74 @@
+{
+    "Biology 2015-I": [
+        {
+            "subject": "Biology",
+            "year": "2015",
+            "cycle": "I",
+            "question": "Which one among the following statements is correct ?",
+            "options": [
+                "Prokaryotic cells possess nucleus.",
+                "Cell membrane is present both in plant and animal cells.",
+                "Mitochondria and chloroplasts are not found in eukaryotic cells.",
+                "Ribosomes are present in eukaryotic cells only."
+            ],
+            "answer": "Cell membrane is present both in plant and animal cells.",
+            "explanation": "(b)  A prokaryote is a single-celled organism that lacks a membrane-bound nucleus (karyon). Plant and animal cells are both eukaryotic cells, so they have several features in common, such as the presence of a cell membrane, mitochondria and endoplasmic reticulum. Chloroplasts are found in plant cells which is eukaryotic. Ribosomes are found in both prokaryotes and eukaryotes."
+        },
+        {
+            "subject": "Biology",
+            "year": "2015",
+            "cycle": "I",
+            "question": "Which one among the following statements is not true for Mammals ?",
+            "options": [
+                "They possess hair on the body.",
+                "Some of them lay eggs.",
+                "Their heart is three chambered",
+                "Some are aquatic."
+            ],
+            "answer": "Their heart is three chambered",
+            "explanation": "(c)  Characteristics of mammals: • Vertebrates (which means they have a backbone or spine). • Regulate their own body temperate which allows them to live in almost every climate on Earth. • Have hair on their bodies. • Produce milk to feed their babies. • Four chambered heart: two atria and two ventricles (bird and mammal)"
+        },
+        {
+            "subject": "Biology",
+            "year": "2015",
+            "cycle": "I",
+            "question": "In human digestive system, the process of digestion starts in",
+            "options": [
+                "Oesophagus",
+                "Buccal cavity",
+                "Duodenum",
+                "Stomach"
+            ],
+            "answer": "Buccal cavity",
+            "explanation": "(b)  In human digestive system the process of digestion starts  in  buccal  cavity.  The  buccal  cavity  is  more commonly known as the mouth, and it is the beginning of the digestive system for humans and animals alike. It starts with the lips and ends with the throat, covering the oral cavity, the tongue, and the jaw in between."
+        },
+        {
+            "subject": "Biology",
+            "year": "2015",
+            "cycle": "I",
+            "question": "Which one of the following diseases in humans can spread through air ?",
+            "options": [
+                "Dengue",
+                "Tuberculosis",
+                "HIV-AIDS",
+                "Goitre"
+            ],
+            "answer": "Tuberculosis",
+            "explanation": "(b)  The TB bacteria are put into the air when a person with TB disease of the lungs or throat coughs, sneezes, speaks, or sings. People nearby may breathe in these bacteria and become infected."
+        },
+        {
+            "subject": "Biology",
+            "year": "2015",
+            "cycle": "I",
+            "question": "Which one among the following structures or cells is not present in connective tissues ?",
+            "options": [
+                "Chondrocytes",
+                "Axon",
+                "Collagen fibre",
+                "Lymphocytes"
+            ],
+            "answer": "Axon",
+            "explanation": "(b)  An axon is also known as a nerve fibre. It is a long, slender projection of a nerve cell, or neuron that typically conducts electrical impulses away from the neuron's cell body. Each nerve is a cordlike structure that contains many axons and also called nerve fibres. Within a nerve, each axon is surrounded by a layer of connective tissue called the endoneurium."
+        }
+    ]
+}

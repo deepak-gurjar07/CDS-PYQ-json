@@ -1,0 +1,69 @@
+{
+    "Chemistry 2013-II": [
+        {
+            "subject": "Chemistry",
+            "year": "2013",
+            "cycle": "II",
+            "question": "NaOH + HC1 -> NaCl + H2O in the given chemical reaction",
+            "options": [
+                "sodium is oxidised and oxygen is reduced",
+                "sodium is oxidised and chlorine is reduced",
+                "sodium and hydrogen are oxidised",
+                "None of them are oxidised or reduced"
+            ],
+            "answer": "None of them are oxidised or reduced",
+            "explanation": "(d)  It is a simple displacement reaction in which Hydrogen is displaced by Sodium metal, results in the formation of sodium chloride (NaCl). Also the oxidation state of each atom is same in both sides."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2013",
+            "cycle": "II",
+            "question": "A liquid initially contracts when cooled down to 4°C but on further cooling down to 0°C, it expands.  The liquid is",
+            "options": [
+                "alcohol",
+                "water",
+                "molten iron",
+                "mercury"
+            ],
+            "answer": "water",
+            "explanation": "(b)  Water shows maximum density at 4°C. At freezing point it expands and density decreases."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2013",
+            "cycle": "II",
+            "question": "What are the elements which are liquids at room temperature and standard pressure?",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  Mercury (Hg), a metal is a liquid at room temperature and standard pressure. Bromine (Br2) a non metal is a liquid at room temperature and standard pressure."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2013",
+            "cycle": "II",
+            "question": "A compound that is a white solid which absorbs water vapour from the air is",
+            "options": [
+                "sodium nitrate",
+                "calcium chloride",
+                "sodium carbonate",
+                "calcium sulphate"
+            ],
+            "answer": "calcium sulphate",
+            "explanation": "(d)  A compound calcium sulphate (CaSO4) which is a white solid is highly hygroscopic in nature. It has a very remarkable property of setting into a hard, solid mass on wetting with water."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2013",
+            "cycle": "II",
+            "question": "What type of mixture is smoke?",
+            "options": [
+                "Solid mixed with a gas",
+                "Gas mixed with a gas",
+                "Liquid mixed with a gas",
+                "Gas mixed with a liquid and a solid"
+            ],
+            "answer": "Gas mixed with a liquid and a solid",
+            "explanation": "(d)  Smoke is a collection of airborne solid and liquid particulates and gases emitted when a material undergoes combustion or pyrolysis, together with entrapment of liquid droplets or solid particulates in a flowing gas."
+        }
+    ]
+}

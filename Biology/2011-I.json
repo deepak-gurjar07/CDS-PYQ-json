@@ -1,0 +1,223 @@
+{
+    "Biology 2011-I": [
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Due to contraction of eyeball, a long-sighted eye can see only",
+            "options": [
+                "farther objects which is corrected by using convex lens",
+                "farther objects which is corrected by using concave lens",
+                "nearer objects which is corrected by using convex lens",
+                "nearer objects which is corrected by using concave lens"
+            ],
+            "answer": "farther objects which is corrected by using convex lens",
+            "explanation": "(a)  The contraction of eyeball brings about in a long- sighted eye. To see the nearby objects, a convex lense is used."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Dead organs are generally stored in formalin. Formalin is beacuse it acts as a disinfectant which is due to the presence of formaldehyde",
+            "options": [
+                "aqueous ferrous sulphate",
+                "aqueous formaldehyde",
+                "aqueous formic acid",
+                "aqueous feme alum"
+            ],
+            "answer": "aqueous formaldehyde",
+            "explanation": "(b)  Formalin contains 40% aqueous solution of formaldehyde. Dead organs are preserved in 10% formalin solution."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Insects that can transmit diseases to human are referred to as",
+            "options": [
+                "carriers",
+                "reservoirs",
+                "vectors",
+                "incubators"
+            ],
+            "answer": "vectors",
+            "explanation": "(c)  Insects that transmit diseases to humans are known as vectors. Insects may carry infection mechanically on feet or mouth parts, by passage through the digestive tract but without the insect being infected or by becoming an intermediate host with some part of the parasite’s life cycle occuring in the insect tissue."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Photochemical smog occurs in",
+            "options": [
+                "cool and humid climate",
+                "warm, dry and sunny climate",
+                "cool, dry and sunny climater",
+                "warm and humid climate"
+            ],
+            "answer": "warm, dry and sunny climate",
+            "explanation": "(b)  Photochemical smog takes place in warm, dry and sunny climate.The word smog means ‘smoke’ and ‘fog’ means ‘smoky fog’. Its main components are created from the action of sunlight on unsaturated hydrocarbons and nitrogen oxide produced by automobiles and factories."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Which of the following diseases are transmitted from one person to another?",
+            "options": [],
+            "answer": "b",
+            "explanation": "(b)  Cirrhosis is a only disorder which is caused due to excessive drink of alcohol or hepatitis. All the other three disorders are infectious diseases and transmitted from one peron to another."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Which  one  among  the  following  industries produces the most non-biodegradable wastes?",
+            "options": [
+                "Thermal power plants",
+                "Food processing units",
+                "Textile mills",
+                "Paper mills"
+            ],
+            "answer": "Thermal power plants",
+            "explanation": "(a) The most non biodegradable wastes are produced by thermal power plants. They utilize radioactive elements as raw material and thus evolves radioactive wastes which takes a very long period (hundreds of years) for losing its radioactivity completely."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "In dry regions, the leaf size of a tree becomes smaller. It is so to",
+            "options": [
+                "reduce metabolism",
+                "reduce transpiration",
+                "maintain natural growth",
+                "protect plant from animals"
+            ],
+            "answer": "reduce transpiration",
+            "explanation": "(b)  The small leaves possess no or very few stomata thus the loss of water by transpiration is decreased and protects the plant from dehydration."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Bats can fly in dark because they",
+            "options": [
+                "have strong wings",
+                "have sharp eyes",
+                "produce ultrasonic waves",
+                "are nocturnal"
+            ],
+            "answer": "produce ultrasonic waves",
+            "explanation": "(c)  Bats can fly  in dark because they transmit ultrasonic waves. The bats have very poor vision. It cannot see in dark. It produces ultrasonic waves striking with the obstacles present on its path. The bat receives its echo and changes its path to protect itself from collision."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "White blood cells act",
+            "options": [
+                "as a defence against infection",
+                "as source of energy",
+                "as a clotting agent",
+                "as a medium for oxygen transport from lungs to tissues"
+            ],
+            "answer": "as a defence against infection",
+            "explanation": "(a)  White blood cells destroy foreign proteins (bodies) e.g pathogens by the process of phagocytosis and in this way protects the body from infection."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Rain water collected after 30 to 40 minutes of raining is not suitable for drinking because it",
+            "options": [
+                "contains bacteria and dirt",
+                "contains dissolved toxic chemicals",
+                "is deficient in minerals",
+                "is acidic"
+            ],
+            "answer": "is acidic",
+            "explanation": "(d)  After raining for 30-40 minutes, the pollutants present in atmosphere come down with raining water that raise its pH upto 5.6 making it acidic in nature."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Which one among the following elements/ions is essential in small quantities for the development of healthy teeth but causes mottling of the teeth if consumed in higher quantities?",
+            "options": [
+                "Iron",
+                "Chloride",
+                "Fluoride",
+                "Potassium"
+            ],
+            "answer": "Fluoride",
+            "explanation": "(c)  Fluoride is essential in small quantity for the protection of  the teeth but in high quantity it causes fluorosis deforming the teeth."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Which one among the following is not correct about Down's syndrome?",
+            "options": [
+                "It is a genetic disorder",
+                "Effected individual has early ageing",
+                "Effected person has mental retardation",
+                "Effected person has furrowed tongue with open mouth"
+            ],
+            "answer": "Effected individual has early ageing",
+            "explanation": "(b)  Down’s syndrome is characterised by an extra chromosome 21. It is also known as  trisomy 21. All the given characters are observed in Down’s syndrome, except option (b) only early ageing which is the symptom of progeria disease."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Dog bite can cause rabies. Which among the following other animals can also cause rabies?",
+            "options": [
+                "Donkey",
+                "Bat",
+                "Horse",
+                "Crocodile"
+            ],
+            "answer": "Bat",
+            "explanation": "(b)  Some bats are sanguivorous feeding on animal blood. When it sucks the blood of an animal which is suffering from rabies, it can cause rabies if it bites another animal or man."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Which one among the following group of items contain only biodegradable items?",
+            "options": [
+                "Wood, Grass, Plastic",
+                "Wood, Grass, Leather",
+                "Fruit peels, Lime juice, China clay cup",
+                "Lime juice, Grass, Polystyrene cup"
+            ],
+            "answer": "Wood, Grass, Leather",
+            "explanation": "(b)  All the three items are organic  matter and produced by living organisms thus are biodegradable wood is obtained from trees and leather is obtained from the hides of animals. Glass is acquired naturally or by melting silicates."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "When we eat something we like, our mouth waters. This is actually not water but fluid secreted from",
+            "options": [
+                "nasal glands",
+                "oval epithelium",
+                "salivary glands",
+                "tongue"
+            ],
+            "answer": "salivary glands",
+            "explanation": "(c)  Salivary glands secrete amylase enzyme (ptyalin) and water to moist the food and to digest starch.  When we see, smell or eat something we like, the salivary glands are stimulated and secrete saliva in buccal cavity thus watering the mouth."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Why do you feel cool under a tree but not so under a tin shed on a sunny day?",
+            "options": [
+                "The greenness of the tree gives the cool feeling",
+                "Photosynthesis absorbs heat",
+                "The leaves convert water vapours into water which is a heat-absorbing process",
+                "The leaves give out water which vapourises absorbing some heat as latent heat"
+            ],
+            "answer": "The leaves give out water which vapourises absorbing some heat as latent heat",
+            "explanation": "(d)  The transpiration takes place from the leaves surface all the time. The water taken out from leaves absorbs heat from the surrounding atmosphere to vapourise so the area under a tree becomes cool."
+        }
+    ]
+}

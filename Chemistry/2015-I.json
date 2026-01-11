@@ -1,0 +1,120 @@
+{
+    "Chemistry 2015-I": [
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "I",
+            "question": "When hard water is evaporated completely, the white solid remains in the container. It may be due to the presence of",
+            "options": [],
+            "answer": "b",
+            "explanation": "(b)  The white solid remains in the container when hard water is evaporated completely is mainly due to the presence of chlorides and carbonates of Ca and Mg and also due to presence of traces of sulphates of Ca and Mg."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "I",
+            "question": "Which one among the following compounds has same equivalent weight and molecular weight ?",
+            "options": [
+                "H2SO4",
+                "CaCl2",
+                "Na2SO4",
+                "NaCl"
+            ],
+            "answer": "NaCl",
+            "explanation": "(d)  NaCl has same molecular weight and equivalent weight Molecular weight of salt Equivalent weight of salt = Total charge on cation Molecular weight of NaCl = 23 + 35.5 = 58.5 \\ Equivalent weight of NaCl = 58.5 1 = 58.5"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "I",
+            "question": "A metallic plate sticks firmly on the mouth of a water vessel made from another metal. By way of heating, one can detach the plate from the vessel. This is because heat expands",
+            "options": [
+                "the vessel only",
+                "both the vessel and the plate equally",
+                "the vessel more than the plate",
+                "the vessel and contracts the plate"
+            ],
+            "answer": "the vessel more than the plate",
+            "explanation": "(c)  Due to more expansion of vassel, plate comes out easily."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "I",
+            "question": "Electricity is produced through dry cell from",
+            "options": [
+                "chemical energy",
+                "thermal energy",
+                "mechanical energy",
+                "nuclear energy"
+            ],
+            "answer": "chemical energy",
+            "explanation": "(a)  Electricity  is  produced  through  dry  cell  from chemical energy. The cells from which electric energy is derived by irreversible chemical action are called primary cells. The primary cell is capable of providing an EMF when its constituent's two electrodes and a suitable electrolyte are assembled together. The three main primary cells are the Daniel cell, the Leclanche cell, and the dry cell. None of these cells can be recharged electrically."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "I",
+            "question": "Which one among the following fuels is used in gas welding?",
+            "options": [
+                "L P G",
+                "Ethylene",
+                "Methane",
+                "Acetylene"
+            ],
+            "answer": "Acetylene",
+            "explanation": "(d)  Acetylene is the only commercial fuel gas that can be used for both cutting and welding applications."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "I",
+            "question": "Which one among the following is a micronutrient present in soil for various crops ?",
+            "options": [
+                "Calcium",
+                "Manganese",
+                "Magnesium",
+                "Potassium"
+            ],
+            "answer": "Manganese",
+            "explanation": "(b)  There are about seven nutrients essential to plant growth and health that are only needed in very small quantities. These are Boron ,Chlorine, Copper, Iron, Manganese, Molybdenum and Zinc."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "I",
+            "question": "Match List I with List II and select the correct answer using the code given below the Lists :  List I List II (Air Pollutant) (Effect) A. Chlorofluorocarbon",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  The correct match is as follows: Chloroflurocarbon- Depletion in ozone layer in the atmosphere Sulphur dioxide- Acid rain Lead compound- Harmful for human nervous system Carbon dioxide- Topmost contribution to greenhouse effect"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "I",
+            "question": "Which one among the following metals is prominently used in mobile phone batteries?",
+            "options": [
+                "Copper",
+                "Zinc",
+                "Nickel",
+                "Lithium"
+            ],
+            "answer": "Lithium",
+            "explanation": "(d)  Lithium is also a highly reactive element, meaning that a lot of energy can be stored in its atomic bonds. This translates into a very high energy density for lithium- ion batteries. It is used in mobile phone, laptops etc."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2015",
+            "cycle": "I",
+            "question": "Which one among the following processes is not part of a chemical weathering ?",
+            "options": [
+                "Hydration",
+                "Exfoliation",
+                "Oxidation",
+                "Solution"
+            ],
+            "answer": "Exfoliation",
+            "explanation": "(b)  Exfoliation involves the removal of the oldest dead skin cells on the skin's outermost surface and has been used for many years to help maintain healthy skin. It can be achieved through mechanical or chemical means."
+        }
+    ]
+}

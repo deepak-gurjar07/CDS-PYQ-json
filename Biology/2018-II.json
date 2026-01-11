@@ -1,0 +1,158 @@
+{
+    "Biology 2018-II": [
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Which of the following is/are the main absorbing organ/ organs of plants?",
+            "options": [
+                "Root only",
+                "Leaf only",
+                "Root and leaf only",
+                "Root, leaf and bark"
+            ],
+            "answer": "Root and leaf only",
+            "explanation": "(c)  Major Organs of most plants include roots, stems, and leaves. A root is a complex organ consisting of several types of tissue absorbing water and minerals: Thin-walled epidermal cells and root hairs are well suited to absorb water"
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Which of the following is not a primary function of a green leaf?",
+            "options": [
+                "Manufacture of food",
+                "Interchange of gases",
+                "Evaporation of water",
+                "Conduction of food and water"
+            ],
+            "answer": "Conduction of food and water",
+            "explanation": "(d)  The main function of a leaf is to produce food for the plant by photosynthesis. Chlorophyll, the substance that gives plants their characteristic green colour, absorbs light energy. Conduction of food and water is not the primary function of leaf. It is done by vascular bundles xylem and phloem which is present throughout the plant body."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Which one of the following denotes a ‘true’ fruit?",
+            "options": [
+                "When only the thalamus of the flower grows and develops into a fruit",
+                "When only the receptacle of the flower develops into a fruit",
+                "When fruit originates only from the calyx of a flower",
+                "When only the ovary of the flower grows into a fruit"
+            ],
+            "answer": "When only the ovary of the flower grows into a fruit",
+            "explanation": "(d)  A true fruit or eucarp is a mature or ripened ovary, developed after fertilization, e.g., Mango, Maize, Grape etc."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "II",
+            "question": "In which one of the following physiological processes, excess water escapes in the form of droplets from a plant?",
+            "options": [
+                "Transpiration",
+                "Guttation",
+                "Secretion",
+                "Excretion"
+            ],
+            "answer": "Guttation",
+            "explanation": "(b)  Guttation is the process of secreting water droplets from the pores of some vascular plants like grass. Guttation is often confused with dew droplets that condense from the atmosphere on to the plants surface."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "II",
+            "question": "If the xylem of a plant is mechanically blocked, which of the following functions of the plant will be affected?",
+            "options": [
+                "Transport of water only",
+                "Transport of water and solutes",
+                "Transport of solutes only",
+                "Transport of gases"
+            ],
+            "answer": "Transport of water and solutes",
+            "explanation": "(b)  Xylem is water conducting tissue in plants. If the Xylem of the plants is removed, upward movement of the water and transportation of solutes will stop leading to wilting of leaves and ultimately cause the death of plants."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Which one of the following agents does not contribute to propagation of plants through seed dispersal?",
+            "options": [
+                "Wind",
+                "Fungus",
+                "Animal",
+                "Water"
+            ],
+            "answer": "Fungus",
+            "explanation": "(b)  Seed dispersal is the movement or transport of seeds away from the parent plant. Plants have very limited mobility and consequently rely upon a variety of dispersal vectors to transport their propagules, including both abiotic vectors such as the wind and water and living (biotic) vectors like birds and animals."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Which one of the following statements with regard to growth of coral reefs is not correct?",
+            "options": [
+                "Coral can grow abundantly in freshwater.",
+                "It requires warm water between 23°C – 25 °C.",
+                "It requires shallow saltwater, not deeper than 50 metres.",
+                "It requires plenty of sunlight to aid photosynthesis"
+            ],
+            "answer": "Coral can grow abundantly in freshwater.",
+            "explanation": "(a)  Corals need saltwater to survive and require a certain balance in the ratio of salt to water. This is why corals don’t live in areas where rivers drain fresh water into the ocean. Biology 60 Corals also need sunlight to survive. Corals rarely develop in water deeper than 165 feet (50 meters). Corals generally live in water temperatures of 68–90° F or 20–32° C."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Which one of the following features is an indication for modification of stem of a plant?",
+            "options": [
+                "Presence of ‘eye’ on potato",
+                "‘Scale’ found in onion",
+                "‘Tendril’ found in pea",
+                "‘Hair’ present in carrot 51 Biology"
+            ],
+            "answer": "Presence of ‘eye’ on potato",
+            "explanation": "(a)  Potatoes are called as modified stems because it possess many qualification which is of stem . Potatoes are underground stem .and usually called as tubers . They are called as modified stem because as it has scaly leaves, it has nodes, internodes, buds and adventitious roots."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Which of the following roles is/ are played by epididymis, vas deferens, seminal vesicles and prostate in male reproductive system of human?",
+            "options": [
+                "Spermatogenesis and maturation of sperms",
+                "Maturation and motility of sperms",
+                "Spermatogenesis and motility of sperms",
+                "Moti1ity of sperms only"
+            ],
+            "answer": "Maturation and motility of sperms",
+            "explanation": "(b)  In humans, the most important male androgen is testosterone. Several accessory organs and ducts aid the process of sperm maturation and transport the sperm and other seminal components to the penis, which delivers sperm to the female reproductive tract."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Which one of the following is the special type of milk produced by a lactating mother, essential for the development of immune response of newborn baby in human?",
+            "options": [
+                "Breast milk produced after a month of childbirth",
+                "Transitional milk",
+                "Colostrum",
+                "Mineralized milk"
+            ],
+            "answer": "Colostrum",
+            "explanation": "(c)  Colostrum is the first form of milk produced by the mammary glands immediately following delivery of the newborn. Colostrum is known to contain immune cells (as lymphocytes) and many antibodies such as IgA, IgG, and IgM. These are some of the components of adaptive immune system."
+        },
+        {
+            "subject": "Biology",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Which one of the following statements explains higher mutation rate and faster evolution found in RNA virus?",
+            "options": [
+                "RNA is relatively unstable compared to DNA.",
+                "Virus can multiply only within the living cell of a host.",
+                "Metabolic processes are absent in virus.",
+                "Virus can remain latent for a long period."
+            ],
+            "answer": "RNA is relatively unstable compared to DNA.",
+            "explanation": "(a)  Adaptive Value of High Mutation Rates of RNA Viruses: Separating Causes from Consequences. As a consequence of the lack of proofreading activity of RNA virus polymerases, new viral genetic variants are constantly created. RNA viruses readily adapt to changing environmental conditions."
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "Chemistry 2018-II": [
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Two reactants in a flask at room temperature are producing bubbles of a gas that turn limewater milky. The reactants could be",
+            "options": [
+                "zinc and hydrochloric acid",
+                "magnesium carbonate and hydrochloric acid",
+                "methane and oxygen",
+                "copper and dilute hydrochloric acid"
+            ],
+            "answer": "",
+            "explanation": ""
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "II",
+            "question": "How many moles of CO can be obtained by reacting 2.0 mole of CH4 with 2.0 mole of O2 according to the equation given below?  4 2 2 1 CH (g) 0 CO 2H 2 ∗ ® ∗",
+            "options": [
+                "2.0",
+                "0·5",
+                "2·5",
+                "4·0"
+            ],
+            "answer": "2.0",
+            "explanation": "(a)  2 moles of CO will be produced."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Reaction between which of the following two reactants will produce hydrogen gas?",
+            "options": [
+                "Magnesium and hydrochloric acid",
+                "Copper and dilute nitric acid",
+                "Calcium carbonate and hydrochloric acid",
+                "Zinc and nitric acid"
+            ],
+            "answer": "Magnesium and hydrochloric acid",
+            "explanation": "(a)  Magnesium reacts with hydrochloric acid according to the equation: Mg(s) + 2 HCl(aq) ® MgCl2(aq) + H2(g) This demonstration can be used to illustrate the 37 Chemistry characteristic reaction of metals with acid, a single replacement reaction, or to demonstrate the generation of hydrogen gas."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Which of the following characteristics is common to hydrogen, nitrogen, oxygen and carbon dioxide?",
+            "options": [
+                "They are all diatomic.",
+                "They are all gases at room temperature.",
+                "They are all coloured.",
+                "They all have same reactivity."
+            ],
+            "answer": "They are all gases at room temperature.",
+            "explanation": "(b)  They are all gases at room temperature. Elemental hydrogen (H, element 1), nitrogen (N, element 7), oxygen (O, element 8), fluorine (F, element 9), chlorine (Cl, element 17) and CO2 are all gases at room temperature, and are found as diatomic molecules (H2, N2, O2, F2, Cl2, CO2)."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "II",
+            "question": "The compound C7H7NO2 has",
+            "options": [
+                "17 atoms in a molecule of the compound",
+                "equal molecules of C and H by mass",
+                "twice the mass of oxygen atoms compared to nitrogen atoms",
+                "twice the mass of nitrogen atoms compared to hydrogen atoms"
+            ],
+            "answer": "twice the mass of nitrogen atoms compared to hydrogen atoms",
+            "explanation": "(d)  A white crystalline organic compound (C7H7NO2) composed of a benzene ring with an amino group and a carboxyl group attached to the carbon atoms 1 and 4 respectively and having twice the mass of nitrogen atoms compared to hydrogen atoms."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Which of the following is the general formula for saturated hydrocarbons?",
+            "options": [
+                "CnH2n + 2",
+                "Cn H2n – 2",
+                "CnH2n + 1",
+                "CnH2n – 1"
+            ],
+            "answer": "CnH2n + 2",
+            "explanation": "(a)  Saturated hydrocarbons are hydrocarbons that contain only single bonds between carbon atoms. They are the simplest class of hydrocarbons. They are called saturated because each carbon atom is bonded to as many hydrogen atoms as possible. In other words, the carbon atoms are saturated with hydrogen. General chemical formula for Saturated Hydrocarbons CnH2n+2."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "II",
+            "question": "The equivalent weight of Ba (OH)2 is (given, atomic weight of Ba is 137.3)",
+            "options": [
+                "85.7",
+                "137.3",
+                "154.3",
+                "171.3"
+            ],
+            "answer": "85.7",
+            "explanation": "(a)  The molar mass of Ba(OH)2= Ba + 2 × (O + H) = 137.3 + 2 × (16 + 1) = 171.3 Equivalent weight of Ba(OH)2= molar mass mole factor = 171.3 2 = 85.7"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Which one of the following nitrogen oxides has the highest oxidation state of nitrogen?",
+            "options": [
+                "NO",
+                "NO2",
+                "N2O",
+                "N2O5"
+            ],
+            "answer": "N2O5",
+            "explanation": "(d)  Unless oxygen is combined with fluorine or isolated from other atoms, the oxidation number of oxygen atoms is always taken as -2. This gives a total oxidation number charge of -10 for the five oxygen atoms in N2O5. To maintain electrical neutrality as required for all compounds, the two nitrogen atoms must have a total oxidation charge of +10, so that each of the two nitrogen atoms has an oxidation number of +5."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Which one of the following is not true for the from of carbon known as diamond?",
+            "options": [
+                "It is harder than graphite.",
+                "It contains the same percentage of carbon as graphite.",
+                "It is a better electric conductor than graphite.",
+                "It has different carbon to carbon distance in all directions."
+            ],
+            "answer": "It is a better electric conductor than graphite.",
+            "explanation": "(c)  Diamond is a poor conductor of electricity, but is a good conductor of heat while graphite is a good conductor of heat and electricity."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "II",
+            "question": "In which one of the following reactions, the maximum quantity of H2 gas is produced by the decomposition of 1 g of compound by H2O/O2?",
+            "options": [
+                "CH4 + H2O ® CO + 3H2",
+                "CO + H2O ® CO2 + H2",
+                "CH4 + 2 1 O 2 ® CO + 2H2",
+                "C12H24 + 6O2 ® 12CO + 12H2"
+            ],
+            "answer": "CH4 + H2O ® CO + 3H2",
+            "explanation": "(a)  CH4 +H2O ® CO + 3H2"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "II",
+            "question": "Which one of the following can extinguish fire more quickly?",
+            "options": [
+                "Cold water",
+                "Boiling water",
+                "Hot water",
+                "Ice"
+            ],
+            "answer": "Boiling water",
+            "explanation": "(b)  Boiling water absorbs heat in the form of latent heat for the purpose of changing its liquid state to vapors and latent heat of vaporization is quite high far water."
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "Chemistry 2020-I": [
+        {
+            "subject": "Chemistry",
+            "year": "2020",
+            "cycle": "I",
+            "question": "The elements of which of the following pairs are isobars?",
+            "options": [
+                "1 3 1 1 H and H",
+                "1 2 1 1 H and H",
+                "12 14 6 6 C and C",
+                "40 40 18 20 Ar and Ca"
+            ],
+            "answer": "40 40 18 20 Ar and Ca",
+            "explanation": "(d)  Isobars are the atoms of the elements which have the same atomic mass but different atomic number i.e.they posses same number of nucleons.Among the given options,option (d) is the pair of isobar.  40 18 Ar and 40 20 Ca,both have same atomic mass."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2020",
+            "cycle": "I",
+            "question": "Which one of the following chemical reactions is not feasible?",
+            "options": [
+                "Fe + CuSO4 ® FeSO4 + Cu",
+                "Zn + CuSO4 ® ZnSO4 + Cu",
+                "Cu + PbCl2 ® CuCl2 + Pb",
+                "Mg + CuSO4 ® MgSO4 + Cu"
+            ],
+            "answer": "Cu + PbCl2 ® CuCl2 + Pb",
+            "explanation": "(c)  All the given chemical reactions are the example of displacement reaction.In option (c), Copper is less reactive than lead therfore copper is not able to displace lead from its salt solution.Hence option(c) is not feasible."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2020",
+            "cycle": "I",
+            "question": "A solution having pH equal to zero is known as",
+            "options": [
+                "highly alkaline solution",
+                "highly acidic solution",
+                "weakly acidic solution",
+                "neutral solution"
+            ],
+            "answer": "highly acidic solution",
+            "explanation": "(b)  There’s no solution having pH 0.But still it will be highly acidic solution.pH is the measure of acidity or alkalinity of a solution. The mathematical representation for pH is – pH = – log (H+)."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2020",
+            "cycle": "I",
+            "question": "When air is blown from mouth into a test tube containing limewater, the limewater turns milky. This is due to the presence of",
+            "options": [
+                "water vapour",
+                "oxygen",
+                "carbon dioxide",
+                "carbon monoxide"
+            ],
+            "answer": "carbon dioxide",
+            "explanation": "(c)  Limewater turns milky when we blow CO2 into it. As we all know that we inhale oxygen and exhale carbon dioxide. So when we blow CO2 into Limewater it reacts with lime water and form calcium carbonate which turns it into milky."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2020",
+            "cycle": "I",
+            "question": "Silver articles become black after some time when exposed to air because",
+            "options": [
+                "silver gets oxidized to silver oxide",
+                "silver reacts with moist carbon dioxide in the air to form silver carbonate",
+                "silver reacts with sulphur in the air to form a coating of silver sulphide",
+                "silver reacts with nitrogen oxides in the air to form silver nitrate Chemistry 30"
+            ],
+            "answer": "silver reacts with sulphur in the air to form a coating of silver sulphide",
+            "explanation": "(c)  The silver article becomes black after sometimes when exposed to air because silver reacts with sulphur which is present in the atmosphere and then forms silver sulphide. Thus the layer of this silver sulphide is formed on the surface of the silver article so they appear as dull or black."
+        }
+    ]
+}

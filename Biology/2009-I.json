@@ -1,0 +1,162 @@
+{
+    "Biology 2009-I": [
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "I",
+            "question": "In human beings, the opening of the stomach into the small intestine is called",
+            "options": [
+                "caecum",
+                "ileum",
+                "oesophagus",
+                "pylorus"
+            ],
+            "answer": "pylorus",
+            "explanation": "(d)  The stomach shows division into two parts fundic and pyloric region. The pyloric region enters small intestine through pyloric valve of pylorus."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Match the following  List-I List-II (Vitamin) (Chemical Compound) A.  Vitamin-A",
+            "options": [],
+            "answer": "d",
+            "explanation": "(d)  Vitamin-A-Retinol, Vitamin-B1 -Thiamine, Vitamin-C- Ascorbic acid, Vitamin-E-Tocopherol."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Which one of the following is considered as the drug of last resort for human beings?",
+            "options": [
+                "Penicillin",
+                "Tetracycline",
+                "Chloramphenicol",
+                "Streptomycin"
+            ],
+            "answer": "Chloramphenicol",
+            "explanation": "(c)  Chloramphenicol affects bacteria which are resistant to all other medicine. Chloramphenicol is a prototypical broad spectrum bacteria killing drug."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Match the following  List-I List-II (Medicinal Product) (Source) A.   Quinine",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  Cinchona bark creates quinine which is an anti- malarial drug. Poppy plant creates morphine it is an opium alkaloid, which is a strong analgesic and also has sedative and soothing effect. Fungus and bacterium are the sources of antibiotics penicillin and tetracycline respectively."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Wavelengths of which of the following colour of the visible spectrum of light are maximally absorbed by green plants?",
+            "options": [
+                "Green and Yeilow",
+                "Red and Blue",
+                "Green and Red",
+                "Blue and Yellow"
+            ],
+            "answer": "Red and Blue",
+            "explanation": "(b)  Green plants absorb red and blue colour maximally."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Which one of the following plants is preferred for mixed cropping in order to enhance the bioavailability of nitrogen?",
+            "options": [
+                "Wheat",
+                "Gram",
+                "Maize",
+                "Barley"
+            ],
+            "answer": "Gram",
+            "explanation": "(b)  The root nodules of gram plant contain symbiotic bacteria which is responsible for fixing nitrogen. So, gram is preferred for mixed farming."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "I",
+            "question": "The plant dye Henna imparts orange-red colour to skin and hairs due to its reaction with which of the following?",
+            "options": [
+                "Proteins and amino acids",
+                "Lipids",
+                "Carbohydrates",
+                "Nucleic acids"
+            ],
+            "answer": "Proteins and amino acids",
+            "explanation": "(a)  Henna (Lawsonia inermis) is a flowering plant. It is used to dye skin, hair, fingernails, leather and wood. Colouring feature of henna is due to lawsone, an organic compound that shows affinity for proteins and amino acids in animals."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "I",
+            "question": "The genetically engineered 'Golden Rice' is rich in which of the following?",
+            "options": [
+                "Vitamin-A and nicotinic acid",
+                "b-carotene and folic acid",
+                "b-carotene and iron",
+                "Vitamin-A and niacin"
+            ],
+            "answer": "b-carotene and iron",
+            "explanation": "(c)  Golden rice is rich in b -carotene and iron. It is a variety of Oryza sativa evolved through process of bio technology to synthesize b -carotene, a precursor of pro-vitamin -A."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Bryophytes are photosynthetic but do not have vascular tissue and true roots. This feature enables them to resemble with which of the following?",
+            "options": [
+                "Fungi",
+                "Algae",
+                "Pteridophytes",
+                "Angiosperms"
+            ],
+            "answer": "Algae",
+            "explanation": "(b)  Bryophytes do not have vascular bundles (xylem & phloem) and roots so they show similarity with algae."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Which one of the following is a freeliving bacterium that helps in nitrogen fixation in soil?",
+            "options": [
+                "Azotobacter",
+                "Anabaena",
+                "Azolla",
+                "Nostoc"
+            ],
+            "answer": "Azotobacter",
+            "explanation": "(a)  Azotobacter is a genus of usually motile and free living bacteria that builds thick walled cysts. They are able to fix nitrogen in soil."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Which one of the following is an example of vestigial organ in man?",
+            "options": [
+                "Jaw apparatus",
+                "Ear muscles",
+                "Canine teeth",
+                "Humerus"
+            ],
+            "answer": "Ear muscles",
+            "explanation": "(b)  The ear muscles are vestigial organs in man. Vestigial organs are not functional in organisms. These are not active in related animals but were functional in their ancestors. There are more than 90 vestigial organs in human beings."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "I",
+            "question": "Which one of the following characteristics is common among parrot, platypus and kangaroo?",
+            "options": [
+                "Oviparity",
+                "Toothless jaws",
+                "Homothermy",
+                "Functional postanal tail"
+            ],
+            "answer": "Homothermy",
+            "explanation": "(c)  The parrot, platypus and kangaroo fall in the group of warm blooded animals. They show homothermy."
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "Biology 2009-II": [
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Which one of the following is present in chlorophyll which gives a green colour to plant leaves?",
+            "options": [
+                "Calcium",
+                "Magnesium",
+                "Iron",
+                "Manganese"
+            ],
+            "answer": "Magnesium",
+            "explanation": "(b)  Chlorophyll is a tetrapyrrole ring system that contains the magnesium ion. The tetrapyrole ring system chelates magnesium  illustrating a conjugated double bond. This bond gives the light absorption feature to chlorophyll and provides it green colour."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Which one of the following is responsible for the stimulating effect of tea?",
+            "options": [
+                "Tannin",
+                "Steroid",
+                "Alkaloid",
+                "Flavonoid"
+            ],
+            "answer": "Alkaloid",
+            "explanation": "(c)  The stimulating nature of  tea is due to alkaloid caffeine found in tea. Caffeine is bitter due to white crystalline xanthine alkaloid. Biology 54"
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "It may be defined as any process that uses microorganisms or their enzymes to return the environment altered by contaminants to its original condition. 2. Bioremediation may be employed in order to attack specific contaminants, such as chlorinated pesticides that are degraded by bacteria.  Which of the statements given above is/are correct?",
+            "options": [
+                "Only 1",
+                "Only 2",
+                "1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "Only 2",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "The branches of this tree root themselves like new trees over a large area. The roots then give rise to more trunks and branches. Because of this characteristic and its longevity, this tree is considered immortal and is an integral part of the myths and legends of India. Which tree is this?",
+            "options": [
+                "Banyan",
+                "Neem",
+                "Tamarind(Imli)",
+                "Peepal"
+            ],
+            "answer": "Banyan",
+            "explanation": "(a)  Banyan (Ficus benghalensis) tree has aerial roots. From the tip of these roots new plant can evolve. In Hinduism, the leaf of the Banyan tree is said to be the place for Lord Krishna."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Assertion (A):  The safety air bags fitted in some cars inflate during head-on impact of the car.  Reason (R):  The inflation is due to pumping of air into the balloon during the impact.",
+            "options": [
+                "Both A and R are true and R is the correct explanation of  A",
+                "Both  A and R are true, but R is not the correct explanation of A",
+                "A ts true, but R is false",
+                "A is false, but R is true"
+            ],
+            "answer": "Both  A and R are true, but R is not the correct explanation of A",
+            "explanation": "(b) "
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Match the following  List-I List-II Agent of Transmission Disease Transmitted A.   Anopheles mosquito",
+            "options": [],
+            "answer": "d",
+            "explanation": "(d) "
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Primary source of vitamin-D for human beings is",
+            "options": [
+                "citrus fruits",
+                "green vegetables",
+                "yeast",
+                "sun"
+            ],
+            "answer": "sun",
+            "explanation": "(d)  Sun is the primary source of vitamin-D. The body can synthesise vitamin-D itself in presence of sunlight. Vitamin-D is soluble in fat and assists the body to absorb calcium. Its deficiency can cause osteoporosis."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Anaemia is a common health problem especially in women. Which one of the following deficiencies is most frequently responsible for anaemia in India?",
+            "options": [
+                "Calcium",
+                "Iron",
+                "Iodine",
+                "Zinc"
+            ],
+            "answer": "Iron",
+            "explanation": "(b)  Iron is the main element in haemoglobin. So its deficiency creates anaemia. Women show careless- ness about their nutrient requirements, so they face the problem generally."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Which one of the following is considered normal blood pressure in man?",
+            "options": [
+                "120/80 mm water",
+                "120/80 mm blood",
+                "120/80 mm mercury",
+                "120/80 mm air"
+            ],
+            "answer": "120/80 mm mercury",
+            "explanation": "(c)  Systolic pressure in an adult man is 120 mm Hg whereas diastolic pressure is 80 mm Hg normally. High or low blood pressure can create serious conditions in humans."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Anthrax is a disease of human and cattle with a potential for biological warfare. It is caused by",
+            "options": [
+                "bacterium",
+                "virus",
+                "protozoan",
+                "fungus"
+            ],
+            "answer": "bacterium",
+            "explanation": "(a)  Anthrax is an infectious disease occurring by bacteria called Bacillus anthracis. Anthrax spores can be evolved in vitro and used as a biological weapon. Anthrax can’t directly spread from one individual to another but can cause infection through spores."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Which one of the following animals breathe through the skin?",
+            "options": [
+                "Fish",
+                "Pigeon",
+                "Frog",
+                "Cockroach"
+            ],
+            "answer": "Frog",
+            "explanation": "(c)  Frog takes respiration in water through the moist skin. Whereas on the Earth respiration occurs through lungs Fish has gills, Cockroach has spiracles and pigeon possesses lungs to respire."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "For which one among the following diseases vaccine is not yet available?",
+            "options": [
+                "Tetanus",
+                "Malaria",
+                "Measles",
+                "Mumps"
+            ],
+            "answer": "Malaria",
+            "explanation": "(b)  Malaria is a protozoan infection caused by the genus plasmodium in humans. No vaccine is yet available  for this illness."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Which one of the following is not a feature of eutrophic lakes?",
+            "options": [
+                "Blooms are frequent in eutrophic lakes",
+                "Plant nutrient flux is high",
+                "Primary productivity is low",
+                "Dominated by blue green algae"
+            ],
+            "answer": "Primary productivity is low",
+            "explanation": "(c)  Eutrophication is the movement of trophic status of aquatic body (lake, pond) towards the direction of increasing biomass by adding natural or artificial substances. So, its primary productivity is clearly high."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Quinine is a drug used in the treatment of malaria. From which part of the plant it is obtained?",
+            "options": [
+                "Roots",
+                "Stem",
+                "Bark",
+                "Leaves"
+            ],
+            "answer": "Bark",
+            "explanation": "(c)  Quinine is a natural white crystalline alkaloid. It has antipyretic (fever-reducing), antimalarial, analgesic, and anti-inflammatory qualities. It is present in the bark of cinchona tree."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Which among the following oils has the maximum protein content?",
+            "options": [
+                "Castor oil",
+                "Sunflower oil",
+                "Soybean oil",
+                "Safflower oil"
+            ],
+            "answer": "Soybean oil",
+            "explanation": "(c)  Soyabean oil & seed is a rich source of protein."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Match the following  List-I List-II (Mineral) (Major Source) A.   Iron",
+            "options": [],
+            "answer": "a",
+            "explanation": "(a)  Palak (Spinach) has 5% non-haeme iron. One banana possesses 422 mg potassium. One cup of dates possesses 464 mg potassium. One cup milk has 276 mg calcium. One egg possesses 30 mg calcium. One kg packet of iodized common salt has 15 mg iodine."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Which one of the following statement regarding potato is correct?",
+            "options": [
+                "It is a root",
+                "It is a normal stem",
+                "It is a modified stem",
+                "It is a modified root"
+            ],
+            "answer": "It is a modified stem",
+            "explanation": "(c)  It is a modified stem to store food synthesised by plants."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Golden fibre refers to",
+            "options": [
+                "hemp",
+                "cotton",
+                "jute",
+                "nylon"
+            ],
+            "answer": "jute",
+            "explanation": "(c)  Golden fibre denotes to jute because of its colour. Jute is grown as cash crop. Jute is used for green manure and has much higher CO2 assimilation rate."
+        },
+        {
+            "subject": "Biology",
+            "year": "2009",
+            "cycle": "II",
+            "question": "Which one of the following is commonly used as a flavouring agent during the preparation of noodles?",
+            "options": [
+                "Saffron",
+                "Cinnamon",
+                "Olive oil",
+                "Ajinomoto"
+            ],
+            "answer": "Ajinomoto",
+            "explanation": "(d)  Ajinomoto is Chinese salt used for preparing noodles. It is used as a flavouring agent."
+        }
+    ]
+}

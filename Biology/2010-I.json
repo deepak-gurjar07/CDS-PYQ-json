@@ -1,0 +1,180 @@
+{
+    "Biology 2010-I": [
+        {
+            "subject": "Biology",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Which one of the following plants is popularly grown along the road for absorbing vehicular pollutants?",
+            "options": [
+                "Nerium",
+                "Neem",
+                "Bougainvillea",
+                "Calotropis"
+            ],
+            "answer": "Neem",
+            "explanation": "(b)  Bougainvillea is popularly planted along the road for absorption of vehicular pollutants."
+        },
+        {
+            "subject": "Biology",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Match the following  List-I List-II A.   Wine",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  Wine is an alcoholic beverage, produced from fermented juice, generally of grapes, Beer is the oldest alcoholic beverage manufactured by brewing and fermentaion of cereal grains (e.g., barley). Whisky is a type of distilled alcoholic beverage produced from molasses. Rum is also a distilled alcoholic beverage made from sugarcane’s juice."
+        },
+        {
+            "subject": "Biology",
+            "year": "2010",
+            "cycle": "I",
+            "question": "A milkman puts banana leaf in milk jar, because banana leaf",
+            "options": [
+                "gives a fresh flavour to milk",
+                "makes the milk acidic and resistant to yeast",
+                "makes the milk basic and resistant to yeast",
+                "increases the whiteness of milk"
+            ],
+            "answer": "makes the milk basic and resistant to yeast",
+            "explanation": "(c)  A milkman puts banana leaf in milkpot because leaf can make the milk basic and avoid yeast formation (fermentation). Banana leaf has tryptophan which creates basicity."
+        },
+        {
+            "subject": "Biology",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Which one of the following is not biodegradable?",
+            "options": [
+                "Woollen mat",
+                "Silver foil",
+                "Leather bag",
+                "Jute basket"
+            ],
+            "answer": "Silver foil",
+            "explanation": "(b)  Silver foil is manufactured from metal that is non biodegrable. Woollen mat, leather bag and jute basket are biodegradable because they are manufactured from natural materials."
+        },
+        {
+            "subject": "Biology",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Tips of leaves in grasses and common garden plants show water drops in early morning hours. This water accumulation is obtained from",
+            "options": [
+                "atmosphere",
+                "stomata",
+                "vascular bundles",
+                "hydathodes"
+            ],
+            "answer": "stomata",
+            "explanation": "(b)  Tips of leaves in grasses and common garden plants exhibit water droplets in early morning hours because of a atmospheric phenomenon of dew formation. Dew is produced due to condensation of atmospheric moisture."
+        },
+        {
+            "subject": "Biology",
+            "year": "2010",
+            "cycle": "I",
+            "question": "If excess fertilizer is applied to a plant without water, the plant will",
+            "options": [
+                "be stunted in growth",
+                "develop modifications",
+                "die due to plasmolysis",
+                "remain unaffected"
+            ],
+            "answer": "die due to plasmolysis",
+            "explanation": "(c)  The excess fertilizer creates exosmosis in the plant tissue causing plasmolysis. Beacuse fertilizer produces hypotonic solution. It may cause cellular damage to plant leading to plant death."
+        },
+        {
+            "subject": "Biology",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Itching due to insect bite is caused by",
+            "options": [
+                "formic acid",
+                "acetic acid",
+                "lactic acid",
+                "maleic acid"
+            ],
+            "answer": "formic acid",
+            "explanation": "(a)  Insect bite creates formic acid that causes itching."
+        },
+        {
+            "subject": "Biology",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Which one among the following is a major source of sugar?",
+            "options": [
+                "Watermelon",
+                "Beetroot",
+                "Sugarcane",
+                "Date"
+            ],
+            "answer": "Sugarcane",
+            "explanation": "(c)  Sugarcane is a main raw material  for the production of sugar. Sugar producing countries are Cuba, Brazil, India and China."
+        },
+        {
+            "subject": "Biology",
+            "year": "2010",
+            "cycle": "I",
+            "question": "The vitamin(s), which is/are generally excreted in urine, is/are",
+            "options": [
+                "viamin-A",
+                "vitamin-B",
+                "viamin-E",
+                "vitamin-D and K"
+            ],
+            "answer": "vitamin-B",
+            "explanation": "(b)  Vitamin-B is water soluble. Its over-dose is excreted out in urine, vitamin A, D, E and K are fat soluble therefore, they are not excreted in urine."
+        },
+        {
+            "subject": "Biology",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Which one among the following plants cannot be multiplied by cuttings?",
+            "options": [
+                "Rose",
+                "Bryophyllum",
+                "Banana",
+                "Marigold"
+            ],
+            "answer": "Banana",
+            "explanation": "(c)  The banana develops from stem. The aerial parts of banana exhibit only leaves. Therefore, banana can’t be multiplied by cuttings."
+        },
+        {
+            "subject": "Biology",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Consider the following statements",
+            "options": [],
+            "answer": "a",
+            "explanation": "(a)  All the three statements are not correct. Myopia refers long-sightedness, hypermetropia to short- sightedness and presbyopia is a disorder in which the eye shows a progressively diminished ability to focus on near object with the passage of age."
+        },
+        {
+            "subject": "Biology",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Consider the following statements",
+            "options": [],
+            "answer": "d",
+            "explanation": "(d)  lodine deficiency causes  goitre in human beings. Iodine is the main component for the production of thyroxine from thyroid gland and the main reason of goitre is hypo or hyperthyroidism."
+        },
+        {
+            "subject": "Biology",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Which among the following are the major reasons behind preferring eucalyptus tree in the planned forestation process?",
+            "options": [],
+            "answer": "b",
+            "explanation": "(b)  Eucalyptus growth is very fast and the stem is raw material used for pulp and paper industry."
+        },
+        {
+            "subject": "Biology",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Which one of the following plants is used for green manuring in India?",
+            "options": [
+                "Wheat",
+                "Sunnhemp",
+                "Cotton",
+                "Rice"
+            ],
+            "answer": "Sunnhemp",
+            "explanation": "(b)  Sunnhemp (crotoloria juncea) is a plant which is utilized for green manuring in India. It is largely cultivated for green manure and its leaves are fed as high protion supplement to other poorer feeds."
+        }
+    ]
+}

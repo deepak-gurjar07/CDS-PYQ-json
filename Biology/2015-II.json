@@ -1,0 +1,134 @@
+{
+    "Biology 2015-II": [
+        {
+            "subject": "Biology",
+            "year": "2015",
+            "cycle": "II",
+            "question": "Genetic screening is",
+            "options": [
+                "analysis of DNA to check the presence of a particular gene in a person",
+                "analysis of gene in a population",
+                "pedigree analysis",
+                "screening of infertility in parents"
+            ],
+            "answer": "analysis of DNA to check the presence of a particular gene in a person",
+            "explanation": "(a)  Genetic screening is a process through which analysis of gene is performed to find out defective gene causing a specific disorder in a person."
+        },
+        {
+            "subject": "Biology",
+            "year": "2015",
+            "cycle": "II",
+            "question": "Who among the following is considered as the father of genetic engineering?",
+            "options": [
+                "Philip  Drinker",
+                "Paul Berg",
+                "Thomas Addison",
+                "Alpheuss  Packard Jr."
+            ],
+            "answer": "Paul Berg",
+            "explanation": "(b)  Paul Berg (1926), an American biochemist is considered as the father of genetic engineering. He evolved a technique to join DNAs from two different organisms."
+        },
+        {
+            "subject": "Biology",
+            "year": "2015",
+            "cycle": "II",
+            "question": "Which of the following cause(s) variation in the genetic material of progeny?",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  Epigenetic Changes, mutations (due to change in DNA structure) and sexual reproduction (due to change during meiosis process) cause variation in the genetic material of off spring."
+        },
+        {
+            "subject": "Biology",
+            "year": "2015",
+            "cycle": "II",
+            "question": "Cobalt is associated with",
+            "options": [
+                "growth hormone",
+                "vitamin B12",
+                "hemoglobin",
+                "intestinal enzymes"
+            ],
+            "answer": "vitamin B12",
+            "explanation": "(b)  Cobalt is an element taking part in the composition of Vitamin B12. It plays an important role in production of blood cells."
+        },
+        {
+            "subject": "Biology",
+            "year": "2015",
+            "cycle": "II",
+            "question": "Absorption of water in the human body can be found in",
+            "options": [],
+            "answer": "b",
+            "explanation": "(b)  Large intestine is the last part of alimentary canal where extra water is absorbed to prepare the waste as a solid stool. Renal tubule in kidney is responsible for absorption of water to produce proper concentration of urine."
+        },
+        {
+            "subject": "Biology",
+            "year": "2015",
+            "cycle": "II",
+            "question": "Measles is a disease caused by",
+            "options": [
+                "bacteria",
+                "virus",
+                "protozoa",
+                "worm"
+            ],
+            "answer": "virus",
+            "explanation": "(b) Measles is a viral disease which is also called rubeola. It is a contagious disease spreading through contact sneezing and coughing etc."
+        },
+        {
+            "subject": "Biology",
+            "year": "2015",
+            "cycle": "II",
+            "question": "Neutrophils and lymphocytes originate from",
+            "options": [
+                "kidney tubule",
+                "spleen",
+                "bone marrow",
+                "lymph node"
+            ],
+            "answer": "bone marrow",
+            "explanation": "(c)  Bone marrow is located within the bone cavities. It is composed of stromal cells and parenchymal cells. Neutrophils and lymphocytes are blood cells which are produced within bone marrow."
+        },
+        {
+            "subject": "Biology",
+            "year": "2015",
+            "cycle": "II",
+            "question": "The mandate of the scheme entitled 'Directly Observed Treatment, Short-Course (DOTS)' launched by WHO is to ensure that",
+            "options": [
+                "doctors treat patients with medicine for a short duration",
+                "doctors do not start treatment without a trial",
+                "patients complete their course of drug",
+                "patients voluntarily take vaccines"
+            ],
+            "answer": "patients complete their course of drug",
+            "explanation": "(c)  DOTS (Directly Observed Treatment, Short course) launched by WHO is a therapy for treatment of TB patient."
+        },
+        {
+            "subject": "Biology",
+            "year": "2015",
+            "cycle": "II",
+            "question": "Penicillin inhibits synthesis of bacterial",
+            "options": [
+                "cell wall",
+                "protein",
+                "RNA",
+                "DNA"
+            ],
+            "answer": "protein",
+            "explanation": "(b)  Penicillin is very effective medicine against bacterial infection. During bacterium division, it prevents the cell wall formation. Thus it helps in prevention of bacterial growth."
+        },
+        {
+            "subject": "Biology",
+            "year": "2015",
+            "cycle": "II",
+            "question": "synthesis of cell wall  2. bacterial protein Synthesis 3. synthesis of nuclear membrane 4. mitochondrial function Select the correct answer using the code given below",
+            "options": [
+                "1, 2 and 3",
+                "1 and 4",
+                "2 and 3 only",
+                "1 and 2 only"
+            ],
+            "answer": "1 and 4",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        }
+    ]
+}

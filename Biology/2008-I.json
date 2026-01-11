@@ -1,0 +1,120 @@
+{
+    "Biology 2008-I": [
+        {
+            "subject": "Biology",
+            "year": "2008",
+            "cycle": "I",
+            "question": "Which of the following part of blood carry out the function of body defence?",
+            "options": [
+                "Red blood cells",
+                "White blood cells",
+                "Platelets",
+                "Haemoglobins"
+            ],
+            "answer": "White blood cells",
+            "explanation": "(b)  White blood cells (WBC) bring out the function of body defence."
+        },
+        {
+            "subject": "Biology",
+            "year": "2008",
+            "cycle": "I",
+            "question": "Match the following  List-I (Disease) List-II (Part of Human Body Affected) A. Conjunctivitis",
+            "options": [],
+            "answer": "b",
+            "explanation": "(b) "
+        },
+        {
+            "subject": "Biology",
+            "year": "2008",
+            "cycle": "I",
+            "question": "Which one of the following is not an insect borne disease?",
+            "options": [
+                "Beri-beri",
+                "Kala-azar",
+                "Malaria",
+                "Plague Biology 40"
+            ],
+            "answer": "Beri-beri",
+            "explanation": "(a)  Beri-beri is not insect borne disease. It is caused by the deficiency of vitamin-B1 or thiamine."
+        },
+        {
+            "subject": "Biology",
+            "year": "2008",
+            "cycle": "I",
+            "question": "Which of the following gases is released from rice fields in the most prominent quantities?",
+            "options": [
+                "Carbon dioxide",
+                "Methane",
+                "Carbon monoxide",
+                "Sulphur dioxide"
+            ],
+            "answer": "Methane",
+            "explanation": "(b)  Methane (CH4) is produced in rice fields in the most prominent quantities. Because when organic matter decomposes without O2  in the water logged rice paddies, bacteria in the water produce methane."
+        },
+        {
+            "subject": "Biology",
+            "year": "2008",
+            "cycle": "I",
+            "question": "Consider the following statements.",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  Benzene (C6H6) is cause of bone marrow failure."
+        },
+        {
+            "subject": "Biology",
+            "year": "2008",
+            "cycle": "I",
+            "question": "Which one of the following glands produces the growth hormone (somatotrophin)?",
+            "options": [
+                "Adrenal",
+                "Pancreas",
+                "Pituitary",
+                "Thyroid"
+            ],
+            "answer": "Pituitary",
+            "explanation": "(c)  Somatotrophin is produced by the anterior pituitary. 53 Biology It is a peptide hormone that induces growth, cell reproduction and regeneration."
+        },
+        {
+            "subject": "Biology",
+            "year": "2008",
+            "cycle": "I",
+            "question": "In the human body, Cowper's glands form a part of which one of the following system?",
+            "options": [
+                "Digestive system",
+                "Endocrine system",
+                "Reproductive system",
+                "Nervous system"
+            ],
+            "answer": "Reproductive system",
+            "explanation": "(c)  Cowper’s gland is related with reproductive system. Cowper’s gland is the bulbourethal gland found in human males. They are found in pair and secrete viscous secretion called pre ejaculate that helps in coitus."
+        },
+        {
+            "subject": "Biology",
+            "year": "2008",
+            "cycle": "I",
+            "question": "Cloves, used as a spice, are derived from which of the following plant parts?",
+            "options": [
+                "Seeds",
+                "Fruits",
+                "Flower buds",
+                "Young leaves"
+            ],
+            "answer": "Flower buds",
+            "explanation": "(c)  Cloves are the flower buds of a tree in the family Myrtaceae. The tree is evergreen growing, contains large leaves and flowers grouped in terminal clusters."
+        },
+        {
+            "subject": "Biology",
+            "year": "2008",
+            "cycle": "I",
+            "question": "Which one among the following kinds of organisms resides in the roots of pulse plants to do nitrogen fixation?",
+            "options": [
+                "Bacteria",
+                "Fungi",
+                "Protozoa",
+                "Virus"
+            ],
+            "answer": "Bacteria",
+            "explanation": "(a)  Rhizobium (a kind of bacteria) lives in plant roots of pulse plant (legumes) to fix nitrogen."
+        }
+    ]
+}

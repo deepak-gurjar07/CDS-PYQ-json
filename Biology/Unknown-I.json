@@ -1,0 +1,553 @@
+{
+    "Biology Unknown-I": [
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "All proteins are enzyme. 2. All enzymes are protein. 3. All enzymes are not protein. 4. All proteins are not enzyme. Which of the above are correct?",
+            "options": [
+                "1 and 3",
+                "2 and 4",
+                "1, 2 and 3",
+                "2, 3 and 4"
+            ],
+            "answer": "2 and 4",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "It is situated in the neck. 2. It  is  vital  to  maintain  of normal  body temperature. Which of the statements given above is/are correct?",
+            "options": [
+                "Only 1",
+                "Only 2",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "Only 2",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Tetanus 2. Polio 3. Leprosy 4. Pertusis Select the correct answer using the code given below",
+            "options": [
+                "1 and 3",
+                "2 and 4",
+                "1, 2 and 4",
+                "All of these"
+            ],
+            "answer": "2 and 4",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Vaccination for small pox B. J Lister 2. Germ theory C. Louis Pasteur 3. Use of carbolic acid as an antiseptic D. E Jenner 4. Discovery of insulin Codes: A B C D A B C D",
+            "options": [
+                "4 3 2 1",
+                "4 2 1 3",
+                "3 4 2 1",
+                "1 4 3 2"
+            ],
+            "answer": "4 2 1 3",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Eyes B. Dermatitis 2. Joints C. Gout 3. Skin D. Meningitis 4. Spinal cord Codes: A B C D A B C D",
+            "options": [
+                "2 4 1 3",
+                "1 3 2 4",
+                "2 3 1 4",
+                "1 4 2 3"
+            ],
+            "answer": "1 3 2 4",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Cigarette   smoking   exposes   a   person   to benzene. 2. Benzene is a known carcinogen. Which of the statements given above is/are correct?",
+            "options": [
+                "Only 1",
+                "Only 2",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "Only 2",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Thiamine B.  Vitamin-B1 2. Retinol C.  Vitamin-C 3. Ascorbic acid D. Vitamin-E 4. Tocopherol Codes: A B C D A B C D",
+            "options": [
+                "4 1 3 2",
+                "2 3 1 4",
+                "4 3 1 2",
+                "2 1 3 4"
+            ],
+            "answer": "2 3 1 4",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Poppy plant B.   M orphine 2. Bacterium C.   Penicillin 3. Cinchona bark D.   Tetracycline 4. Fungus Codes: A B C D A B C D",
+            "options": [
+                "3 4 1 2",
+                "2 3 1 4",
+                "3 1 4 2",
+                "2 1 3 4"
+            ],
+            "answer": "2 3 1 4",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Consider the follwing statement about bioremediation.",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  Both statements are true"
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Kala-azar B.  Culex mosquito 2. Dengue C.  Aedes 3. Malaria D.  Sandfly 4. Filaria Biology 42 Codes: A B C D A B C D",
+            "options": [
+                "3 2 4 1",
+                "1 4 2 3",
+                "1 2 4 3",
+                "3 4 2 1"
+            ],
+            "answer": "1 4 2 3",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Banana, date B.   Potassium 2. Palak C.   Iodine 3. Iodized common salt D.   Calcium 4. Milk, egg Codes: A B C D A B C D",
+            "options": [
+                "2 1 3 4",
+                "2 3 1 4",
+                "4 3 1 2",
+                "4 1 3 2"
+            ],
+            "answer": "2 3 1 4",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Barley B.   Beer 2. Sugarcane juice \\ C    W hisky 3. Grapes D.   Rum 4. Molasses Codes: A B C D A B C D",
+            "options": [
+                "2 1 4 3",
+                "3 4 1 2",
+                "3 1 4 2",
+                "2 4 1 3"
+            ],
+            "answer": "3 4 1 2",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "A person with myopia can see distant objects distinctly but cannot see nearby objects clearly. 2. A person with hypermetropia cannot see distant objects clearly. 3. A person with presbyopia can see nearby objects without corrective glasses. Which of the statements given above is/are not correct?",
+            "options": [
+                "1, 2 and 3",
+                "1 and 2",
+                "1 and 3",
+                "Only 3 43 Biology"
+            ],
+            "answer": "1 and 2",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Iodine is necessary for the thyroid gland to make adrenaline. 2. Iodine deficiency leads to goitre in human beings. 3. Iodine is secreted by pancreas and helps in regulating cholesterol level. Which of the statements given above is/are correct?",
+            "options": [
+                "1, 2 and 3",
+                "1 and 2",
+                "1 and 3",
+                "Only 2"
+            ],
+            "answer": "1 and 2",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Plantation grows very fast. 2. Plantation makes the soil more fertile. 3. Wood from eucalyptus tree is easily converted into the pulp for paper industry. Select the correct answer using the codes given below.",
+            "options": [
+                "1 and 2",
+                "1 and 3",
+                "2 and 3",
+                "All of these"
+            ],
+            "answer": "1 and 3",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Warm-blooded animals can remain active in cold environment in which cold-blooded animals can hardly move. 2. Cold-blooded animals require much less energy to survive than warm-blooded animals. Which of the statements given above is/are correct?",
+            "options": [
+                "Only 1",
+                "Only 2",
+                "Both 1 and 2",
+                "Neither 1 nor 2"
+            ],
+            "answer": "Only 2",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "They are steroids, proteins, peptides or amino acids derivatives. 2. They are not produced by body organs and are mostly taken as supplements. 3. They do not influence the working of those organs which have secreted them. 4. They act as co-enzymes and help enzymes to perform their function. Select the correct answer using the code given below",
+            "options": [
+                "1 and 4",
+                "2, 3 and 4",
+                "1 and 3",
+                ""
+            ],
+            "answer": "2, 3 and 4",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Azotobacter is one of the nitrogen fixing bacteria used as a biofertilizer. 2. They have to be applied to the leaves of the plant only. 3. They alter the chemical composition of the soil. 4. They   can   be   used   along   with   organic fertilizers. Select the correct answer using the code given below",
+            "options": [
+                "1 and 4",
+                "1, 2 and 4",
+                "2 and 3",
+                "1, 2, 3 and 4"
+            ],
+            "answer": "1, 2 and 4",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "AIDS 2. Cirrhosis 3. Hepatitis B 4. Syphilis Select the correct answer using the code given below",
+            "options": [
+                "2, 3 and 4",
+                "1, 3 and 4",
+                "1 and 2",
+                "All of these"
+            ],
+            "answer": "1, 3 and 4",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "They are used to destroy disease-causing bacteria. 2. They can be applied to the skin, swallowed or injected to fight micro-organisms inside the body. 3. They are effective against disease-causing viruses. 4. The first antibiotic to be discovered was Tetracycline. Which of the statement(s) given above is/are correct?",
+            "options": [
+                "1 and 2",
+                "1, 2 and 4",
+                "2, 3 and 4",
+                "Only 1"
+            ],
+            "answer": "1, 2 and 4",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Photosynthesis 2. Respiration 3. Transpiration Select the correct answer using the codes given below",
+            "options": [
+                "1 and 3",
+                "Only 2",
+                "2 and 3",
+                "All of these"
+            ],
+            "answer": "Only 2",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "If the roots of the tree develop a disease, then voles and foxes will starve and not the owls. 2. Population of voles is dependent on wood lice population through food web. 3. If owl population declines, it will indirectly affect wood lice population. 4. If barks of tree are affected due to a disease, then reduction of wood lice will affect the shrew population forcing owls to eat more voles. Which of the above predictions is/are correct?",
+            "options": [
+                "1,2, and 4",
+                "Only 3",
+                "1 and 2",
+                "Only 2"
+            ],
+            "answer": "Only 3",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Calcium 2. Phosphorus 3. Nitrogen 4. Carbon Select the correct answer using the codes given below",
+            "options": [
+                "1 and 2",
+                "Only 1",
+                "1, 2 and 3",
+                "Only 4"
+            ],
+            "answer": "Only 1",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Which of the following statements is/are correct?",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  Amnion is a membrane filled with fluid which covers the embryo. The sex of growing embryo (foetus) may be determined by ultrasound as early as 11 weeks pregnancy."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Fats are needed for the formation of cell membrane. 2. Fats help the body to absorb calcium from food. 3. Fats are required to repair damaged tissue. 4. Body cannot release energy in fats as quickly as the energy in carbohydrates. Select the correct answer using the codes given below",
+            "options": [
+                "1 and 4",
+                "Only 1",
+                "2 and 4",
+                "3 and 4"
+            ],
+            "answer": "Only 1",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "A person having blood group 'A' can donate blood to persons having blood group 'A' and blood group 'AB'. 2. A person having blood group 'AB' can donate blood to persons having blood groups 'A', 'B', 'AB' or 'O'. 3. A person with blood group 'O' can donate blood to persons having any blood group. 4. A person with blood group 'O' can  receive blood from the person of any of the blood groups. Select the correct answer using the code given below :",
+            "options": [
+                "1, 2, 3 and 4",
+                "l and 2 only",
+                "3 and 4 only",
+                "1 and 3 only"
+            ],
+            "answer": "l and 2 only",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Coronary artery supplies blood to heart muscles. 2. Pulmonary vein supplies blood to lungs. 3. Hepatic artery supplies blood to kidneys. 4. Renal vein supplies blood to kidneys. Select the correct answer using the code given below:",
+            "options": [
+                "l, 2 and 3",
+                "1 and 2 only",
+                "2 and 4",
+                "1, 3 and 4"
+            ],
+            "answer": "1 and 2 only",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Mammalia B. Malarial parasite 2. Arthropoda C. Housefly 3. Nematoda D. Cow 4. Protozoa Codes: A B C D A B C D",
+            "options": [
+                "3 4 2 1",
+                "3 2 4 1",
+                "1 2 4 3",
+                "1 4 2 3"
+            ],
+            "answer": "3 2 4 1",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Sexual reproduction 2. Asexual reproduction 3. Mutations 4. Epigenetic changes Select the correct answer using the code given below.",
+            "options": [
+                "2 only",
+                "1, 2 and 3",
+                "1, 3 and 4",
+                "1 and 3 only"
+            ],
+            "answer": "1, 2 and 3",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "renal tubule in kidney2. hepatic cells in liver 3. large intestine 4. pancreatic duct Select the correct answer using the code given below.",
+            "options": [
+                "1, 2 and 3",
+                "1 and 3 only",
+                "2 and 4",
+                "3 only"
+            ],
+            "answer": "1 and 3 only",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Most antibiotics target bacterial parasites interfering with various factors of growth of metabolism such as",
+            "options": [],
+            "answer": "d",
+            "explanation": "(d)  Mostly antibiotics inhibit the synthesis of cell wall and protein synthesis in bacteria. Due to this reason, bacterial infection is controlled by this type of medicines."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "introduction of new DNA 2. removal of existing DNA 3. introduction of RNA 4. introduction of new traits Select the correct answer using the code given below :",
+            "options": [
+                "1 and 2 only",
+                "1, 2 and 3",
+                "3 and 4",
+                "1,2 and 4"
+            ],
+            "answer": "1, 2 and 3",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Vitamin A A Rickets 2. Vitamin B1 B Beribri 3. Vitamin C C Scurvy Select the correct answer using the code given below:",
+            "options": [
+                "2 only",
+                "2 and 3 only",
+                "1 and 3 only",
+                "1, 2 and 3"
+            ],
+            "answer": "2 and 3 only",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "genetic resources 2. seeds or tissues for breeding 3. egg and sperm repository 4. a germ cell's determining zone Select the correct answer using the code given below",
+            "options": [
+                "1 only",
+                "1, 2 and 3",
+                "2 and 3 only",
+                "2 and 4"
+            ],
+            "answer": "1, 2 and 3",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "interfering in the process of platelet production in bone marrow 2. infecting endothelial cells 3. binding with platelets 4. accumulating platelets in intestine Select the correct answer using the code given below:",
+            "options": [
+                "1 and 2 only",
+                "1 and 3 only",
+                "3 and 4",
+                "1, 2 and 3"
+            ],
+            "answer": "1 and 3 only",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "An irregular mode of reproduction resulting in the development of an embryo without fertilization is called",
+            "options": [],
+            "answer": "d",
+            "explanation": "(d)  Parthenogenesis, a reproductive strategy that involves development of a female (rarely a male) gamete (sex cell) without fertilization. It occurs commonly among lower plants and invertebrate animals (particularly rotifers, aphids, ants, wasps, and bees) and rarely among higher vertebrates. Apogamy is a type of reproduction, occurring in some ferns, in which the sporophyte develops from the gametophyte without fusion of gametes Adventive embryony, also called sporophytic apomixis, sporophytic budding, or nucellar embryony: Here there may be a megagametophyte in the ovule, but the embryos do not arise from the cells of the gametophyte; they arise from cells of nucellus or the integument."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Root hair cells 2. Red blood cells 3. Platelets 4. Monocytes 49 Biology Select the correct answer using the code given below.",
+            "options": [
+                "1 only",
+                "2 and 3 only",
+                "l, 2 and 4",
+                "2, 3 and 4"
+            ],
+            "answer": "2 and 3 only",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Biological catalysts are protein molecules which",
+            "options": [],
+            "answer": "",
+            "explanation": ""
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Photosynthesis B. Chloroplast 2. Protein synthesis C. Ribosomes 3. Intracellular digestion D. Lysosomes 4. ATP formation Codes: A B C D A B C D",
+            "options": [
+                "3 1 2 4",
+                "3 2 1 4",
+                "4 1 2 3",
+                "4 2 1 3"
+            ],
+            "answer": "3 2 1 4",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Statement I : Skin cancer is generally caused by the ultraviolet radiation. Statement II : Stratosphere allows ultraviolet radiation to enter the earth from the sun.",
+            "options": [
+                "Both Statement I and Statement II are individually true and Statement II is the correct explanation of Statement I",
+                "Both Statement I and Statement II are individually true but Statement II is NOT the correct explanation of Statement I",
+                "Statement I is true but Statement II is false",
+                "Statement I is false but Statement II is true"
+            ],
+            "answer": "Both Statement I and Statement II are individually true but Statement II is NOT the correct explanation of Statement I",
+            "explanation": "(b) is the correct answer."
+        },
+        {
+            "subject": "Biology",
+            "year": "Unknown",
+            "cycle": "I",
+            "question": "Statement I : Bioaccumulation is a process of progressive accumulation of heavy metals and pesticides in an organism. Statement II : Large fishes of the pond are found to have higher concentration of pesticides than planktons of the same pond.",
+            "options": [
+                "Both Statement I and Statement II are individually true and Statement II is the correct explanation of Statement I",
+                "Both Statement I and Statement II are individually true but Statement II is NOT the correct explanation of Statement I",
+                "Statement I is true but Statement II is false",
+                "Statement I is false but Statement II is true"
+            ],
+            "answer": "Both Statement I and Statement II are individually true but Statement II is NOT the correct explanation of Statement I",
+            "explanation": "(b) Bioaccumulation is defined as the increase in concentration of a substance(s) in an organism or a part of that organism. Toxic substances are lipophilic or fat- loving, the reason why these substances are deposited and concentrated in the fat tissues of the organisms. The affected organism has a higher concentration of the substance than the concentration in the organism's surrounding environment. The toxic substances are very slowly metabolized or excreted so if the organism keeps on consuming prey or food contaminated with toxic substances, the concentration of the substance will further increase in its body, hence, bioaccumulation results. When a certain threshold level is reached, measured in parts per million (ppm), symptoms due to the type of toxin are manifested."
+        }
+    ]
+}

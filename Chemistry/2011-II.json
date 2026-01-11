@@ -1,0 +1,124 @@
+{
+    "Chemistry 2011-II": [
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "II",
+            "question": "One of the occupational health hazards commonly faced by the workers of ceramics, pottery and glass industry is",
+            "options": [
+                "stone formation in gall bladder",
+                "melanoma",
+                "silicosis",
+                "stone formation in kidney"
+            ],
+            "answer": "silicosis",
+            "explanation": "(c)  Silicosis  is  a  chronic  lung  disease  caused  by breathing in silica dust. Silicosis (silico tuberculosis) occurs in workers whose occupation is related to pottery, ceramic, and glass industry."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "II",
+            "question": "Sacrificial anode protects iron or ships, underground pipelines etc from rusting, a process known as cathodic protection. Which one of the following metals cannot be used as a sacrificial anode?",
+            "options": [
+                "Tin",
+                "Zinc",
+                "Magnesium",
+                "Aluminium"
+            ],
+            "answer": "Tin",
+            "explanation": "(a)  The method of protection of iron from corrosion by using a more  reactive metal is known as sacrificial protection or cathodic protection.  Zinc, magnesium and aluminium metals are more reactive than iron hence, they are used as a sacrificial anode while tin is less reactive than iron hence, it cannot be used as a sacrificial anode."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "II",
+            "question": "Sodium thiosulphate (Na2S2O3) solution is used in photography to",
+            "options": [
+                "remove reduced silver",
+                "reduce silver bromide (AgBr) grain to silver",
+                "remove undecomposed AgBr as a soluble silver thiosulphate complex",
+                "convert the metallic silver to silver salt DIRECTIONS (Qs.78-80) : The following questions consist of two statements. Statement I and Statement II. You are to examine these two statements carefully and select the answers to these items using the codes given below.",
+                "Both the statements are individually true and statement II is the correct explanation of Statement I.",
+                "Both the statements are individually true but Statement II is not the correct explanation of Statement I. Chemistry 22",
+                "Statement I is true, but Statement II is false.",
+                "Statement I is false, but Statement II is true"
+            ],
+            "answer": "remove undecomposed AgBr as a soluble silver thiosulphate complex",
+            "explanation": "(c)  Sodium thiosulphate (Na2S2O3) solution is used as fixer in photography, it removes undercomposed AgBr as a soluble silver thiosulphate complex. AgBr 2Na S O Na [Ag(S O ) ] NaBr + ® + 2 2 3 3 2 3 2 Sodiumargento thiosulphate"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "II",
+            "question": "Statement I : Oxides of sulphur and nitrogen present in high concentration in air are dissolved in rain drops. Statement II : Oxyacids of sulphur and nitrogen make rain water acidic.",
+            "options": [
+                "Both Statement I and Statement II are individually true and Statement II is the correct explanation of Statement I",
+                "Both Statement I and Statement II are individually true but Statement II is NOT the correct explanation of Statement I",
+                "Statement I is true but Statement II is false",
+                "Statement I is false but Statement II is true"
+            ],
+            "answer": "Both Statement I and Statement II are individually true and Statement II is the correct explanation of Statement I",
+            "explanation": "(a)  Oxides of sulphur and nitrogen present in high concentration in air dissolve in rain drops and form oxyacids of sulphur and nitrogen. These oxyacids are highly acidic in nature and therefore, they make rain water acidic. 4NO2 + 2H2O + O2 ¾¾® 4HNO3 2SO2 + 2H2O + O2 ¾¾® 2H2SO4 The pH of acid rain is 4 - 5"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "II",
+            "question": "Statement I : On mixing with water, plaster of Paris hardens. Statement II : By combining with water, plaster of Paris is converted into gypsum. CaS04 -2Hp Gypsum",
+            "options": [
+                "Both Statement I and Statement II are individually true and Statement II is the correct explanation of Statement I",
+                "Both Statement I and Statement II are individually true but Statement II is NOT the correct explanation of Statement I",
+                "Statement I is true but Statement II is false",
+                "Statement I is false but Statement II is true"
+            ],
+            "answer": "Both Statement I and Statement II are individually true and Statement II is the correct explanation of Statement I",
+            "explanation": "(a)  On mixing with water, plaster of Paris hardens because it takes up the water of crystallisation again and thus, converts back into the dihydrate i.e., gypsum. 1 1 CaSO . H O 1 H O CaSO .2H O 2 2 + ® 4 2 2 4 2 Gypsum Plasterof Paris"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "II",
+            "question": "Statement  I : All   liquids  are  conductors  of electricity. Statement II : Under the condition of low pressure and high voltage, liquids can be made conducting. 81. Gypsum (CaSO4 . 2H2O) is added to clinker during cement manufacturing to",
+            "options": [
+                "decrease the rate of setting of cement",
+                "bind the particles of calcium silicate",
+                "facilitate the formation of colloidal gel",
+                "impart strength to cement"
+            ],
+            "answer": "impart strength to cement",
+            "explanation": "(d)  All liquids are not conductors of electricity. Only the liquids which contain free ions or electrons, can conduct electricity."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "II",
+            "question": "Which one among the following will you put into pure water in order to pass electric current through it?",
+            "options": [
+                "Kerosene",
+                "Mustard oil",
+                "Lemon juice",
+                "Sugar 83. From which one among the following water sources, the water is likely to be contaminated with fluoride?",
+                "Ground water",
+                "River water",
+                "Pond water",
+                "Rain water"
+            ],
+            "answer": "Lemon juice",
+            "explanation": "(c)  In lemon juice citric acid is present. Hence, acids are conductors of electricity. The aqueous solution of  lime juice conducts electricity due to the  presence of ions in it."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "II",
+            "question": "What is the main constituent of a pearl?",
+            "options": [
+                "Calcium carbonate and magnesium carbonate",
+                "Calcium sulphate only",
+                "Calcium oxide and calcium sulphate",
+                "Calcium carbonate only"
+            ],
+            "answer": "Calcium carbonate only",
+            "explanation": "(d)  Pearl consists of approximately 85% calcium carbonate."
+        }
+    ]
+}

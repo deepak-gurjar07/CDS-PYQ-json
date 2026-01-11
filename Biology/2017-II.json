@@ -1,0 +1,101 @@
+{
+    "Biology 2017-II": [
+        {
+            "subject": "Biology",
+            "year": "2017",
+            "cycle": "II",
+            "question": "Which one of the following proteins gives lustrous shiny appearance to silk fibre?",
+            "options": [
+                "Fibrin",
+                "Sericin",
+                "Collagen",
+                "Nectin"
+            ],
+            "answer": "Fibrin",
+            "explanation": "(a)  Silk is a fibre produced by the silkworm in production of its cocoon. It consists mainly of two proteins, fibroin and sericin. Silk consists of 70–80% fibroin and 20–30% sericin; fibroin being the structural center of the silk, and sericin being the gum coating the fibres and allowing them to stick to each other."
+        },
+        {
+            "subject": "Biology",
+            "year": "2017",
+            "cycle": "II",
+            "question": "Blue Baby Syndrome is caused by the contamination of",
+            "options": [
+                "nitrite ( ) 2 NO-",
+                "sulphite ( ) 2 3 SO -",
+                "nitrate ( ) 3 NO-",
+                "sulphate ( ) 2 4 SO -"
+            ],
+            "answer": "nitrate ( ) 3 NO-",
+            "explanation": "(c)  Blue baby syndrome is a condition some babies are born with or develop early in life. It’s characterized by an overall skin color with a blue or purple tinge, called cyanosis. This condition stems from nitrate poisoning. It is can happen in babies who are fed infant formula mixed with well water or homemade baby food made with nitrate- rich foods, like spinach or beets."
+        },
+        {
+            "subject": "Biology",
+            "year": "2017",
+            "cycle": "II",
+            "question": "Match List-I with List-II and select the correct answer using the code given below the Lists :  List-I List-II (Cell Organelle) (Function) A. Mitochondria",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c) A-4, B-1, C-2, D-3 is the correct answer. ATP supplies energy to the cell. It is formed by the oxidation of glucose in the mitochondria. Since, mitochondria synthesize energy 59 Biology rich compounds (ATP) so, known as power house of the cell. Ribosomes are dense, spherical and granular particles which occur freely in the matrix (cytosol) or remain attached to the ER. It plays an important part in the synthesis of proteins. Lysosomes are simply tiny spherical sac-like structures evenly distributed in the cytoplasm. Its cells digest foreign proteins, bacteria and viruses. So, it is a kind of garbage disposable system of the cell."
+        },
+        {
+            "subject": "Biology",
+            "year": "2017",
+            "cycle": "II",
+            "question": "Human insulin molecule is composed of one a-chain having 21 amino acids and one b-chain having 30 amino acids. How many functional insulin genes occur in adult humans?",
+            "options": [
+                "One",
+                "Two",
+                "Three",
+                "Four"
+            ],
+            "answer": "One",
+            "explanation": "(a) Human Insulin protein consists of 51 amino acids. Insulin is formed as a precursor protein preproinsulin. This is coded by the INS gene. In some animals there are two insulin genes or two genes that code for insulin. In most animals, including humans, a single gene is present."
+        },
+        {
+            "subject": "Biology",
+            "year": "2017",
+            "cycle": "II",
+            "question": "A biological community in its environment such as a pond, an ocean, a forest, even an aquarium is known as",
+            "options": [
+                "biome",
+                "community",
+                "abiotic environment",
+                "ecosystem DIRECTION (Q. 222): The following five (5) items consist of two statements, Statement I and Statement II. Examine these two statements carefully and select the correct answer using the code given below. Codes:",
+                "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+                "Statement I is true but Statement II is false",
+                "Statement I is false but Statement II is true"
+            ],
+            "answer": "biome",
+            "explanation": "(a) A biome is a community of plants and animals that have common characteristics for the environment they exist in. They can be found over a range of continents. Biomes are distinct biological communities that have formed in response to a shared physical climate."
+        },
+        {
+            "subject": "Biology",
+            "year": "2017",
+            "cycle": "II",
+            "question": "The foul smell of urine of a healthy man having healthy food, when spilled on floor, is mainly due to the bacterial decomposition of  Biology 50",
+            "options": [
+                "urea into sulphur dioxide",
+                "sugar into carbon dioxide",
+                "lipids into methane",
+                "urea into ammonia"
+            ],
+            "answer": "urea into ammonia",
+            "explanation": "(d) Fresh urine has little to no odor. But if urine sits for a time — as can happen when a person is wearing protective underwear or an incontinence pad — the urine will begin to smell like ammonia. The smell is caused by bacteria that break down urea, a substance that is excreted in urine."
+        },
+        {
+            "subject": "Biology",
+            "year": "2017",
+            "cycle": "II",
+            "question": "Which one of the following polymers does not contain glucose units?",
+            "options": [
+                "Glycogen",
+                "Starch",
+                "Cellulose",
+                "Rubber"
+            ],
+            "answer": "Rubber",
+            "explanation": "(d) Starch is a polymer of a-glucose and consists of two components-amylose and amylopectin. Glycogen is a polymer of 1000 glucose units. Cellulose is a linear polymer of b-D-glucose. Natural rubber is an addition polymer that is obtained as a milky white fluid known as latex from a tropical rubber tree. Natural rubber is from the monomer isoprene (2-methyl-1,3-butadiene), which is a conjugated diene hydrocarbon"
+        }
+    ]
+}

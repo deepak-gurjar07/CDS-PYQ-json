@@ -1,0 +1,162 @@
+{
+    "Biology 2007-II": [
+        {
+            "subject": "Biology",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Which one of the following is not a constituent of biogas?",
+            "options": [
+                "Methane",
+                "Carbon dioxide",
+                "Hydrogen",
+                "Nitrogen dioxide"
+            ],
+            "answer": "Nitrogen dioxide",
+            "explanation": "(d)  Nitrogen dioxide (NO2) is not a component of biogas."
+        },
+        {
+            "subject": "Biology",
+            "year": "2007",
+            "cycle": "II",
+            "question": "A mother of blood group O has a group O child. What could be the blood group of father of the child?",
+            "options": [
+                "Only O",
+                "A or B or O",
+                "A or B",
+                "Only AB"
+            ],
+            "answer": "A or B or O",
+            "explanation": "(b)  The blood group of father of  the child could be A or B or O."
+        },
+        {
+            "subject": "Biology",
+            "year": "2007",
+            "cycle": "II",
+            "question": "What does sphygmomanometer measure?",
+            "options": [
+                "Blood pressure",
+                "Velocity of fluids",
+                "Temperature",
+                "Curvature of spherical surfaces"
+            ],
+            "answer": "Blood pressure",
+            "explanation": "(a)  Sphygmomanometer is an instrument to measure the blood pressure. It is made up of an inflatable cuff to restrict the blood flow and a mercury or manometer to measure pressure."
+        },
+        {
+            "subject": "Biology",
+            "year": "2007",
+            "cycle": "II",
+            "question": "What does water gas comprise of?",
+            "options": [
+                "Carbon monoxide and hydrogen",
+                "Carbon dioxide and hvdrogen",
+                "Carbon monoxide and methane",
+                "Carbon dioxide and methane"
+            ],
+            "answer": "Carbon monoxide and hydrogen",
+            "explanation": "(a)  Water gas is a synthetic gas, having CO and H2. The gas is produced by passing steam over a red hot hydrocarbon fuel as coke."
+        },
+        {
+            "subject": "Biology",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Which   one   of   the   following   causes   the chikungunya disease?",
+            "options": [
+                "Bacteria",
+                "Helminthic worm",
+                "Protozoan",
+                "Virus"
+            ],
+            "answer": "Virus",
+            "explanation": "(d)  Chikungunya is caused by chikungunya virus which is an insect borne virus of genus Alphavirus. Symptoms show high fever, maculopapular rash, headache, etc."
+        },
+        {
+            "subject": "Biology",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Which one of the following vitamins is abundant in guava fruits?",
+            "options": [
+                "Vitamin-A",
+                "Vitamin-B12",
+                "Vitamin-C",
+                "Vitamin-D"
+            ],
+            "answer": "Vitamin-C",
+            "explanation": "(c)  Vitamin-C is enough in guava fruits. Vitamin-C helps in strengthening of immunity, serves as an antioxidant and provides relief in hypertension too. 272. Match List-I with List-II and select the correct answer using the code given below the Lists : [2020-I] List-I List-II (Name) (Formula) A. Bleaching powder 1. NaHCO3 B. Baking soda 2. Na2CO3 × 10H2O C. Washing soda 3. Ca(OH)2 D. Slaked lime 4. CaOC12 Codes: A B C D A B C D (a) 4 1 2 3 (b) 4 2 1 3 (c) 3 2 1 4 (d) 3 1 2 4 273. The number of water molecules associated with copper sulphate molecule to form crystals is [2020-I] (a) 2 (b) 4 (c) 5 (d) 6 274. Which one of the following is the correct sequence of organs that occur in the path of urine flow in human body? [2020-I] (a) Kidney, ureter, urinary bladder, urethra (b) Kidney, urinary bladder, ureter, urethra (c) Kidney, ureter, urethra, urinary bladder (d) Urinary bladder, kidney, urethra, ureter 275. Which of the following endocrine glands is not found in pair in humans? [2020-I] (a) Adrenal (b) Pituitary (c)   Testis   (d)   Ovary 276. Which one of the following cell organelles contains DNA? [2020-I] (a) Golgi apparatus (b) Mitochondrion (c) Lysosome (d) Endoplasmic reticulum 277. Who among the following scientists introduced the concept of immunization to the medical world?  [2020-I] (a) Edward Jenner (b) Robert Koch (c) Robert Hooke (d) Carl Linnaeus"
+        },
+        {
+            "subject": "Biology",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Which one of the following vitamins helps in clotting of blood?",
+            "options": [
+                "Vitamin-A",
+                "Vitamin-B6",
+                "Vitamin-D",
+                "Vitamin-K"
+            ],
+            "answer": "Vitamin-K",
+            "explanation": "(d)  Vitamin-K adds in blood clotting. Vitamin-K acts as an essential cofactor for factor-II, VII, IX, X and also for proteins Z, C and S."
+        },
+        {
+            "subject": "Biology",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Which one of the following glands in the human body stores iodine?",
+            "options": [
+                "Parathyroid",
+                "Thyroid",
+                "Pituitary",
+                "Adrenal"
+            ],
+            "answer": "Thyroid",
+            "explanation": "(b)  Thyroid gland in human body contains iodine. Deficiency of iodine creates goitre disease. Which is observed by the enlargement of larynx."
+        },
+        {
+            "subject": "Biology",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Which of the following diseases are preventable by vaccine?",
+            "options": [],
+            "answer": "b",
+            "explanation": "(b)  Polio and pertusis are caused by virus. So, these can be controlled by vaccines."
+        },
+        {
+            "subject": "Biology",
+            "year": "2007",
+            "cycle": "II",
+            "question": "In the context of ecology and environment, what does the Red Data Book pertain to?",
+            "options": [
+                "Details of harmful levels of various pollutants",
+                "A complete list of all endangered plants and animals",
+                "A description of the consequences of nuclear holocaust",
+                "A description of the sociological and psychological consequence of genetically modified plants and animals"
+            ],
+            "answer": "A complete list of all endangered plants and animals",
+            "explanation": "(b)  Red Data Book is related with a complete list of all endangered species."
+        },
+        {
+            "subject": "Biology",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Which of the following is not a bird?",
+            "options": [
+                "Bat",
+                "Emu",
+                "Kiwi",
+                "Ostrich"
+            ],
+            "answer": "Bat",
+            "explanation": "(a)  Bat is mammal not a bird."
+        },
+        {
+            "subject": "Biology",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Match the following lists.  List-I (Scientist) List-II (Work) A. F G Banting",
+            "options": [],
+            "answer": "a",
+            "explanation": "(a) "
+        }
+    ]
+}

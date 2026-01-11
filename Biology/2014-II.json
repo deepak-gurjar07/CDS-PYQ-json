@@ -1,0 +1,129 @@
+{
+    "Biology 2014-II": [
+        {
+            "subject": "Biology",
+            "year": "2014",
+            "cycle": "II",
+            "question": "Which one among the following is the generic name of the causal organism of Elephantiasis ?",
+            "options": [
+                "Filaria",
+                "Microfilaria",
+                "Wuchereria bancrofti",
+                "Culex pipiens"
+            ],
+            "answer": "Wuchereria bancrofti",
+            "explanation": "(c)  Elephantiasis is a symptom of a variety of diseases, where parts of a person's body swell to massive proportions. It is caused by a number of parasitic worms, particularly Wuchereria bancrofti."
+        },
+        {
+            "subject": "Biology",
+            "year": "2014",
+            "cycle": "II",
+            "question": "Which one among the following statements is not correct?",
+            "options": [
+                "Pulses are rich in proteins",
+                "Milk is a rich source of Vitamin A",
+                "Cereals are very poor source of  carbohydrates",
+                "Vegetables are rich source of minerals"
+            ],
+            "answer": "Cereals are very poor source of  carbohydrates",
+            "explanation": "(c)  Cereals are good source of carbohydrate."
+        },
+        {
+            "subject": "Biology",
+            "year": "2014",
+            "cycle": "II",
+            "question": "Which of the statements given below are correct?",
+            "options": [],
+            "answer": "d",
+            "explanation": "(d)  A person with AB blood group can receive blood from any group but cannot donate blood to any group other than AB. O individual can receive blood only from a group of O individual but can donate blood to all groups."
+        },
+        {
+            "subject": "Biology",
+            "year": "2014",
+            "cycle": "II",
+            "question": "Which one among the following is the correct pathway for the elimination of urine ?",
+            "options": [
+                "Kidneys, Ureters, Bladder, Urethra",
+                "Kidneys, Urethra, Bladder, Ureters",
+                "Urethra, Ureters, Bladder, Kidneys",
+                "Bladder, Ureters, Kidneys, Urethra"
+            ],
+            "answer": "Kidneys, Ureters, Bladder, Urethra",
+            "explanation": "(a)  The kidneys filter metabolic wastes, excess ions, and chemicals from the blood to form urine. The ureters are a pair of tubes that carry urine from the kidneys to the urinary bladder. The urethra is the tube through which urine passes from the bladder to the exterior of the body. 57 Biology"
+        },
+        {
+            "subject": "Biology",
+            "year": "2014",
+            "cycle": "II",
+            "question": "Which of the following parts are found in both plant and animal cells ?",
+            "options": [
+                "Cell membrane, Chloroplast, Vacuole",
+                "Cell wall, Nucleus, Vacuole",
+                "Cell membrane, Cytoplasm, Nucleus",
+                "Cell wall, Chloroplast, Cytoplasm 47 Biology"
+            ],
+            "answer": "Cell membrane, Cytoplasm, Nucleus",
+            "explanation": "(c)  Cell Membrane, Cytoplasm and Nucleus are found in both plant and animal cells."
+        },
+        {
+            "subject": "Biology",
+            "year": "2014",
+            "cycle": "II",
+            "question": "Which of the following statements is/are correct ?",
+            "options": [],
+            "answer": "b",
+            "explanation": "(b)  The coronary arteries deliver blood to the heart muscle, providing a continuous supply of oxygen and nutrients needed for it to stay healthy and function normally. The pulmonary veins receive oxygenated blood from the lungs and drain into the left atrium of the heart.The Hepatic artery supplies oxygen-rich blood to the liver, pylorus, pancreas, and duodenum. The renal arteries carry a large portion of total blood flow to the kidneys."
+        },
+        {
+            "subject": "Biology",
+            "year": "2014",
+            "cycle": "II",
+            "question": "Which one of the following types of pesticides is convenient to control stored grain pests ?",
+            "options": [
+                "Systemic pesticides",
+                "Fumigants",
+                "Contact poisons",
+                "Stomach poisons"
+            ],
+            "answer": "Fumigants",
+            "explanation": "(b)  Fumigants are used to penetrate and remain in the container for long enough to kill all stages of insects present in stores grains."
+        },
+        {
+            "subject": "Biology",
+            "year": "2014",
+            "cycle": "II",
+            "question": "Match List I with List II and select the correct answer using the code given below the Lists:  List-I List-II (Animal) (Phyla) A. Ascaris",
+            "options": [],
+            "answer": "a",
+            "explanation": "(a)  The correct match is as follows: Ascaris - Nematoda Malarial parasite - Protozoa Housefly - Arthropoda Cow - Mammalia"
+        },
+        {
+            "subject": "Biology",
+            "year": "2014",
+            "cycle": "II",
+            "question": "Which one among the following pairs is not correctly matched ?",
+            "options": [
+                "Sandal wood plant : Partial root parasite",
+                "Cuscuta : Parasite",
+                "Nepenthes : Carnivorous",
+                "Mushrooms : Autotroph"
+            ],
+            "answer": "Mushrooms : Autotroph",
+            "explanation": "(d)  Mushroom is not autotroph."
+        },
+        {
+            "subject": "Biology",
+            "year": "2014",
+            "cycle": "II",
+            "question": "Which one among the following cattle breed produces highest amount of milk ?",
+            "options": [
+                "Brown Swiss",
+                "Holstein",
+                "Dutch belted",
+                "Blaarkop"
+            ],
+            "answer": "Holstein",
+            "explanation": "(b)  Holstein Friesians are world's highest-production dairy animals. They are found mostly in Netherlands/Germany."
+        }
+    ]
+}

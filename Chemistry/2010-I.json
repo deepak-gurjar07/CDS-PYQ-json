@@ -1,0 +1,125 @@
+{
+    "Chemistry 2010-I": [
+        {
+            "subject": "Chemistry",
+            "year": "2010",
+            "cycle": "I",
+            "question": "The coil in a heater is made of",
+            "options": [
+                "nichrome",
+                "tungsten",
+                "copper",
+                "iron"
+            ],
+            "answer": "nichrome",
+            "explanation": "(a)  The coil in a heater is made up of nichrome because its melting point and resistivity are high."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Which among the following elements is abundant on the lunar surface and holds the potential to put an end to the energy crisis of the earth?",
+            "options": [
+                "Helium-I",
+                "Helium-ll",
+                "Helium-Ill",
+                "Helium-IV"
+            ],
+            "answer": "Helium-Ill",
+            "explanation": "(c)  Helium-III is abundant on the lunar surface and holds the potential to put an end to the energy crisis of the Earth."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2010",
+            "cycle": "I",
+            "question": "If a limestone piece is dipped in water, a bubble evolves. The bubbling is due to",
+            "options": [
+                "hydrogen",
+                "oxygen",
+                "water vapour",
+                "carbon dioxide"
+            ],
+            "answer": "carbon dioxide",
+            "explanation": "(d)  When limestone piece is dipped in water, the bubbles evolve due to evolution of carbon dioxide. CaCO3 + H2O ® Ca (OH)2 + CO2"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Which   one   of  the   following   chemicals   is commonly used by farmers to destroy weeds?",
+            "options": [
+                "DDT",
+                "Malathion",
+                "Methyl bromide",
+                "2, 4-D"
+            ],
+            "answer": "2, 4-D",
+            "explanation": "(d)  2, 4-D (2, 4-dichlorophenoxy acetic acid) is used to destroy weeds."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Some statements about the benefits of organic farming are given below. Indicate whether they are true or false using the codes given below the statements :",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  Organic farming is the form of agriculture that relies on crop rotation, green manure, compost, biological pest control and mechanical cultivation to maintain soil productivity and control pests. It does not reduce CO2 emission. It does not lead to toxic effect. It improves the water-retention capacity of the soil."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Match List I with List II and select the correct answer using the codes given below the Lists.  List-I List-II (Item) (Toxic substance) A. CFL lamp 1 Nitrogen oxides B. Automobile battery 2 Phthalates C. Polymer 3 Lead D. Diesel engine 4 Mercury Code: A B C D A B C D",
+            "options": [
+                "4 2 3 1",
+                "4 3 2 1",
+                "1 2 3 4",
+                "1 3 2 4"
+            ],
+            "answer": "4 3 2 1",
+            "explanation": "(b)  CFL is a type of fluorescent lamp which contains mercury. Automobile battery contains toxic substance lead (Pb). Polymers contain toxic substance phthalates. Diesel engine emits the harmful nitrogen oxides by the internal combustion of fuel."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2010",
+            "cycle": "I",
+            "question": "Match List I with List II and select the correct answer using the codes given below the Lists.  List-I List-II (Alloy) (Constituent) A. Solder 1 Iron and carbon B. Brass 2 Copper and zinc C. Bronze 3 Copper and tin D. Steel 4 Lead and tin Code: A B C D A B C D",
+            "options": [
+                "1 2 3 4",
+                "4 2 3 1",
+                "1 3 2 4",
+                "4 3 2 1"
+            ],
+            "answer": "4 2 3 1",
+            "explanation": "(b)  (Alloy) (Constituent) Solder Lead and tin Brass Copper and zinc Bronze Copper and tin Steel Iron and carbon"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2010",
+            "cycle": "I",
+            "question": "The polymeric fibre used as a substitute for wool in making synthetic blankets, sweaters, etc., is",
+            "options": [
+                "nylon",
+                "teflon",
+                "orlon",
+                "bakelite"
+            ],
+            "answer": "orlon",
+            "explanation": "(c)  Polyacrylonitrile or orlon is used as a substitute for wool in making synthetic blankets, sweaters etc. It is a polymer of acrylonitrile or vinyl cyanide."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2010",
+            "cycle": "I",
+            "question": "The cleaning of dirty clothes by soaps and detergents is due to a type of molecules called surfactants, which are present in soaps and detergents. The surfactant molecules remove the dirt by",
+            "options": [
+                "making the cloth slippery",
+                "producing some gases between the dirt and the cloth",
+                "dissolving the dirt",
+                "forming some aggregates of themselves and take away the dirt in the core of the aggregates"
+            ],
+            "answer": "forming some aggregates of themselves and take away the dirt in the core of the aggregates",
+            "explanation": "(d)  The cleaning of dirty clothes by soaps and detergents is due to a type of molecules called surfactants. The surfactant molecules remove the dirt by forming some aggregates of themselves and take away the dirt in the core of aggregates. The spherical aggregate of surfactant molecules in water is called a micelle."
+        }
+    ]
+}

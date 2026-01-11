@@ -1,0 +1,130 @@
+{
+    "Biology 2011-II": [
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "II",
+            "question": "Polar bears are carnivores and prey on many arctic birds and fishes. However, under natural conditions, no one found polar bears predating any penguin. This is because",
+            "options": [
+                "penguins have chemical substance in their muscles which is toxic to polar bears",
+                "penguins are gregarious and always move in groups. Therefore, a polar bear cannot approach them",
+                "polar bears and penguins never coexist under natural conditions. The former lives in the North Pole while the latter lives in the South Pole",
+                "polar bears and penguins display symbiotic relationships  and  they  help  each  other  for  their existence in the ice-cold ecosystem"
+            ],
+            "answer": "polar bears and penguins never coexist under natural conditions. The former lives in the North Pole while the latter lives in the South Pole",
+            "explanation": "(c)  Polar bears and penguins live in different polar regions i.e. polar  bears live in the North Pole while the penguins live in Antarctica (the Southern  Hemisphere)."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "II",
+            "question": "To suspect HIV/AIDS in a young individual, which one among the following symptoms is mostly associated with?",
+            "options": [
+                "Long standing jaundice and chronic liver disease",
+                "Severe anaemia",
+                "Chronic diarrhoea",
+                "Severe persistent headache"
+            ],
+            "answer": "Severe persistent headache",
+            "explanation": "(d)  After 4-8 weeks of infection by HIV virus to a healthy individual, the acute phase of HIV infection begins. About 30-60% people develop symptoms like severe persistant headache with sore throat and mild fever etc."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "II",
+            "question": "Development of goitre (enlarged thyroid gland) is mainly due to deficiency of",
+            "options": [
+                "sodium",
+                "iodine",
+                "calcium",
+                "iron"
+            ],
+            "answer": "iodine",
+            "explanation": "(b)  The cause of goitre is normally due to lack of iodine. Iodine plays an important role in the synthesis of thyroxine hormone from thyroid gland."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "II",
+            "question": "Endosulfan, which has been in news these days, is",
+            "options": [
+                "a pesticide",
+                "a fertiliser",
+                "a sulpha drug",
+                "an antibiotic"
+            ],
+            "answer": "a pesticide",
+            "explanation": "(a)  Endosulfan is an organochlorine pesticide and acaricide which is used. Endosulfan became a highly controversial agrichemical due to large number of victims in kerala."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "II",
+            "question": "The anti-malarial drug quinine is made from a plant. The plant is",
+            "options": [
+                "neem",
+                "eucalyptus",
+                "cinnamon",
+                "cinchona 45 Biology"
+            ],
+            "answer": "cinchona 45 Biology",
+            "explanation": "(d)  The cinchona plant has antimalarial alkaloids cinchonidine and quinine. Quinine is obtained from the bark of this plant."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "II",
+            "question": "Cutting and peeling of onions brings tears to the eyes because of the presence of",
+            "options": [
+                "sulphur in the cell",
+                "carbon in the cell",
+                "fat in the cell",
+                "amino acid in the cell"
+            ],
+            "answer": "sulphur in the cell",
+            "explanation": "(a)  Cutting and peeling of onions bring tears to the eyes because of the presence of sulphur in the cell."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "II",
+            "question": "If we sprinkle common salt on an Earthworm, it dies due to",
+            "options": [
+                "osmotic shock",
+                "respiratory failure",
+                "toxic effect of salt",
+                "closure of pores of skin"
+            ],
+            "answer": "osmotic shock",
+            "explanation": "(a)  The sprinkled salt dissolves in the water present on the moist skin of Earthworm and makes concentrated solution. The body fluid, being hypotonic, diffuses out and the worm dies due to osmotic shock (water loss- dehydration)."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "II",
+            "question": "It has been observed that astronauts lose substantial quantity of calcium through urine during space flight. This is due to",
+            "options": [
+                "hyper gravity",
+                "microgravtty",
+                "intake of dehydrated food tablet",
+                "low temperature ip cosmos"
+            ],
+            "answer": "microgravtty",
+            "explanation": "(b)  Exposure to microgravity in the environment of space induces astronauts to lose calcium from bones. This loss takes place due to absence of ‘Earth gravity’ which disrupts the process of bone maintenance. The calcium is excreted out with urine."
+        },
+        {
+            "subject": "Biology",
+            "year": "2011",
+            "cycle": "II",
+            "question": "Which one among the following will be absorbed fastest through the wall of digestive system?",
+            "options": [
+                "Black coffee as a hot beverage",
+                "DDT taken as a poison",
+                "Raw alcohol taken as a drink",
+                "Ice-cream as a dessert"
+            ],
+            "answer": "Raw alcohol taken as a drink",
+            "explanation": "(c)  Raw alcohol after being drunk will be absorbed fastest through the wall of digestive tract. Alcohol is easily diffusible across the plasma membrance. It does not need any digestion before absorption in the alimentary canal. Therefore, its absorption begins from mouth, whereas the other substances are absorbed in the later parts of the alimentary canal."
+        }
+    ]
+}

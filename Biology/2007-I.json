@@ -1,0 +1,22 @@
+{
+    "Biology 2007-I": [
+        {
+            "subject": "Biology",
+            "year": "2007",
+            "cycle": "I",
+            "question": "Consider the following  Enzymes and protein can be correlated with each other in the following ways",
+            "options": [],
+            "answer": "b",
+            "explanation": "(b)  All enzymes are protein by composition but all proteins are not enzymes."
+        },
+        {
+            "subject": "Biology",
+            "year": "2007",
+            "cycle": "I",
+            "question": "Consider the following statements in respect of thyroid gland.",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  Thyroid gland is one of the largest endocrine glands which is present in the neck. It is responsible to control body’s metabolism, temperature, appetite and muscle strength, etc."
+        }
+    ]
+}

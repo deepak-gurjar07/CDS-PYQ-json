@@ -1,0 +1,209 @@
+{
+    "Chemistry 2007-II": [
+        {
+            "subject": "Chemistry",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Match List I with List II and select the correct answer using the codes given below the Lists.  List I List II (Mineral) (Industries in which largely used) A. Limestone 1 Cement B. Copper 2 Electrical goods C. Bauxite 3 Manufacture of aeroplanes D. Manganese 4 Steel Code: A B C D A B C D",
+            "options": [
+                "3 4 1 2",
+                "1 2 3 4",
+                "3 2 1 4",
+                "1 4 3 2"
+            ],
+            "answer": "1 2 3 4",
+            "explanation": "(b)  Limestone (CaCO3) is the main raw material used in the manufacture of cement. Copper is good conductor  of elecricity hence, it is used in electrical goods. Bauxite is an ore of Al. It is used in manufacture of aeroplanes. Manganese is used in steel industry to form manganese steel."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2007",
+            "cycle": "II",
+            "question": "The flavour of apple is mainly due to which one of the following?",
+            "options": [
+                "Formalin",
+                "Benzene",
+                "Ethanol",
+                "Benzaldehyde"
+            ],
+            "answer": "Ethanol",
+            "explanation": "(c)  The flavour of apples is mainly due to the ethanol (C2H5OH)."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Nail varnish remover generally contains which one of the following?",
+            "options": [
+                "Vinegar",
+                "Benzene",
+                "Methyl alcohol",
+                "Acetone"
+            ],
+            "answer": "Acetone",
+            "explanation": "(d)  Nail varnish remover generally contains acetone (CH3COCH3)."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2007",
+            "cycle": "II",
+            "question": "In which categories did Marie Curie win her two different Nobel prizes?",
+            "options": [
+                "Physics and Chemistry",
+                "Chemistry and Medicine",
+                "Physics and Medicine",
+                "Chemistry and Peace"
+            ],
+            "answer": "Physics and Chemistry",
+            "explanation": "(a)  Marie Curie win her two different Noble prizes in two different category i.e., Physics and Chemistry for the discovery of radium and polonium."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2007",
+            "cycle": "II",
+            "question": "'Freon' used as refrigerants is chemically known as",
+            "options": [
+                "chlorinated hydrocarbon",
+                "fluorinated hydrocarbon",
+                "chlorofluoro hydrocarbon",
+                "fluorinated aromatic compound"
+            ],
+            "answer": "chlorofluoro hydrocarbon",
+            "explanation": "(c)  Chlorofluoro carbon (CF2Cl2) is also known as freon. It is used as refrigerants in refrigerators and air conditions. It is also used as propellant in aerosols and foams."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2007",
+            "cycle": "II",
+            "question": "German silver is an alloy of",
+            "options": [
+                "gold and silver",
+                "copper and silver",
+                "copper, zinc and silver",
+                "copper, zinc and nickel"
+            ],
+            "answer": "copper, zinc and nickel",
+            "explanation": "(d)  German silver is an alloy of copper (25-50%), zinc (25-35%) and nickel (10-35%). It is used in utensils and resistance wire."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2007",
+            "cycle": "II",
+            "question": "The tracking of people by trained dogs is based on the recognisation of which of the following compounds in the sweat from feet?",
+            "options": [
+                "Carboxylic acids",
+                "Uric acid",
+                "Sugar",
+                "Salt"
+            ],
+            "answer": "Carboxylic acids",
+            "explanation": "(a)  The tracking of people by trained dogs is based on the recognisation of carboxylic acid in the sweat from feet."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Which of the following metals are present in haemoglobin and chlorophyll, respectively?",
+            "options": [
+                "Fe and Mg",
+                "Fe and Zn",
+                "Mg and Zn",
+                "Zn and Mg"
+            ],
+            "answer": "Fe and Mg",
+            "explanation": "(a)  Fe and Mg metals are present in haemoglobin and chlorophyll respectively."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Which one of the following is involved for desalination of sea water?",
+            "options": [
+                "Reverse osmosis",
+                "Simple osmosis",
+                "Use of sodium aluminium silicate as zeolite",
+                "Use of ion selective electrodes"
+            ],
+            "answer": "Reverse osmosis",
+            "explanation": "(a)  Reverse osmosis method is used to obtain pure water from water containing a salt or for desalination of sea water."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Which of the following isotopes of carbon is/are used in carbon dating?",
+            "options": [
+                "6C12 only",
+                "6C13 only",
+                "6C14 only",
+                "6C12 and 6C14"
+            ],
+            "answer": "6C14 only",
+            "explanation": "(c)  The isotope of carbon 6C14 is used in radio carbon dating."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2007",
+            "cycle": "II",
+            "question": "An a-particle consvists of which of the following?",
+            "options": [
+                "2 protons and 2 neutrons",
+                "1 proton and 1 electron",
+                "2 protons and 4 neutrons",
+                "1 proton and 1 neutron"
+            ],
+            "answer": "2 protons and 2 neutrons",
+            "explanation": "(a)  An a-particle is identical with helium nuclei. It consists of 2 protons and 2 neutrons and represented by 2He4."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Which one of the following substances is made from natural raw materials?",
+            "options": [
+                "Rayon",
+                "Nylon",
+                "Polyester",
+                "Polystyrene"
+            ],
+            "answer": "Rayon",
+            "explanation": "(a)  Rayon is made from naturally occuring cellulose. Rayon is also called artificial silk."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Which one of the following metals is less reactive than hydrogen?",
+            "options": [
+                "Barium",
+                "Copper",
+                "Lead",
+                "Magnesium"
+            ],
+            "answer": "Copper",
+            "explanation": "(b) Most reactive Least reactive C     H    added for comparison Reactivity Series of Metals In the reactivity series of metals, copper is placed below the hydrogen. Hence, it is less reactive than hydrogen. On the other hand barium, lead and magnesium are placed above the hydrogen hence, these are more reactive than hydrogen."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2007",
+            "cycle": "II",
+            "question": "Consider the following statements",
+            "options": [],
+            "answer": "c",
+            "explanation": "(c)  Nitric acid is used in the production of fertilizers. The principal chemical produced form nitric acids ammonium nitrate, sulphuric acid is used in the production of explosives like TNT, nitroglycerine, gun cotton,  etc."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2007",
+            "cycle": "II",
+            "question": "What is the purpose of adding baking soda to dough?",
+            "options": [
+                "To generate moisture",
+                "To give a good flavour",
+                "To give good colour",
+                "To generate carbon dioxide"
+            ],
+            "answer": "To generate carbon dioxide",
+            "explanation": "(d)  Baking soda has sodium bicarbonate as the chief constituent. It decomposes on heating giving carbon dioxide. This causes dough, cakes, biscuits etc. to expand and become light."
+        }
+    ]
+}

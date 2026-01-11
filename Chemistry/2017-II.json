@@ -1,0 +1,111 @@
+{
+    "Chemistry 2017-II": [
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "II",
+            "question": "Pearl is a hard object produced within the soft tissues of a mollusk. Which one of the following is the main constituent of pearl?",
+            "options": [
+                "Calcium carbonate",
+                "Calcium oxide",
+                "Calcium nitrate",
+                "Calcium sulphate"
+            ],
+            "answer": "Calcium carbonate",
+            "explanation": "(a) A pearl is a hard object produced within the soft tissue of a living shelled mollusk. Just like the shell of a mollusk, a pearl is composed of calcium carbonate (mainly aragonite or a mixture of aragonite and calcite) in minute crystalline form, which has been deposited in concentric layers. The ideal pearl is perfectly round and smooth, but many other shapes, known as baroque pearls, can occur."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "II",
+            "question": "An electron and a proton starting from rest are accelerated through a potential difference of 1000 V. Which one of the following statements in this regard is correct?",
+            "options": [
+                "The kinetic energy of both the particles will be different.",
+                "The speed of the electron will be higher than that of the proton.",
+                "The speed of the proton will be higher than that of the electron.",
+                "The speed of the electron and the proton will be equal."
+            ],
+            "answer": "The speed of the electron will be higher than that of the proton.",
+            "explanation": "(b) When accelerated from rest the energy is fully kinetic s o KE= charge*potential difference i.e 1/2 Mv2=Q.V From the above equation it is obvious that velocity of particle is inversely proportional to the mass of particle so, electron will gain more speed as it has lower mass than that of proton. Also, as the energy is fully kinetic so electron will have greater energy as a result of greater velocity."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "II",
+            "question": "In the reaction between hydrogen sulphate ion and water 2 4 2 3 4 HSO H O H O SO - + - + ® + the water acts as",
+            "options": [
+                "an acid",
+                "a base",
+                "a salt",
+                "an inert medium"
+            ],
+            "answer": "a base",
+            "explanation": "(b) A substance that accepts a proton is a base. In the above reaction, water is acting as a base."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "II",
+            "question": "The paste of a white material in water is used to maintain a fractured bone fixed in place. The white material used is called",
+            "options": [
+                "bleaching powder",
+                "plaster of Paris",
+                "powder of zinc oxide",
+                "lime powder"
+            ],
+            "answer": "plaster of Paris",
+            "explanation": "(b) Plaster of paris, quick-setting gypsum plaster consisting of a fine white powder (calcium sulfate hemihydrate), which hardens when moistened and allowed to dry. Known since ancient times, plaster of paris is so called because of its preparation from the abundant gypsum found near Paris."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "II",
+            "question": "An emulsion consists of",
+            "options": [
+                "one liquid and one solid",
+                "one liquid and one gas",
+                "two liquids",
+                "two solids"
+            ],
+            "answer": "two liquids",
+            "explanation": "(c)  An emulsion is a mixture of two or more liquids that are normally immiscible."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "II",
+            "question": "Which of the following radioactive substances enters/enter the human body through food chain and causes/cause many physiological disorders?",
+            "options": [
+                "Strontium-90",
+                "Iodine-131",
+                "Cesium-137",
+                "All of the above"
+            ],
+            "answer": "All of the above",
+            "explanation": "(d) Strontium-90, Iodine-131, Cesium-137 enters/enter the human body through food chain and causes/cause many physiological disorders"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "II",
+            "question": "Consider the following statements :",
+            "options": [],
+            "answer": "b",
+            "explanation": "(b)  In a nuclear reactor, the reaction is controlled, while in nuclear bombs, the reaction is uncontrolled. In a nuclear reactor, all operating reactors are ‘critical’, while there is no question of ‘critically’ in case of a nuclear bomb."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "II",
+            "question": "Tincture of iodine is an antiseptic for fresh wounds. It is a dilute solution of elemental iodine, which does not contain",
+            "options": [
+                "water",
+                "acetone",
+                "alcohol",
+                "potassium iodide"
+            ],
+            "answer": "acetone",
+            "explanation": "(b) Tincture of iodine, iodine tincture, or weak iodine solution is an antiseptic. It is usually 2–7% elemental iodine, along with potassium iodide or sodium iodide, dissolved in a mixture of ethanol and water. Tincture solutions are characterized by the presence of alcohol."
+        }
+    ]
+}

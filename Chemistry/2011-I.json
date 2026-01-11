@@ -1,0 +1,144 @@
+{
+    "Chemistry 2011-I": [
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "I",
+            "question": "When items or jewellery made of metals such as copper or nickel are placed in a solution having a salt of gold, a thin film of gold is deposited by",
+            "options": [
+                "cooling to below 0°C",
+                "heating above 100°C",
+                "passing an electric current",
+                "just keeping it for 10 min"
+            ],
+            "answer": "passing an electric current",
+            "explanation": "(c)  The process of depositing a thin layer of one metal over the surface of other metal by the process of electrolysis is known as electroplating. Hence,  when items or jewellery made of  metals such as copper or nickel are placed in a solution having a salt of gold, a thin film of gold is deposited by passing an electric current."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Heavy water implies",
+            "options": [
+                "water which is used in heavy industries such as thermal power plants",
+                "water which contains SO4 2- and CI– of calcium and magnesium",
+                "deuterated water",
+                "water which has maximum density"
+            ],
+            "answer": "deuterated water",
+            "explanation": "(c)  Heavy water or deuterium oxide (D2O) is an oxide of deuterium which is an isotope of hydrogen."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Which one among the following is a sin smelling agent added to LPG cylinder to help the detection of gas leakage?",
+            "options": [
+                "Ethanol",
+                "Thioethanol",
+                "Methane",
+                "Chloroform"
+            ],
+            "answer": "Thioethanol",
+            "explanation": "(b)  Ethyl mercaptan or thioethanol (C2H5SH) is added during filling of LPG cylinders. It is a strong smelling compound and help in the detection of gas leakage."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "I",
+            "question": "A body is charged negatively. It implies that",
+            "options": [
+                "it has lost some of its protons",
+                "it has acquired some electrons from outside",
+                "it has lost some of its electrons",
+                "None of the above"
+            ],
+            "answer": "it has acquired some electrons from outside",
+            "explanation": "(b)  Atoms are neutral. When an atom loses electron, it becomes positively charged and when an atom gains electron, it becomes negatively charged. Hence, a body is charged negatively when it has acquired some electrons from outside."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Which one among the following metals is used for making boats because it does not corrode by sea water?",
+            "options": [
+                "Tungsten",
+                "Nickel",
+                "Antimony",
+                "Titanium"
+            ],
+            "answer": "Titanium",
+            "explanation": "(d)  Titanium (Ti) metal is used for making boats because it does not corrode by the sea water."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Contact lenses are made from",
+            "options": [
+                "polyvinyl chloride",
+                "polystyrene",
+                "lucite",
+                "teflon"
+            ],
+            "answer": "lucite",
+            "explanation": "(c)  Contact lenses are made from lucite. It is a polymer of methyl methacrylate. The other names of lucite are plexiglass, acrylite and perspex."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Water is a good coolant and is used to cool the engines of cars, buses, trucks etc. It is because water has a",
+            "options": [
+                "high specific heat",
+                "low surface tension",
+                "high boiling point",
+                "teflon"
+            ],
+            "answer": "high specific heat",
+            "explanation": "(a)  Water has a high specific heat."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "I",
+            "question": "A close bottle containing water at room temperature was taken to the Moon and then the lid is opened. The water will",
+            "options": [
+                "freeze",
+                "boil",
+                "decompose into oxygen and hydrogen",
+                "not change at all"
+            ],
+            "answer": "freeze",
+            "explanation": "(a)  The water will freeze because on Moon the temperature is below the freezing point i.e., very low."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Which  one among  the  following substances evolves heat when dissolved in water?",
+            "options": [
+                "Potassium nitrate",
+                "Sodium chloride",
+                "Glucose",
+                "Calcium oxide"
+            ],
+            "answer": "Calcium oxide",
+            "explanation": "(d)  When calcium oxide or quicklime (CaO) is dissolved in water, calcium hydroxide or limewater is obtained and there is a release of heat. 2 2 Quick lime Lime water CaO H O Ca(OH) Heat + ® +"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2011",
+            "cycle": "I",
+            "question": "Which one among the following would expand the most on being heated.",
+            "options": [
+                "water",
+                "Alcohol",
+                "Glass",
+                "Air"
+            ],
+            "answer": "Air",
+            "explanation": "(d)  Air would expand the most on being heated."
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "Chemistry 2017-I": [
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "I",
+            "question": "Which one of the following is a physical change?",
+            "options": [
+                "Burning of coal",
+                "Burning of wood",
+                "Heating of a platinum crucible",
+                "Heating of potassium chlorate"
+            ],
+            "answer": "Heating of a platinum crucible",
+            "explanation": "(c)  Physical changes lead to change in the form of a substance, without any change in chemical composition. Coal is composed of carbon, oxygen, and hydrogen. Wood is composed of cellulose, hemicellulose and lignin. Burning of wood, coal and potassium chlorate leads to chemical reaction as their components are chemically active. Platinum being an inert element does not show chemical reaction and show only physical change such as rise in temperature."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "I",
+            "question": "The pH value of a sample of multiple-distilled water is",
+            "options": [
+                "zero",
+                "14",
+                "very near to zero",
+                "very near to seven 27 Chemistry"
+            ],
+            "answer": "very near to seven 27 Chemistry",
+            "explanation": "(d)  Multiple-distilled water is considered to be pure. pH of pure water is 7 as the number of hydroxyl ions and hydrogen ions in pure water is balanced. A strong acid completely ionizes when dissolved in water and provides hydrogen ions. Strong acid has pH of 0. Similarly, a strong base/alkali also ionizes completely in water and provides hydroxyl ions. Strong base has pH of 14. 175. (d) Atomic number, which equals to the number of protons in the nucleus of an atom, is the characteristic property of an element and determines its chemical properties and position in the periodic table. Mass number is the total number of protons and neutrons in the nucleus of an element. Density is the mass per unit volume of a substance. Boiling point is the temperature at which a substance boils. Chemistry 36"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "I",
+            "question": "Which one of the following is the most characteristic property of an element?",
+            "options": [
+                "Density",
+                "Boiling point",
+                "Mass number",
+                "Atomic number"
+            ],
+            "answer": "",
+            "explanation": ""
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "I",
+            "question": "There are two elements-calcium (atomic number 20) and argon (atomic number 18). The mass number of both the elements is 40. They are therefore known as",
+            "options": [
+                "isotones",
+                "isochores",
+                "isobars",
+                "isotopes"
+            ],
+            "answer": "isobars",
+            "explanation": "(c)  Calcium and argon are isobars because they have same atomic mass. Two elements with same neutron number, but different proton number are called isotones. Each of two or more forms of the same element with equal numbers of protons but different numbers of neutrons is called isotope. Isochore is the graphic representation showing lines or surface of constant volume of a physical system."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "I",
+            "question": "'Plum Pudding Model' for an atom was proposed by",
+            "options": [
+                "Antoine Lavoisier",
+                "Robert Boyle",
+                "Ernest Rutherford",
+                "J. J. Thomson"
+            ],
+            "answer": "J. J. Thomson",
+            "explanation": "(d)  ‘Plum Pudding Model,’ the scientific model of atom was proposed by J. J. Thomson in which he said that an atom is made up of electrons surrounded by positive charge to balance the negative charges of electrons. Negatively charged electrons are called ‘plums’ surrounded by positively charged particles ‘pudding.’"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "I",
+            "question": "What is the number of atoms in 46 g of sodium-23 [N = Avogadro constant)?",
+            "options": [
+                "N/2",
+                "N",
+                "2N",
+                "23N"
+            ],
+            "answer": "2N",
+            "explanation": "(c)  Atomic mass of Sodium = 23 gram = 1 mole of Sodium No. of moles in 46 grams of Sodium = 2; 1 Avogadro’s Number (N) = 1 mole of substance Therefore, 2 moles of Sodium = 2N"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "I",
+            "question": "What is the maximum number of states of matter?",
+            "options": [
+                "Three",
+                "Four",
+                "Five",
+                "Variable"
+            ],
+            "answer": "Five",
+            "explanation": "(c)  States of matter can be defined as the forms a substance can occur, and are of five types: solid, liquid, gas, plasma and Bose-Einstein condensates (BEC). Each form differs from the other mainly in structures and densities. Plasma are highly charged particles with high kinetic energy. BEC is a state of matter of a dilute gas of bosons cooled close to absolute zero."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2017",
+            "cycle": "I",
+            "question": "The molecular mass of sulphuric acid is 98. If 49 g of the acid is dissolved in water to make one litre of solution, what will be the strength of the acid?",
+            "options": [
+                "Two normal",
+                "One normal",
+                "0.5  normal",
+                "Four normal"
+            ],
+            "answer": "One normal",
+            "explanation": "(b)  Normality is a way of expressing concentration of a solution and can be calculated by the formula Normality (N) = No. of gram equivalent of solute/volume of solution (in liter) Gram equivalent weight of H2SO4 = Molecular weight/ No. of Hydrogen atom = 98/2 = 49 gm No. of gram equivalent in 49 gm of H2SO4 = 1 So, Normality in 1 liter of solution = 1/1 = 1 N"
+        }
+    ]
+}

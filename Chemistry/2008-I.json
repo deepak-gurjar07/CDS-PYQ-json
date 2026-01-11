@@ -1,0 +1,60 @@
+{
+    "Chemistry 2008-I": [
+        {
+            "subject": "Chemistry",
+            "year": "2008",
+            "cycle": "I",
+            "question": "As which one of the following, does carbon occur in its purest form in nature?",
+            "options": [
+                "Carbon black",
+                "Graphite",
+                "Diamond",
+                "Coal"
+            ],
+            "answer": "Carbon black",
+            "explanation": "(a)  Carbon occurs in its purest form of carbon black in nature."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2008",
+            "cycle": "I",
+            "question": "What is the Jeweller's rouge?",
+            "options": [
+                "Ferric oxide",
+                "Ferrous oxide",
+                "Ferrous carbonate",
+                "Ferric carbonate"
+            ],
+            "answer": "Ferric oxide",
+            "explanation": "(a)  A very fine powder of ferric oxide is known as \"jeweler's rouge\", \"red rouge\", or simply rouge. It is used to put the final polish on metallic jewellery and lenses, and historically as a cosmetic."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2008",
+            "cycle": "I",
+            "question": "'Misch metal' is widely used in the manufacture of which of the following?",
+            "options": [
+                "Material of car brake",
+                "Smoke detectors",
+                "Cigarette lighters",
+                "Emergency lights"
+            ],
+            "answer": "Cigarette lighters",
+            "explanation": "(c)  'Misch metal' alloyed with iron is used in the cigarettes lighters. Misch metal is an alloy of cerium (50%), lanthanum (25%), neodymium (18%), praseodymium (5%) and other rare metals."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2008",
+            "cycle": "I",
+            "question": "What is the pH value of pure water?",
+            "options": [
+                "1",
+                "6",
+                "7",
+                "10 19 Chemistry"
+            ],
+            "answer": "7",
+            "explanation": "(c)  Pure water is neutral in nature hence, the pH value of pure water is 7. 20. (b) Diamond is an element. It is an allotrope of carbon. While ruby, topaz and sapphire are minerals (i.e., compounds). These are the valuable gemstones."
+        }
+    ]
+}

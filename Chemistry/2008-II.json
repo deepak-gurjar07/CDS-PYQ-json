@@ -1,0 +1,144 @@
+{
+    "Chemistry 2008-II": [
+        {
+            "subject": "Chemistry",
+            "year": "2008",
+            "cycle": "II",
+            "question": "Which one of the following substances is used in the manufacture of safety matches?",
+            "options": [
+                "Red phosphorus",
+                "White phosphorus",
+                "Phosphorus trioxide (P203)",
+                "Black phosphorus"
+            ],
+            "answer": "Red phosphorus",
+            "explanation": "(a)  Red phosphorus is mostly used in the manufacture of safety matches."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2008",
+            "cycle": "II",
+            "question": "Which one of the following is correct? Butter is",
+            "options": [
+                "a supercooled oil",
+                "an emulsion",
+                "a molecular solid",
+                "None of these"
+            ],
+            "answer": "None of these",
+            "explanation": "(d)  Butter is an example of a colloidal dispersion of a liquid in a solid i.e., gel."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2008",
+            "cycle": "II",
+            "question": "Which one of the following is the softest?",
+            "options": [
+                "Sodium",
+                "Aluminium",
+                "Iron",
+                "Copper"
+            ],
+            "answer": "Sodium",
+            "explanation": "(a)  Alkali metals such as lithium, sodium and potassium are soft metals. These can be easily cut with a knife."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2008",
+            "cycle": "II",
+            "question": "Which one of the following properties changes with valency?",
+            "options": [
+                "Atomic weight",
+                "Equivalent weight",
+                "Molecular weight",
+                "Density"
+            ],
+            "answer": "Equivalent weight",
+            "explanation": "(b)  Only equivalent weight changes with valency. Atomic weight, molecular weight and density does not change with valency. Atomicweight Equivalent weight of the element = Valency"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2008",
+            "cycle": "II",
+            "question": "Which of the following has maximum density?",
+            "options": [
+                "Chloroform",
+                "Water",
+                "Benzene",
+                "Ice"
+            ],
+            "answer": "Water",
+            "explanation": "(b)  Water has the maximum density among these because chloroform, benzene and ice float on water."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2008",
+            "cycle": "II",
+            "question": "Which one of the following is used in the preparation of antiseptic solution?",
+            "options": [
+                "Potassium nitrate",
+                "Iodine",
+                "Iodine chloride",
+                "Potassium chloride"
+            ],
+            "answer": "Iodine",
+            "explanation": "(b)  Iodine is a powerful antiseptic. It is used as a tincture of iodine which is 2-3% iodine solution in alcohol-water."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2008",
+            "cycle": "II",
+            "question": "Which one of the following is not a chemical change?",
+            "options": [
+                "Burning of coal in air",
+                "Fermentation of sugar cane juice",
+                "Crystallisation of table salt from sea water",
+                "Cracking of petroleum"
+            ],
+            "answer": "Crystallisation of table salt from sea water",
+            "explanation": "(c)  A chemical change a new substance is formed. During crystallisation of table salt from sea water no new substance is formed hence, it is not a chemical change."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2008",
+            "cycle": "II",
+            "question": "Statement I :  Addition of water to an aqueous solution of HC1 decreases the pH.  Statement II : Addition of water suppresses the ionisation of HC1.",
+            "options": [
+                "Both the statements are individually true and Statement II is the correct explanation of Statement I",
+                "Both the statements are individually true but Statement II is not the correct explanation of Statement I",
+                "Statement I is true, but Statement II is false",
+                "Statement I is false, but Statement II is true"
+            ],
+            "answer": "Statement I is true, but Statement II is false",
+            "explanation": "(c)  Addition of water to an aqueous solution of HCl decreases the pH because on dilution the number of H+ ions (from water) increases. Now since [H+] = 10–pH \\ As [H+] increases pH decreases."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2008",
+            "cycle": "II",
+            "question": "Which one of the following is the secondary source of light in a fluorescent lamp?",
+            "options": [
+                "Neon gas",
+                "Argon gas",
+                "Mercury vapour",
+                "Fluorescent coating"
+            ],
+            "answer": "Fluorescent coating",
+            "explanation": "(d)  Fluorescent coating on the glass is the secondary source of light in a fluorescent lamp."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2008",
+            "cycle": "II",
+            "question": "Which one of the following is correct? Setting of plaster of Paris is",
+            "options": [
+                "dehydration",
+                "oxidation with atmospheric oxygen",
+                "hydration leading to another hydrate",
+                "combination with atmospheric C02"
+            ],
+            "answer": "hydration leading to another hydrate",
+            "explanation": "(c)  Setting of plaster of Paris is the hydration leading to another hydrate i.e., gypsum. 1 1 CaSO . H O 1 H O CaSO 2H O 2 2 + ¾¾¾¾® × Setting 4 2 2 4 2 Gypsum Plasterof Paris 31 Chemistry"
+        }
+    ]
+}

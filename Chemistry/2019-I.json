@@ -1,0 +1,113 @@
+{
+    "Chemistry 2019-I": [
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "I",
+            "question": "Match List-I with List-II and select the correct answer using the code given below the Lists:  List-I List-II (Compound/Molecule) (Shape of Molecule)",
+            "options": [
+                "CH3F"
+            ],
+            "answer": "b",
+            "explanation": "(b) "
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "I",
+            "question": "Very small insoluble particles in a liquid may be separated from it by using",
+            "options": [
+                "crystallization",
+                "fractional distillation",
+                "centrifugation",
+                "decantation"
+            ],
+            "answer": "decantation",
+            "explanation": "(d)  Decantation is a process of separation of insoluble solids from liquid. The suspension of solid particles in liquid is allowed to stand for some time. The solid particles then settle down at the bottom of the container and clean water goes up."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "I",
+            "question": "Which one of the following elements cannot be detected by “Lassaigne’s test”?",
+            "options": [
+                "I",
+                "CI",
+                "S",
+                "F"
+            ],
+            "answer": "F",
+            "explanation": "(d)  Fluorine does not give Lassaigne›s test because it does not form Precipitate like other halogens (chlorine, Bromine, Iodine)."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "I",
+            "question": "In which of the following functional group isomerism is not possible?",
+            "options": [
+                "Alcohols",
+                "Aldehydes",
+                "Alkyl halides",
+                "Cyanides"
+            ],
+            "answer": "Alkyl halides",
+            "explanation": "(c)  Alkyl halides do not show functional isomerism. Alcohols and ethers; aldehydes and ketones; cyanides and isocyanides are functional isomers. It is because there's only one way to attach a halogen to a carbon chain: via one single bond. Halogens can't form more than one bond in the context of common organic compounds, and can't form multiple bonds to carbon."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "I",
+            "question": "Which one of the following statements is not correct?",
+            "options": [
+                "Fishcher projection represents the molecule in an eclipsed conformation.",
+                "Newman projection can be represented in aneclipsed, staggered and skew conformations.",
+                "Fischer projection of the molecule is its most stable conformation.",
+                "In Sawhorse projections, the lines are inclined at an angle of 120° to each other."
+            ],
+            "answer": "Fischer projection of the molecule is its most stable conformation.",
+            "explanation": "(c)  The most stable conformation of a molecule is in the form of a Newman Projection."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "I",
+            "question": "The monomer / monomers used for the synthesis of Nylon 6 is / are",
+            "options": [
+                "hexamethylenediamine and adipic acid",
+                "caprolactam",
+                "urea and formaldehyde",
+                "phenol and formaldehyde 29 Chemistry"
+            ],
+            "answer": "caprolactam",
+            "explanation": "(b)  Nylon 6 is made from only one kind of monomer, called caprolactam."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "I",
+            "question": "Two identical solid pieces, one of gold and other of silver, when immersed completely in water exhibit equal weights. When weighed in air (given that density of gold is greater than that of silver)",
+            "options": [
+                "the gold piece will weigh more",
+                "the silver piece will weigh more",
+                "both silver and gold pieces weigh equal",
+                "weighing will depend on their masses"
+            ],
+            "answer": "the silver piece will weigh more",
+            "explanation": "(b)  When the two materials were in the water, the less dense material (silver) occupies a greater volume than the more dense gold. So, it has more up thrust from the water and, although they both show the same weight under water, there is more mass of silver present. Hence, out of the water then, the silver would weigh more than the gold."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2019",
+            "cycle": "I",
+            "question": "The PCl5 molecule has trigonal bipyramidal structure. Therefore, the hybridization of p orbitals should be",
+            "options": [
+                "sp2",
+                "sp3",
+                "dsp2",
+                "dsp3"
+            ],
+            "answer": "dsp3",
+            "explanation": "(d) "
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "Chemistry 2018-I": [
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "I",
+            "question": "Which one of the following gases dissolves in water to give acidic solution?",
+            "options": [
+                "Carbon dioxide",
+                "Oxygen",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "answer": "Carbon dioxide",
+            "explanation": "(a) Carbon dioxide (CO2) gas dissolved in water can cause water to become acidic. CO2 + H2O ® H2CO3 (Carbonic acid)"
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "I",
+            "question": "Consider the following chemical reaction :  ( ) ( ) ( ) 2 3 2 aFe O s bCO g cFe s dCO + ® + In the balanced chemical equation of the above, which of the following will be the values of the coefficients a, b, c and d respectively?",
+            "options": [
+                "3, 2, 3, 1",
+                "1, 3, 2, 3",
+                "2, 3, 3, 1",
+                "3, 3, 2, 1"
+            ],
+            "answer": "1, 3, 2, 3",
+            "explanation": "(b) It is a double replacement reaction. Fe2O3(s)  + 3 CO(g) = 2 Fe(l) + 3 CO2(g)."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "I",
+            "question": "Bright light is found to emit from photographer’s flashgun. This brightness is due to the presence of which one of the following noble gases?",
+            "options": [
+                "Argon",
+                "Xenon",
+                "Neon",
+                "Helium"
+            ],
+            "answer": "Xenon",
+            "explanation": "(b) Xenon is used in fluorescent bulbs, flash bulbs and lasers. Xenon emits an instant, intense light when present in discharge tubes. This property of xenon is utilized in high-speed electronic flash bulbs used by photographers."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "I",
+            "question": "Which one of the following is not a characteristic of a compound?",
+            "options": [
+                "Composition is variable.",
+                "All particles of compound are of only one type.",
+                "Particles of compound have two or more elements.",
+                "Its constituents cannot be separated by simple physical methods. Chemistry 28"
+            ],
+            "answer": "All particles of compound are of only one type.",
+            "explanation": "(b)  A compound is a substance that results from a combination of two or more different chemical element s, in such a way that the atoms of the different elements are held together by chemical bonds that are difficult to break."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "I",
+            "question": "Which of the following substances cause temporary hardness in water?",
+            "options": [],
+            "answer": "d",
+            "explanation": "(d)  Temporary hardness is due to the presence of calcium hydrogencarbonate Ca(HCO3)2(aq) and magnesium hydrogencarbonate Mg(HCO3)2(aq). Both calcium hydrogencarbonate and magnesium hydrogen carbonate decompose when heated. The original insoluble carbonate is reformed. This happens when water is boiled."
+        },
+        {
+            "subject": "Chemistry",
+            "year": "2018",
+            "cycle": "I",
+            "question": "Which one of the following elements will be an isobar of calcium if the atomic number of calcium is 20 and its mass number is 40?",
+            "options": [
+                "Element with 20 protons and 18 neutrons",
+                "Element with 18 protons and 19 neutrons",
+                "Element with 20 protons and 19 neutrons",
+                "Element with 18 protons and 22 neutrons"
+            ],
+            "answer": "Element with 18 protons and 22 neutrons",
+            "explanation": "(d) Element with 18 protons and 22 neutrons will be the isobar of calcium if the atomic number of calcium is 2 0 and its mass number is 40. 197. (b) When Magnesium carbonate (MgCO3) reacts with Hydrochloric acid (HCl), the products will be Magnesium Chloride (Mgcl2) and Carbonic acid. (H2CO3). Since H2CO3 is unstable in the troposphere ( the lowest part of atmosphere where we are living right now) and lower stratosphere in gas-phase, it will decompose into H2O and CO2. When this reaction occurred, you can see some gas bubble (CO2) formed in it."
+        }
+    ]
+}

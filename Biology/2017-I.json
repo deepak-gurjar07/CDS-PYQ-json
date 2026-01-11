@@ -1,0 +1,116 @@
+{
+    "Biology 2017-I": [
+        {
+            "subject": "Biology",
+            "year": "2017",
+            "cycle": "I",
+            "question": "Polynucleotide chain of DNA contains",
+            "options": [
+                "a nitrogenous base, deoxyribose sugar and phosphate group",
+                "a nitrogenous base, ribose sugar and phosphate group",
+                "deoxyribose sugar, ribose sugar and phosphate group",
+                "a nitrogenous base and phosphate group only"
+            ],
+            "answer": "a nitrogenous base, deoxyribose sugar and phosphate group",
+            "explanation": "(a) DNA is made up of many nucleotides joining together, called polynucleotide chain of DNA. Each polynucleotide is made up of three components: (i) nitrogenous base [such as adenine (A), guanine (G), cytocine (C) and thymine (T)], (ii) deoxyribose sugar, and (iii) phosphate group."
+        },
+        {
+            "subject": "Biology",
+            "year": "2017",
+            "cycle": "I",
+            "question": "The process of copying genetic information from one strand of DNA into RNA is termed as",
+            "options": [
+                "translation",
+                "transcription",
+                "replication",
+                "mutation"
+            ],
+            "answer": "transcription",
+            "explanation": "(b)  The process by which the genetic information in a strand of DNA is copied into a new molecule of messenger RNA (mRNA) is termed as transcription. It is carried out by an enzyme called RNA polymerase and a number of accessory proteins called transcription factors."
+        },
+        {
+            "subject": "Biology",
+            "year": "2017",
+            "cycle": "I",
+            "question": "In human body, the cell growth and differentiation are highly controlled and regulated, but in cancer cells",
+            "options": [
+                "there is breakdown of these regulatory mechanisms leading to formation of benign and malignant tumors",
+                "controlled cell division and over- production of genetic material occur",
+                "RNA is mutated and produced in less amount",
+                "DNA is mutated and produced in less amount"
+            ],
+            "answer": "there is breakdown of these regulatory mechanisms leading to formation of benign and malignant tumors",
+            "explanation": "(a)  In cancer, there is unwanted cell proliferation leading to uncontrolled cell division. Some cancers may spread into other tissues. Mutation is the main cause of cancer at genetic level. Mutation causing agents are called carcinogens, such as UV radiation, tobacco and tobacco smoke, pesticides, etc."
+        },
+        {
+            "subject": "Biology",
+            "year": "2017",
+            "cycle": "I",
+            "question": "Most viruses that infect plants possess",
+            "options": [
+                "single-stranded DNA",
+                "single-stranded RNA",
+                "double-stranded DNA and RNA",
+                "double-stranded RNA only"
+            ],
+            "answer": "single-stranded RNA",
+            "explanation": "(b)  In general, plant viruses have single-stranded RNA. Animal viruses have either single or double-stranded RNA or double-stranded DNA. Bacterial viruses usually have double stranded DNA."
+        },
+        {
+            "subject": "Biology",
+            "year": "2017",
+            "cycle": "I",
+            "question": "Syngamy results in formation of",
+            "options": [
+                "haploid zygote",
+                "diploid zygote",
+                "motile male gametes",
+                "non-motile male gametes"
+            ],
+            "answer": "diploid zygote",
+            "explanation": "(b)  Syngamy is the process of fusion of two cells or their nucleus during reproduction. More particularly, it can be said that syngamy is fusion of one male gamete with egg cell and leads to formation of diploid zygote."
+        },
+        {
+            "subject": "Biology",
+            "year": "2017",
+            "cycle": "I",
+            "question": "Bleeding of gums, falling of teeth, fragile bones and delayed wound healing occur due to the deficiency of which one of the following vitamins?",
+            "options": [
+                "Vitamin C",
+                "Vitamin K",
+                "Vitamin D",
+                "Vitamin B"
+            ],
+            "answer": "Vitamin C",
+            "explanation": "(a)  Vitamin C is needed to produce skin, tendons, ligaments, and blood vessel. It is also needed in repair of bones and teeth. Deficiency of vitamin C results in bleeding of gums, falling of teeth, weak bones and delay in wound healing."
+        },
+        {
+            "subject": "Biology",
+            "year": "2017",
+            "cycle": "I",
+            "question": "The mammalian heart is myogenic and it is regulated by nerves. The heartbeat originates from",
+            "options": [
+                "sinoatrial node",
+                "QRS wave",
+                "T wave",
+                "hepatic portal system"
+            ],
+            "answer": "sinoatrial node",
+            "explanation": "(a)  Heart beat originates from sinoatrial node, a group of cells situated in the upper part of the right atrium wall. The electrical impulses causing the heart beat are generated in sinoatrial node. Hepatic portal system comprises hepatic portal vein and veinlets. T wave depicts repolarization of heart ventricles. QRS wave are three waves seen on a electrocardiogram."
+        },
+        {
+            "subject": "Biology",
+            "year": "2017",
+            "cycle": "I",
+            "question": "The plant growth regulators are small, simple molecules of diverse chemical composition. They are",
+            "options": [
+                "carbohydrates, fats and proteins",
+                "indole compounds, adenine derivatives, carotenoids and terpenes",
+                "fatty acids, glucose and vitamins",
+                "vitamin C, vitamin D and glucose"
+            ],
+            "answer": "indole compounds, adenine derivatives, carotenoids and terpenes",
+            "explanation": "(b)  Plant growth regulators or plant hormones (phytohormones) are chemicals that control plant growth, e.g. auxins, gibberellins, cytokinins, abscisic acid and ethylene. Auxin is composed of indole-3-acetic acid. Cytokinins are derivatives of the nitrogenous purine base adenine. Some plant hormones are also composed of derivatives of carotenoids and terpenes."
+        }
+    ]
+}
